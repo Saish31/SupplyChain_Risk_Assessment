@@ -24,11 +24,11 @@ The full analysis and model training were conducted in Google Colab using the fi
   
 ✅ Step 2: Model Training  
 - Built Random Forest Regressors for each of the 4 target KPIs  
--Trained only using:  
-  -On_Time_Delivery_Rate  
-  -Financial_Stability_Score  
-  -Severity (encoded)  
--Evaluated using RMSE and R² score  
+- Trained only using:  
+  - On_Time_Delivery_Rate  
+  - Financial_Stability_Score  
+  - Severity (encoded)  
+- Evaluated using RMSE and R² score  
   
 ✅ Step 3: Explainability  
 - Used SHAP (SHapley Additive exPlanations) to interpret model outputs  
