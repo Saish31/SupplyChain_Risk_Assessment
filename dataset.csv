@@ -1,0 +1,1001 @@
+Supplier_ID,Supplier_Name,Region,Industry,On_Time_Delivery_Rate,Financial_Stability_Score,Disruption_Type,Severity,Time_To_Recovery_Days,Disruption_Cost_USD,Insurance_Coverage_Percentage,Penalty_Cost_USD,Compensation_Paid_USD
+f2eb45c7-864a-43e8-a4fb-e6ca7fad2149,Brooks-Watson,Sweden,Food & Beverage,87.67,99,Raw Material Shortage,Low,7,23918.64,75.04,2451.31,5970.09
+f6562957-12fc-43f2-94b6-ab8cfaaf9d09,Knight-Dyer,Hong Kong,Pharmaceuticals,87.82,12,Port Congestion,Low,12,24581.79,88.45,2242.07,2839.2
+a337eb0b-e082-461f-b51e-8ad999a727d8,"Jacobson, Garcia and French",Rwanda,Electronics,93.34,12,Logistics Delay,Low,25,33468.14,71.56,4910.74,9518.34
+33bddabf-a9b5-4ded-8694-ca4a0e0f47e9,Moore Ltd,Guam,Food & Beverage,65.17,79,Port Congestion,Low,24,42019.18,84.95,5144.62,6323.89
+51764fa3-d229-4dc1-a33f-1fcc92621e0f,"Pope, Reyes and Guerra",Trinidad and Tobago,Retail,91.8,31,Cyber Attack,High,162,2872833.04,68.88,446598.66,894025.64
+12382adb-1efc-4422-a8d4-c7dbaef11074,"Moore, Gomez and Johnson",Guam,Food & Beverage,81.01,12,Logistics Delay,Low,26,10574.66,86.16,1656.82,1463.53
+e6a4c4b6-6869-4bee-926f-bf125e1c09aa,"Spence, Bryant and King",Equatorial Guinea,Automotive,83.31,45,Cyber Attack,Low,14,37916.25,86.76,5578.5,5020.11
+0e7257a6-5f5b-42f9-8f44-bc4cb1cdb19e,White LLC,Belgium,Electronics,84.88,88,Cyber Attack,Medium,160,461192.63,76.57,62746.24,108057.43
+df615347-29be-49a1-8ef9-765a68f81938,Brown Ltd,United Arab Emirates,Pharmaceuticals,98.82,84,Regulatory Issue,Low,20,39185.77,66.64,6811.47,13072.37
+dac5d547-a40a-4ef7-b6ed-34641cb6af9b,Fox-Smith,Netherlands Antilles,Automotive,89.63,13,Port Congestion,Low,21,16833.3,59.48,2718.16,6820.85
+bfb47eda-43ec-42b2-a739-eb15aa49bd8a,"James, Garcia and Tucker",Belarus,Food & Beverage,76.88,31,Port Congestion,Low,29,32517.62,85.96,3227.06,4565.47
+a671d8b0-0516-4621-9ba4-602e1a09ec56,Brock Ltd,Northern Mariana Islands,Retail,60.39,74,Labor Strike,Low,24,43920.34,57.79,3525.51,18538.78
+5d83d997-bf9c-482a-9bf5-397e775726be,Thompson-Mcneil,Belarus,Pharmaceuticals,79.95,13,Logistics Delay,Low,26,14111.65,68.55,2363.83,4438.11
+baf2ace8-481d-4799-9984-763cb7cba786,Livingston Inc,Costa Rica,Pharmaceuticals,64.53,48,Supplier Bankruptcy,High,30,1242284.44,54.21,158921.58,568842.05
+774554fa-fe8e-4645-8c5c-554c5573abd4,Lee-Harrison,Saudi Arabia,Retail,83.04,32,Logistics Delay,High,57,1025313.03,94.28,92330.28,58647.91
+afd7fdbd-c4db-43a1-b9e7-40e249e85929,Sparks-Powell,United Kingdom,Food & Beverage,73.37,2,Logistics Delay,High,107,561025.78,57.31,49924.38,239501.91
+59e28067-c718-4256-af0b-de54d8af8a00,Reed-Wilson,Switzerland,Electronics,80.31,90,Supplier Bankruptcy,Low,14,10150.93,75.28,1934.68,2509.31
+8740d48d-ad00-4c31-8203-451468f03aa3,Park and Sons,Malta,Retail,62.62,43,Natural Disaster,Low,22,39121.7,54.17,3772.21,17929.48
+a8220c30-4d11-452a-b5a5-0ecd4fa61f92,Goodwin-Williams,Gibraltar,Pharmaceuticals,66.57,99,Supplier Bankruptcy,High,117,4944769.64,80.23,960493.12,977580.96
+6506ea8d-73e3-4e52-a061-e372ca2eaf3c,"Perez, Dennis and Moon",Vietnam,Food & Beverage,73.76,37,Regulatory Issue,Low,27,11469.5,50.25,1783.67,5706.08
+a1b01ca1-935f-437a-bc14-4213753046c9,Lowe Group,Cyprus,Pharmaceuticals,73.99,90,Labor Strike,Low,1,28741.56,57.45,2479.11,12229.53
+6248251b-21da-4fae-bce0-fa328dd4ec65,Hunt Ltd,Cameroon,Retail,76.07,40,Logistics Delay,High,135,591149.6,50.38,41880.98,293328.43
+0ae2ad98-f86e-4f40-9356-9ce38374bf09,"Park, Solis and Garcia",Tuvalu,Automotive,91.24,51,Cyber Attack,High,58,1058140.24,92.3,152197.55,81476.8
+70a22057-b6c5-4ad4-9f4a-91a05d785bb9,Hobbs-Ramos,Montenegro,Electronics,77.19,86,Regulatory Issue,Low,9,22970.0,90.87,3338.66,2097.16
+33af7af5-949c-4bb7-a6dc-2311e4994b4c,"Jones, Farmer and Patel",Nigeria,Automotive,77.91,77,Logistics Delay,Low,18,23369.57,51.15,4024.86,11416.03
+edae1dad-ff68-45a1-8276-8d0500f2ffad,"Rodgers, Gray and Matthews",Uzbekistan,Pharmaceuticals,73.2,6,Regulatory Issue,High,12,4076166.13,63.94,321495.03,1469865.51
+cb91bac8-ae36-4170-9f68-9bdab6f72176,Vazquez LLC,Yemen,Pharmaceuticals,77.29,89,Raw Material Shortage,High,46,2319820.97,91.12,133807.28,206000.1
+85d14bdd-e346-4c50-859d-7554042a4fc3,White-Collins,Kuwait,Food & Beverage,94.29,6,Regulatory Issue,Medium,92,80688.5,62.68,15524.37,30112.95
+46d50c6b-7a32-4800-9cef-4f7cea70e183,"Navarro, Jordan and Cook",Gambia,Retail,63.8,74,Supplier Bankruptcy,Low,25,39265.46,95.39,4171.86,1810.14
+0f566905-2fad-46fa-88e7-19794395a5c6,Buchanan LLC,Uruguay,Electronics,66.45,97,Labor Strike,High,130,2610142.63,64.24,175621.56,933387.0
+d8cf914e-1a7c-40b5-ac28-e94dbf018210,Garcia LLC,Chad,Automotive,70.34,61,Raw Material Shortage,Low,24,37428.9,51.11,4974.87,18298.99
+5311fcce-1e2e-4f2a-b132-62433d75638f,Franco and Sons,New Caledonia,Pharmaceuticals,63.17,51,Supplier Bankruptcy,Medium,104,405826.29,77.08,26016.49,93015.39
+167e2aa0-307b-4eab-82d9-017d4dabf120,"Waller, Gregory and Hansen",Philippines,Electronics,97.91,83,Labor Strike,Medium,46,457354.04,63.55,35919.53,166705.55
+b4ad53fb-f547-4b20-b479-40292675fa5a,Simmons LLC,Macao,Retail,98.82,74,Port Congestion,Low,20,42730.49,56.57,7352.71,18557.85
+67a3ae24-f840-489e-be94-59d2ddf7e7a0,Dixon Group,Wallis and Futuna,Food & Beverage,63.99,82,Natural Disaster,Low,24,46207.7,92.17,8571.81,3618.06
+954abb46-aebb-4e51-83f6-d1aa3bad551e,Dean Ltd,Antigua and Barbuda,Retail,65.61,27,Supplier Bankruptcy,Medium,124,215993.08,88.1,39479.26,25703.18
+c0919ba1-164c-46dd-93c8-670933491b89,Kelley and Sons,Myanmar,Automotive,60.78,89,Port Congestion,Low,2,18236.04,68.69,1908.65,5709.7
+75a35295-80fb-40d6-82f8-b568515c0d2a,Medina-Anderson,Solomon Islands,Automotive,87.58,63,Logistics Delay,Low,6,29916.24,69.59,3855.22,9097.53
+ade223e7-6df7-4148-8675-1c6d71f42ba7,"Gallegos, Hendricks and Cline",French Polynesia,Retail,75.67,44,Labor Strike,Medium,178,332395.78,60.4,64787.2,131628.73
+2823ff02-8d6a-4456-8a9b-517e73202090,Cervantes Inc,Dominica,Food & Beverage,63.16,78,Logistics Delay,High,130,3799660.08,70.5,575197.16,1120899.72
+a59bd70b-3980-4678-8f86-02ad21931b13,Cook-Morgan,Honduras,Food & Beverage,69.81,82,Logistics Delay,Medium,9,246194.43,73.38,32404.39,65536.96
+b7ec59a8-8090-415c-ab68-ed7dcc843b74,Walton-Stephenson,Gibraltar,Food & Beverage,86.09,39,Raw Material Shortage,Low,15,36370.31,89.5,6289.88,3818.88
+aa427403-75f8-44fa-8bed-b71938a784dd,Pennington LLC,United States of America,Electronics,80.1,80,Labor Strike,Low,13,10103.55,62.87,1332.15,3751.45
+7516c6c7-601f-4a70-9770-f87c72007009,"Fleming, Cortez and Flores",Guernsey,Food & Beverage,79.67,3,Port Congestion,Medium,179,205199.79,70.66,10280.28,60205.62
+c95556f5-b5ff-45f9-99e6-0a720328a8ab,"Rodriguez, Beck and Chung",Kazakhstan,Pharmaceuticals,60.92,56,Logistics Delay,Low,15,42672.56,83.77,5900.5,6925.76
+6e0f3e05-eb76-4dfa-87f9-6731bcf69f9a,Turner LLC,China,Pharmaceuticals,81.96,26,Cyber Attack,Medium,5,223084.5,53.9,18480.91,102841.95
+6548eb3b-aaef-4994-9ea9-7c462a8cfcdd,Gonzalez-Neal,Madagascar,Electronics,65.91,77,Raw Material Shortage,Low,13,24958.39,58.52,3599.61,10352.74
+7197addd-cd47-4de2-9183-7bb80a5bf3a8,"Coleman, Simon and Shaw",Hong Kong,Electronics,68.2,44,Labor Strike,Low,25,25913.13,58.49,2905.15,10756.54
+f62c747c-0736-414c-9e5b-003a6b13a508,Berry-Hanson,Northern Mariana Islands,Food & Beverage,60.3,27,Regulatory Issue,Low,10,42349.33,72.22,4683.65,11764.64
+1551a220-0e08-4e2b-871b-fcb780fd43e9,Cain and Sons,Lithuania,Food & Beverage,77.35,82,Supplier Bankruptcy,Low,21,36687.35,86.25,2503.39,5044.51
+512af654-22b6-4a2f-be5a-8981d2f8a3dc,Lowe and Sons,Thailand,Pharmaceuticals,86.15,23,Port Congestion,High,34,2615430.53,54.51,355012.23,1189759.35
+acd8bd62-9283-4eff-88e5-e2f412ec6f37,Taylor LLC,United States of America,Electronics,79.08,11,Port Congestion,Medium,3,158014.36,58.41,14748.22,65718.17
+e442795f-4642-4031-891a-bf3e5e016d0f,Salazar-Duncan,Dominica,Automotive,81.7,73,Natural Disaster,Low,30,36960.27,57.89,6721.17,15563.97
+6cf6316d-eca6-4250-91c7-045774e2bc00,Singh-Greene,Germany,Retail,92.58,4,Port Congestion,High,111,4093717.76,90.18,764599.67,402003.08
+7acefd98-4c55-49b2-a3bc-6abf246fee55,Wallace-Washington,Mozambique,Electronics,63.61,25,Labor Strike,Low,28,13340.25,62.05,715.23,5062.62
+88f92195-1246-41e5-824c-66c99b0fdab6,"Garza, Torres and Kim",Vietnam,Retail,60.77,73,Raw Material Shortage,Low,16,30236.2,52.82,5271.56,14265.44
+3896c2dd-6d07-4757-a5a6-e95ec4fecef1,Bryan LLC,Czech Republic,Electronics,79.81,49,Labor Strike,Medium,84,466404.99,97.6,66761.22,11193.72
+2ad0014a-bbaf-4bde-a26a-86f4adf87a7b,Walls Inc,Korea,Retail,76.24,20,Supplier Bankruptcy,Low,6,13065.71,79.63,2239.93,2661.49
+9bd5b1fc-df96-48be-a75c-1bd0ba8f60a3,Adams PLC,Cocos (Keeling) Islands,Automotive,60.43,100,Supplier Bankruptcy,Low,14,37239.09,74.68,6575.84,9428.94
+a9b14200-fc65-4ef1-ad65-3801004617cf,Clark-Armstrong,Brunei Darussalam,Retail,95.24,20,Labor Strike,High,74,4342636.25,89.12,315175.39,472478.82
+05edc625-b2d8-4874-973b-38a31e711e8f,Gardner LLC,Somalia,Pharmaceuticals,73.07,13,Raw Material Shortage,Low,16,12227.38,53.89,2113.32,5638.04
+9dd8955d-b21e-40e0-ba25-3fb9561bfa4d,Cunningham-Bailey,Belarus,Electronics,96.27,16,Regulatory Issue,Low,23,28651.23,94.3,3973.47,1633.12
+7a5c8b9d-4c80-428f-b912-610696261b46,"Chambers, Hall and Stone",Philippines,Pharmaceuticals,83.95,41,Regulatory Issue,Medium,10,335320.63,55.91,27476.33,147842.87
+3dbc5e4a-7bd0-411a-b9b8-31d88ae0d16b,Wilson-Sanders,Bangladesh,Retail,73.52,24,Natural Disaster,High,129,3879734.64,84.18,616149.86,613774.02
+eb7ea939-9811-4c7d-845b-d25470760d18,Carey-Garcia,Cocos (Keeling) Islands,Food & Beverage,86.57,47,Supplier Bankruptcy,Low,9,11611.47,96.43,2116.56,414.53
+711899ce-d964-41f1-9401-6a2516c252e8,Mcgee-Davis,Cyprus,Retail,69.39,8,Cyber Attack,Low,26,35722.77,64.49,2612.42,12685.16
+68b0fc44-5b44-4242-ac24-f536fb0da5f2,Dennis Inc,Isle of Man,Electronics,65.55,44,Natural Disaster,Medium,34,137031.64,76.87,12814.85,31695.42
+e67cc1b9-666a-4e4d-9c0a-345474964bf0,Tate and Sons,Grenada,Pharmaceuticals,69.92,20,Logistics Delay,High,22,1487051.15,74.33,169067.17,381726.03
+020ea596-a841-4916-976f-25aeb558800c,"Bell, Mcmillan and Freeman",Kenya,Electronics,71.99,24,Port Congestion,Low,20,24110.77,71.97,1652.18,6758.25
+22c4484c-f817-4905-927a-45d0b888c546,Robertson PLC,China,Pharmaceuticals,93.84,36,Port Congestion,Medium,112,126463.86,57.89,20053.31,53253.93
+1e623372-4b5c-40b5-a52a-737da2678bc2,Martinez-Greene,Jordan,Food & Beverage,88.02,25,Cyber Attack,Medium,136,237656.92,63.45,45813.72,86863.6
+1014c692-1a67-4db0-b23b-d2b70c79abf8,Peterson-Lambert,Cocos (Keeling) Islands,Retail,83.94,35,Natural Disaster,Medium,167,261020.56,77.59,43556.03,58494.71
+0defe449-7892-4789-a594-246fb565396a,"Diaz, Frederick and Sutton",Morocco,Electronics,69.63,40,Cyber Attack,Low,2,29639.36,79.97,4313.87,5936.76
+261050d8-0621-43a1-87ff-6d754988904a,Allen-Richards,Albania,Food & Beverage,67.87,63,Natural Disaster,High,141,2112477.96,73.96,131105.68,550089.26
+fa5d68ce-8874-4847-a2e8-aaab6b22db80,Johnson PLC,Anguilla,Automotive,75.2,42,Cyber Attack,Low,18,28047.65,79.4,4522.56,5777.82
+9413da30-1e7e-40df-a467-1be400953cfc,Smith-Hill,Iran,Pharmaceuticals,86.13,46,Raw Material Shortage,Low,1,20120.49,79.07,1375.33,4211.22
+c0ff9dce-51e0-42bb-9f8a-088506a72e7a,Lam-Brown,Burkina Faso,Pharmaceuticals,63.23,75,Port Congestion,Medium,68,441715.19,70.98,44776.22,128185.75
+21b06b1a-74da-4b60-bc91-6d04a3691440,Holloway Group,Gabon,Automotive,61.37,40,Labor Strike,Low,26,24897.73,71.16,1324.51,7180.51
+d91aeaef-181b-477f-98a4-66c3eb9e62f7,Nguyen-Garrett,Ecuador,Pharmaceuticals,71.66,95,Natural Disaster,Low,26,16122.89,69.71,822.56,4883.62
+924257ac-1cb2-4e85-b1c4-b00975675b4f,Salazar and Sons,Angola,Food & Beverage,79.22,12,Logistics Delay,Medium,110,200253.41,99.96,36499.5,80.1
+eaae5550-1bff-4fbc-a8ba-e4c2e7892966,"Johnson, Martin and Daniel",Sweden,Pharmaceuticals,97.38,92,Supplier Bankruptcy,Medium,30,373440.45,70.52,22470.14,110090.24
+f9f2099a-1b30-45c0-8556-440ae277b122,Gardner Group,Norway,Food & Beverage,81.97,24,Cyber Attack,Low,9,44054.83,84.53,3320.04,6815.28
+5706aeda-80a3-4ad0-bb86-3b4df5067373,"Smith, Wade and Lawrence",Swaziland,Electronics,73.03,22,Logistics Delay,Low,22,21562.99,91.55,2515.42,1822.07
+64f76a3a-ce9a-48db-829d-a57fd78e1b81,"Roberts, Johnson and Mueller",Ukraine,Food & Beverage,89.58,90,Cyber Attack,Medium,1,491776.65,52.76,75531.93,232315.29
+36f4eb52-4e99-4c19-b511-2fc3673b3e52,Wilson-Campbell,Poland,Food & Beverage,63.81,7,Regulatory Issue,High,139,1734721.83,60.39,235856.14,687123.32
+460638fd-1c44-45a0-a5f7-08a724b3a605,"Adams, Washington and Gibbs",Uzbekistan,Electronics,87.72,63,Regulatory Issue,Medium,5,144458.88,85.77,15847.93,20556.5
+2493440f-d584-466b-ae3f-fa5846e35a45,Harrington-Adams,Malta,Electronics,66.21,97,Cyber Attack,Low,28,39471.04,62.53,6032.49,14789.8
+7772da84-c9ae-4128-b3af-043f18fefcc1,"Hunter, Weber and Juarez",Wallis and Futuna,Automotive,77.39,44,Labor Strike,High,8,1861933.98,98.21,176421.0,33328.62
+5db72a9b-bb4b-45b3-9bb9-2e1a98a37765,"Shah, Townsend and Mathis",Heard Island and McDonald Islands,Electronics,94.39,97,Natural Disaster,Low,10,16333.66,56.1,2118.39,7170.48
+18b5897b-70de-4d5d-825c-573f6764d1d6,Guzman and Sons,Bangladesh,Retail,66.58,44,Raw Material Shortage,High,66,4804315.3,71.88,501716.14,1350973.46
+340af003-58ff-410c-afb1-b7caadb60605,"Holmes, Terry and Jones",Malawi,Retail,69.03,42,Natural Disaster,Medium,173,151320.58,57.0,22481.49,65067.85
+b5cc8d7a-5496-4f2d-9366-0542e3ad019d,"Hayden, Rasmussen and Schmidt",Serbia,Food & Beverage,74.49,67,Labor Strike,Low,21,35514.92,68.92,2804.74,11038.04
+dd07cd95-3803-4133-b785-f5d6d2b33334,Ward LLC,Panama,Electronics,89.92,80,Labor Strike,High,16,3486186.81,63.33,325466.1,1278384.7
+c4fccb52-0a29-444c-978b-7129556c7cf5,Anderson-Alexander,Reunion,Pharmaceuticals,68.2,65,Natural Disaster,Medium,73,330858.92,84.42,35328.13,51547.82
+26fd497d-401c-46e9-b2e5-c3e873908f3f,Peters and Sons,Faroe Islands,Food & Beverage,91.54,37,Supplier Bankruptcy,Medium,37,276464.35,79.38,19846.79,57006.95
+30296da8-ea52-43b4-ae51-8d37a063161f,"Brown, Martin and Vargas",Tanzania,Food & Beverage,87.5,71,Port Congestion,Low,24,26130.87,96.56,4796.14,898.9
+c2f09891-2afa-48ad-bc73-9a4af93d34ba,Garcia PLC,Bangladesh,Retail,90.23,87,Regulatory Issue,Low,4,35704.8,87.08,1929.68,4613.06
+6eb63ac7-1acc-48a1-8f22-cc939ef6647e,Wagner Ltd,Niue,Electronics,76.64,5,Labor Strike,Low,26,47783.65,89.28,9422.87,5122.41
+8110db08-bb44-43ea-b111-38c64a4a54b4,Mcmillan-Hobbs,Israel,Pharmaceuticals,81.38,99,Labor Strike,High,129,772144.07,90.62,38989.6,72427.11
+e74b09b9-521d-4e5a-8f82-9359f5a64feb,Mills and Sons,Cayman Islands,Retail,76.17,10,Regulatory Issue,Low,30,43793.1,82.63,7139.11,7606.86
+953c37f2-dbb8-4b83-a8b7-90df3cdb4db4,Davis-Terry,Bulgaria,Food & Beverage,97.66,91,Logistics Delay,Low,15,48810.21,50.67,7146.99,24078.08
+f2afc8c3-a3d0-4d55-8062-ba3bdc7dfe1b,"Hamilton, Green and Johnston",South Georgia and the South Sandwich Islands,Food & Beverage,70.1,4,Regulatory Issue,Low,4,37539.99,86.12,4129.61,5210.55
+92fa715e-d5bd-49c3-a2e1-b822fb786cf1,Martinez-Ward,British Virgin Islands,Automotive,74.05,31,Cyber Attack,Low,6,22530.76,89.78,4303.78,2302.64
+3e387bf3-4e84-47c3-9657-37c1db9278d6,Byrd-Hogan,Uruguay,Electronics,91.55,61,Raw Material Shortage,Low,25,26203.5,92.45,4116.76,1978.36
+92acbfb5-5e48-4bcd-ba2f-e783f52fb3db,Sanchez PLC,Iran,Automotive,72.83,56,Natural Disaster,Low,23,14853.58,93.19,2213.56,1011.53
+3493883e-70c6-4161-aaeb-abc14f2e89ef,"Robinson, Parsons and Ruiz",Macedonia,Electronics,60.01,45,Logistics Delay,Low,21,34191.01,56.35,2220.49,14924.38
+fb293842-55a4-4f27-84f4-88473ffdafca,Ray-Garcia,Bolivia,Retail,72.84,9,Cyber Attack,Medium,140,405184.51,50.8,66149.52,199350.78
+fd546dfe-9964-4f42-848b-e1829fba3e73,Johnson-Williams,Swaziland,Electronics,97.08,52,Logistics Delay,Low,2,31348.69,93.1,4110.05,2163.06
+7910599e-c7b7-4f28-8bb1-dfcea3c279ac,"Greer, Scott and Cervantes",Iraq,Pharmaceuticals,67.16,63,Raw Material Shortage,Medium,102,222278.98,87.36,35552.81,28096.06
+13587d00-c1c8-44ab-beb1-4254c90c19c1,Jenkins-Garcia,Zimbabwe,Automotive,63.22,41,Regulatory Issue,Low,29,36396.88,99.71,5877.88,105.55
+cc51da91-2bae-408c-bc22-b15446d567a8,Sims-Calderon,Slovenia,Pharmaceuticals,75.64,82,Natural Disaster,Low,17,12888.09,64.15,656.58,4620.38
+81b85dcf-59c3-40da-b342-2adb00bec37c,Mcclain-Richards,Cook Islands,Retail,64.0,71,Natural Disaster,High,148,4770566.74,92.78,810246.72,344434.92
+b579d49b-bf9d-470d-b5c8-51b5d959018b,"Harris, Dennis and Lane",Liberia,Food & Beverage,63.34,84,Port Congestion,Low,18,38576.54,62.17,3215.9,14593.51
+ebf395cc-69d0-46ad-818a-0630a201032d,Burgess-Warren,Finland,Electronics,65.62,21,Regulatory Issue,Low,13,44204.18,75.44,4915.65,10856.55
+32f7112d-dbfd-4822-8698-d939455e8463,Davis Inc,Cocos (Keeling) Islands,Electronics,89.28,89,Cyber Attack,Medium,109,178377.33,85.9,20050.48,25151.2
+9c7c6617-4cce-4142-84b5-b4076901f55a,Lopez-Bowers,Ukraine,Food & Beverage,84.74,54,Raw Material Shortage,Low,22,30804.6,76.09,4699.5,7365.38
+b626870c-92d3-4f2b-a66e-c3dd05becc85,"Taylor, Miller and Brown",Latvia,Electronics,73.94,79,Labor Strike,Low,14,24520.83,72.07,2784.64,6848.67
+43eecbcd-2fde-4cfd-a595-9c250baa6718,Grant-Warren,Austria,Electronics,61.83,51,Supplier Bankruptcy,Low,17,22612.04,73.5,3768.79,5992.19
+11bb7821-dfbe-4ecf-8904-b2ce2674c623,Durham-White,Sao Tome and Principe,Food & Beverage,62.02,48,Labor Strike,Medium,123,437028.91,89.85,44479.88,44358.43
+0858abb3-7beb-4db0-8dd8-a6e697ea3408,Moon LLC,Maldives,Electronics,79.63,0,Cyber Attack,High,99,1986974.82,79.3,324229.71,411303.79
+b12538e7-7b7a-4f15-b59e-7d672765731d,"Smith, Smith and Martin",Canada,Retail,67.59,63,Cyber Attack,Medium,58,401410.91,76.3,42627.63,95134.39
+b901b8c1-0c67-4c37-98bb-c3478003ff69,Fletcher LLC,British Indian Ocean Territory (Chagos Archipelago),Retail,91.92,77,Port Congestion,Low,9,44240.36,99.45,2378.85,243.32
+7458ed89-ee25-493e-b9c7-f9cfcf3d6e50,Garrett-West,Saint Martin,Electronics,94.22,79,Port Congestion,Low,12,36408.9,75.92,2539.28,8767.26
+abd6a410-83ce-4925-a552-050c49047c59,"Wheeler, Barrett and Jones",Saint Kitts and Nevis,Food & Beverage,60.54,79,Labor Strike,Low,16,10508.39,75.24,2039.21,2601.88
+39f008ef-d332-4cee-a9a1-e2019a226e6c,Harris Inc,Lesotho,Pharmaceuticals,61.94,27,Natural Disaster,Low,12,22278.01,63.29,1449.01,8178.26
+5559906d-a2b3-45d9-b9b5-93104de352ec,Everett and Sons,Equatorial Guinea,Electronics,68.29,58,Cyber Attack,Low,4,48915.64,98.15,8831.88,904.94
+49b60919-6e3a-48a6-a303-6601098beaa1,"Hansen, Fox and Peterson",Croatia,Pharmaceuticals,97.79,34,Supplier Bankruptcy,Low,15,14313.63,98.83,1778.61,167.47
+1b6735e5-0249-4b9b-8932-8a9a2198e5e8,Stevens LLC,Ireland,Electronics,68.83,1,Raw Material Shortage,Low,24,28580.87,67.91,3018.08,9171.6
+2cc7d39a-5a43-463e-b1dc-5cd6cda68ab2,Brown-Moore,Indonesia,Pharmaceuticals,76.42,36,Logistics Delay,Low,15,33437.67,82.42,3529.86,5878.34
+8d1eb290-158e-47d6-9a46-c6ec147d7933,Tyler-Mccall,Angola,Retail,88.59,23,Supplier Bankruptcy,Low,11,12348.42,87.25,643.54,1574.42
+58aee942-0e43-44a9-9961-d94a03e7232a,"Johnson, Hayden and Brooks",Syrian Arab Republic,Pharmaceuticals,72.46,50,Regulatory Issue,High,139,3259127.58,93.26,347309.52,219665.2
+4fafa4e4-e821-4d44-9e2a-d698161bab70,Dixon-Johnson,Argentina,Electronics,98.15,24,Supplier Bankruptcy,Low,1,40448.21,94.91,5873.47,2058.81
+ca3bb494-99ba-4ed9-bdb8-9e193efc9825,Jenkins Inc,Bulgaria,Automotive,93.22,47,Supplier Bankruptcy,Low,20,40656.45,74.87,7941.17,10216.97
+3e548642-9e82-4100-b06d-25efac101416,"Young, Schaefer and Jones",Mayotte,Pharmaceuticals,88.09,39,Labor Strike,Low,17,37563.06,72.98,4968.12,10149.54
+f3fc5d27-03ce-4259-8ea0-039af3929b20,Arroyo Ltd,Vanuatu,Food & Beverage,84.33,95,Supplier Bankruptcy,Low,30,27987.74,56.89,2715.32,12065.51
+f1a543a4-e3c5-4fea-8918-f9062611fcb3,Villarreal and Sons,Jersey,Electronics,69.24,60,Natural Disaster,High,32,4597537.98,57.04,609563.53,1975102.32
+8b5a126b-fc6b-40d7-9d7b-6f35828df1ed,"Smith, Fowler and Gomez",Bermuda,Electronics,69.41,52,Cyber Attack,High,100,3234610.15,53.96,528518.24,1489214.51
+3fc03d16-9fa1-4ec3-9bea-f643912a8c17,Henderson-Carlson,Saint Vincent and the Grenadines,Retail,65.34,71,Labor Strike,Low,5,36153.43,85.75,5559.62,5151.86
+6c45975f-baf9-4020-83e0-c9866c0fcf6b,"Meyer, Lopez and Marquez",Solomon Islands,Food & Beverage,62.46,38,Supplier Bankruptcy,Low,18,15688.8,68.83,1691.68,4890.2
+6d063474-9412-4b73-b138-5cf7bcbe7afd,Reyes-Henry,Afghanistan,Retail,98.19,30,Port Congestion,High,177,3050823.43,64.31,427146.79,1088838.88
+5fdf6c11-fe91-411a-81bd-8e4e04a21cbc,"Chung, Potts and Kerr",Paraguay,Retail,84.61,28,Labor Strike,Low,18,34342.51,80.26,1810.7,6779.21
+3e48ca79-c0b2-4658-b967-6b83933d0caf,Bryant and Sons,Micronesia,Electronics,91.51,29,Labor Strike,High,108,504586.55,50.89,69950.86,247802.45
+3db0ce4b-59f4-4d86-96ae-61872f51f09d,Ramirez-Rogers,Guyana,Automotive,98.95,68,Cyber Attack,High,79,4431277.49,90.68,263307.31,412995.06
+f81114ca-e34f-469c-88b2-fd79c282d79c,Richardson and Sons,Korea,Electronics,72.89,12,Cyber Attack,High,129,534482.68,64.03,77770.09,192253.42
+86a0f9fa-aeb9-4023-9aa5-68a70a971444,Baker-Marks,British Virgin Islands,Electronics,62.38,51,Logistics Delay,Low,16,28501.32,56.12,2462.34,12506.38
+e7837cc9-4715-4c9c-b9a0-b4af422964cb,Graham-Dominguez,Seychelles,Pharmaceuticals,62.4,78,Raw Material Shortage,High,16,1410552.54,64.58,211277.0,499617.71
+441392aa-c975-441d-a82b-dfc6c95e3e50,Phillips Ltd,Sri Lanka,Retail,60.41,40,Regulatory Issue,Low,24,21332.02,88.89,2032.1,2369.99
+b5e23795-85f0-4a86-989a-725077f7bfc0,"Clark, Jones and Donovan",United States Virgin Islands,Pharmaceuticals,70.65,97,Port Congestion,Medium,158,72203.74,65.23,11836.98,25105.24
+8e4bfafa-78c8-43ce-8fda-1fa6831682c9,Johnson-Mccann,Western Sahara,Pharmaceuticals,64.19,55,Supplier Bankruptcy,High,65,2409103.78,73.46,343283.96,639376.14
+cd16570d-105f-4045-aded-e36df90777ae,Taylor-Pierce,Bouvet Island (Bouvetoya),Pharmaceuticals,74.24,45,Port Congestion,High,58,3987334.84,83.38,738190.23,662695.05
+bdb2f7a8-295e-4e6e-82b6-f8fd830ecf57,Russell PLC,Saint Kitts and Nevis,Retail,92.47,28,Cyber Attack,Low,11,38832.82,64.42,6865.57,13816.72
+fb7d9469-969b-406a-a301-97e7a1e2868c,Lewis Inc,Hungary,Retail,89.92,0,Regulatory Issue,Low,15,36934.44,53.39,7139.43,17215.14
+93e9b349-9697-467e-b45a-0f1e66f45ae0,Robertson Ltd,Uruguay,Food & Beverage,71.8,88,Port Congestion,Low,5,12666.12,73.36,2309.01,3374.25
+7c7278fc-c2ef-4ffe-8cd3-20419adf1228,Robertson Inc,Reunion,Pharmaceuticals,84.82,25,Labor Strike,Low,7,48916.25,67.02,6970.35,16132.58
+284b6e95-bb1e-4419-8d3f-23fb8ba06f0f,Wood-Reese,Iraq,Electronics,77.98,15,Natural Disaster,Low,8,13182.34,68.94,1720.94,4094.43
+9f335fcb-e2b2-4ce1-bdb2-d246cbcfc2e1,Jenkins-Cameron,Kiribati,Electronics,86.97,22,Logistics Delay,Low,19,24878.83,60.66,1438.06,9787.33
+ac1d18a2-053c-43e0-a062-523bb71ea408,Lee Ltd,French Guiana,Electronics,79.45,18,Cyber Attack,Medium,18,254788.78,58.32,43398.49,106195.96
+7d0ec7dd-443b-4527-b28d-5c5c2351bb9b,Williams-Ray,Colombia,Electronics,79.21,23,Natural Disaster,High,49,4242698.49,75.55,563458.52,1037339.78
+040a6d4e-29b6-4680-8d4c-f77bbc33575b,Oconnell-Carter,Portugal,Automotive,72.38,59,Labor Strike,Low,5,44414.46,87.78,4777.85,5427.45
+e60d04ab-7348-4194-a1dc-49bd4723b136,"Hernandez, Greene and Hines",Greenland,Automotive,72.32,89,Raw Material Shortage,Low,20,46233.11,56.28,2763.32,20213.12
+45ccc58e-015d-4406-8ec2-bb48ff62b090,Brock Ltd,Jordan,Retail,79.72,57,Logistics Delay,Medium,5,264998.29,73.21,49436.44,70993.04
+0622adc0-1281-49fa-aeb2-960bd86614ec,Bennett and Sons,Switzerland,Retail,92.54,51,Natural Disaster,Low,23,38147.52,78.28,6328.77,8285.64
+bf8613e9-6136-43a2-a3f0-fa0083ed3ad0,Adams-Li,Lebanon,Automotive,79.25,32,Regulatory Issue,Low,28,10002.55,72.98,1232.11,2702.69
+a3bb8d27-8cbd-4db8-8619-618dfd177f3c,Martin-Benjamin,Taiwan,Electronics,69.71,41,Port Congestion,Low,17,16888.93,93.77,2886.35,1052.18
+1d1ddb54-a333-4171-ae96-436c00e0bbfe,"Guzman, Scott and Wang",Micronesia,Pharmaceuticals,75.56,75,Natural Disaster,High,73,2965006.62,59.72,272349.82,1194304.67
+7140f523-f04b-42f7-96cb-cc8f550c77e8,"Avila, Rivera and Avila",Rwanda,Pharmaceuticals,84.97,14,Cyber Attack,Low,2,25283.88,53.5,2882.98,11757.0
+894cb0f4-d38a-4953-8b4a-ce46f79cec8a,Burns-Murillo,Tajikistan,Automotive,71.94,42,Raw Material Shortage,Low,24,23838.4,66.36,4365.77,8019.24
+9907b0f0-00f0-4125-8189-7996815383b4,Christensen Inc,Gibraltar,Retail,70.92,5,Supplier Bankruptcy,High,31,3731128.55,94.37,722478.83,210062.54
+accc3c8c-477b-4228-9e8e-9582feecb803,Sanchez Inc,Saint Helena,Automotive,71.31,47,Raw Material Shortage,Medium,158,234031.88,51.28,31017.74,114020.33
+d25eded2-13a5-49f3-92d0-b84f269bfd5c,Wilson Ltd,Belize,Automotive,86.8,92,Labor Strike,Medium,70,224828.57,78.36,11324.1,48652.9
+14609b88-0f8b-4475-a661-2de85b40c1e3,Davis-Warren,Kuwait,Retail,63.95,4,Port Congestion,Low,20,48089.8,55.82,9042.36,21246.07
+27d6236c-fbdd-43bf-8732-2d747cece08d,"Walker, Keller and Chaney",Serbia,Pharmaceuticals,69.16,96,Logistics Delay,Low,9,33638.46,55.22,2879.07,15063.3
+0fbbc584-2709-46c7-bdd4-1ba1fc67e3e6,"Davis, Burch and Adams",Svalbard & Jan Mayen Islands,Automotive,98.28,57,Port Congestion,Low,1,37172.73,60.53,1889.7,14672.08
+9fd746d9-d703-419e-92bd-1fc7b045da81,Roberts-Woods,Russian Federation,Retail,74.61,58,Natural Disaster,Medium,11,444532.44,76.61,30434.51,103976.14
+0aa62cfe-3d2f-4d24-9b37-c4f56fc90805,Ramirez-Duncan,Qatar,Food & Beverage,67.58,65,Cyber Attack,Low,15,28355.13,63.58,1723.17,10326.94
+63c10b65-4d12-4bac-8be9-1dca4aa87f56,Stewart Inc,United Arab Emirates,Electronics,96.11,17,Logistics Delay,Low,9,48121.69,88.78,9590.52,5399.25
+e5faea74-fb33-4c94-8021-d67c55730622,"Jones, Taylor and Davis",Tunisia,Food & Beverage,74.24,65,Natural Disaster,Medium,179,349674.44,86.32,38299.88,47835.46
+c6d115aa-8d3e-4d70-b215-87c9d681bb24,Francis-Smith,Solomon Islands,Automotive,98.36,37,Raw Material Shortage,Medium,134,429155.78,66.71,60326.48,142865.96
+fb32cd7c-6b10-4391-a6e3-6d0fc0f9065f,King-Garner,Sao Tome and Principe,Retail,96.99,5,Labor Strike,Low,14,46810.44,82.21,9120.73,8327.58
+4368e58b-ca8a-45ee-8c7e-91e54e26881c,Adams-Aguirre,South Africa,Automotive,64.45,65,Raw Material Shortage,Medium,42,85844.88,66.18,12187.68,29032.74
+f4394867-009b-4bc7-9980-ded928a60fa9,Padilla PLC,French Polynesia,Automotive,92.39,19,Supplier Bankruptcy,High,132,2071505.9,85.18,386640.11,306997.17
+4c03892c-5b7b-492a-af9a-bd12f71413e8,"Beasley, Hughes and Garcia",Tokelau,Electronics,64.61,85,Labor Strike,Low,28,17563.82,98.32,2813.73,295.07
+e161b8a6-00d8-4178-9da2-334d22217600,Davis-Cooke,Bosnia and Herzegovina,Pharmaceuticals,94.42,95,Supplier Bankruptcy,High,171,1798826.22,87.41,132294.03,226472.22
+9ea8267f-e684-4270-b84d-1b50c168bfa8,Oneal-Adams,Macao,Automotive,76.5,96,Labor Strike,Medium,79,52071.1,78.15,8919.61,11377.54
+daae6317-3d07-406f-bd50-0f0878768579,"Gallagher, Rodriguez and Brown",Bahrain,Automotive,90.15,30,Port Congestion,Low,21,48322.15,85.93,5923.55,6798.93
+a3f10d07-5849-4763-a90a-4166cca44583,"Manning, Mcfarland and Hughes",Belgium,Food & Beverage,89.64,13,Natural Disaster,High,161,1350140.47,86.92,255242.62,176598.37
+538d7912-287b-4df4-afcd-a6e4b24695ff,Rogers-Frank,Montserrat,Automotive,98.86,81,Raw Material Shortage,Medium,180,381027.12,82.3,45247.43,67441.8
+361aaa4f-5d4d-4fbc-9557-294fed19105a,Barron Inc,Uzbekistan,Automotive,96.07,54,Cyber Attack,Low,1,31522.76,85.04,5995.65,4715.8
+c4133dd0-542a-4dfe-8730-cceb88d593f0,Williams Inc,Saint Helena,Electronics,83.39,39,Natural Disaster,Medium,108,241653.27,69.05,35874.15,74791.69
+f2caf04a-85b7-49ea-8705-9a700e922c3f,"Huynh, Aguilar and May",Jordan,Retail,73.78,33,Labor Strike,Medium,150,379752.25,56.55,66801.18,165002.35
+eeec29d3-f6f3-4174-b3db-6a61179398cc,"Johnston, Doyle and Jones",Nepal,Automotive,61.86,99,Supplier Bankruptcy,High,64,610866.05,91.32,89815.84,53023.17
+31d03e66-d6a5-465c-be56-e92c0eb7e832,Vincent-Lynn,Switzerland,Automotive,64.56,99,Port Congestion,Low,28,32957.41,54.79,6068.3,14900.05
+defbe43f-5951-44eb-b415-5a1465c05c43,Alvarez LLC,Paraguay,Retail,98.84,66,Supplier Bankruptcy,Medium,111,321496.38,94.19,52074.67,18678.94
+bca6d5e5-aecd-4636-ae97-8bed54f5d100,"Harris, Meyers and Walker",Haiti,Pharmaceuticals,60.66,81,Natural Disaster,High,21,4626643.47,70.52,632032.28,1363934.49
+ee0926a6-edcf-4eab-83b0-fb4382da1671,Bush PLC,New Caledonia,Electronics,93.6,79,Supplier Bankruptcy,Low,20,32872.95,90.63,5846.02,3080.2
+40aef2e0-8043-47b2-b92a-35212b4bf72c,"Wallace, Torres and Alexander",Monaco,Food & Beverage,65.49,8,Cyber Attack,Low,12,42770.42,87.42,5292.17,5380.52
+044a0d1a-64a8-41bd-a11c-523d9f43debc,"Mueller, Collins and Clark",Niue,Food & Beverage,77.44,15,Natural Disaster,Medium,56,302653.55,58.9,58252.08,124390.61
+89c2b618-0614-496b-ac37-2a8a2ed6539f,"Fernandez, Norris and Moreno",Faroe Islands,Automotive,85.51,57,Raw Material Shortage,Low,9,41773.41,59.63,3728.71,16863.93
+92f47881-6cba-46e0-bbd6-f8344ddae219,"Mendoza, Sampson and Reynolds",South Georgia and the South Sandwich Islands,Automotive,69.98,30,Logistics Delay,Medium,31,171218.56,83.89,13786.49,27583.31
+f9085801-366e-457a-b9fe-0cec744bcbc0,"Adkins, Brown and Johnson",British Indian Ocean Territory (Chagos Archipelago),Automotive,68.23,48,Cyber Attack,Medium,49,146620.34,71.62,22672.14,41610.85
+2256d7c8-36f0-4821-9d6b-85db1268b2c2,"Lee, Reed and Harper",Barbados,Retail,79.71,64,Supplier Bankruptcy,High,36,1556534.14,99.65,189393.55,5447.87
+5ef0ef6f-3d31-440b-a6dc-c2d897a561fe,Barnett-Thompson,Congo,Food & Beverage,61.88,21,Raw Material Shortage,Low,17,15850.65,58.81,2625.9,6528.88
+d15b97a1-cf1d-4dcf-9a18-28003e36c949,Rios-Ortiz,Mongolia,Food & Beverage,83.64,91,Cyber Attack,Low,18,47049.35,83.31,7707.19,7852.54
+7aa89449-e849-446b-a26d-829e13c94195,"Thomas, Hampton and Torres",Saint Martin,Food & Beverage,87.23,22,Cyber Attack,Medium,63,335746.73,62.79,58674.65,124931.36
+1ef5d1f3-e131-4d5d-8b7b-95e5b4b2f6dd,Chambers-Brown,Netherlands,Electronics,61.65,93,Raw Material Shortage,Low,3,30465.85,86.54,2680.64,4100.7
+b6c06024-af87-4880-b71f-ece91a1d9a39,"Watson, Thompson and Hernandez",Netherlands,Pharmaceuticals,80.67,96,Cyber Attack,High,118,2871026.61,57.83,547310.55,1210711.92
+67e6279a-2b62-4cfd-adfe-6c08abcc0349,Olson LLC,Haiti,Food & Beverage,74.27,36,Raw Material Shortage,Low,11,40740.55,80.1,5527.96,8107.37
+94d00dbc-4c15-474e-8e3d-fd1cca3ef2e4,Price Inc,Sao Tome and Principe,Electronics,96.65,90,Cyber Attack,Low,11,32432.29,96.87,2682.57,1015.13
+904fe378-6290-40f2-b63a-cab7a76d0d96,Ward-Peters,Puerto Rico,Retail,89.34,86,Logistics Delay,Low,18,12721.83,69.67,1208.9,3858.53
+1860e4e2-1ae7-4cd0-8437-f77721650b61,Murphy-Sharp,American Samoa,Electronics,91.44,27,Cyber Attack,Low,26,19093.64,66.0,1954.95,6491.84
+432530a6-5317-4f74-ac33-c8699ff21045,"Perez, Taylor and Miller",Guernsey,Electronics,89.74,39,Raw Material Shortage,High,143,3811845.5,84.91,453618.5,575207.49
+236eed65-ec9e-47d2-939b-15e65a1f279e,"Nguyen, Bailey and Ortiz",Fiji,Pharmaceuticals,77.27,79,Logistics Delay,High,57,829141.43,97.33,87487.87,22138.08
+1c666404-f9ff-4bc1-a710-5f48bbc3e96b,Jones-Pena,Myanmar,Electronics,95.89,14,Logistics Delay,Medium,19,175833.75,85.23,26898.35,25970.64
+c3b87034-800a-44a8-aef9-6dcb5431740b,Proctor Inc,Somalia,Food & Beverage,75.24,23,Port Congestion,Low,27,35134.58,80.14,5109.14,6977.73
+f70c1018-a032-4ec0-8d98-8221b38aedce,Bender LLC,Mauritius,Automotive,73.6,73,Raw Material Shortage,Low,18,15897.4,84.51,3065.81,2462.51
+b6b87281-fcad-4247-bda9-7d83bfb3a062,"Reynolds, Gibbs and Simmons",Jamaica,Retail,71.98,11,Regulatory Issue,Low,1,45811.55,77.41,5602.22,10348.83
+b6f42eb7-e8f2-4e2f-9244-9808f250b494,"Douglas, Leonard and Villarreal",Saint Helena,Retail,91.57,26,Raw Material Shortage,High,144,3059114.79,75.2,389508.96,758660.47
+b3750ef5-13a0-4044-b5bb-46de20c5ccce,Mendoza-Davis,Korea,Food & Beverage,83.6,74,Labor Strike,Low,30,37756.24,81.51,6330.13,6981.13
+da0fca21-aa65-42f1-8da1-c08775f1edbe,Higgins Group,Ethiopia,Food & Beverage,90.97,33,Natural Disaster,High,146,3900670.98,90.09,582499.29,386556.49
+e3c01357-14b1-484f-a5e3-9ad4be092fc0,"Sanchez, Kirby and Sherman",Denmark,Retail,98.61,64,Labor Strike,Low,10,38744.61,61.29,3676.31,14998.04
+561e6781-48a3-42d5-b989-b62d53a62d68,Porter Inc,Switzerland,Electronics,89.65,100,Labor Strike,Low,27,29542.29,54.55,4158.5,13426.97
+0455d068-8c46-4ffb-ae10-d4d08eeaddec,"Williams, White and Hernandez",Turkey,Food & Beverage,75.06,10,Logistics Delay,Low,25,38771.08,58.42,5345.61,16121.02
+cca65304-a776-4f3c-a66c-ce4b0022f2f2,"Campbell, Gray and Valdez",Israel,Food & Beverage,82.67,63,Port Congestion,High,27,4878380.36,77.22,739581.39,1111295.05
+10ad74b2-d829-46b8-8317-f1eef1904dee,Barnes-Steele,Tokelau,Automotive,93.3,48,Supplier Bankruptcy,Medium,42,252090.39,59.46,40034.38,102197.44
+7acd74c5-493f-4fcc-85e4-40de1bf9d673,"Parker, Green and Holt",Montenegro,Food & Beverage,80.25,28,Natural Disaster,Low,1,36062.48,54.91,2175.5,16260.57
+9a8fbfd4-8c71-45ed-8f07-952198737508,Graves-Cross,Algeria,Automotive,65.42,24,Labor Strike,Medium,37,106816.83,64.35,19849.23,38080.2
+5e890d94-3e32-4a44-9787-53a7e60a2160,"Cox, Howell and Stevens",Netherlands,Retail,96.67,54,Logistics Delay,Low,29,15216.45,66.93,2480.02,5032.08
+a178707f-8aee-4708-adb1-bc0aa58ff9c6,Davis-Shannon,Tonga,Retail,88.5,91,Cyber Attack,Medium,62,485922.68,61.01,39043.99,189461.25
+d8ce3780-d342-4f25-87cc-a613b160ba48,"Bridges, Thompson and Larson",Ireland,Automotive,90.06,18,Labor Strike,Medium,27,282052.23,80.89,42734.57,53900.18
+b6046e0b-62a5-4912-870f-a39504e33929,Cole-Stevenson,Aruba,Pharmaceuticals,85.46,60,Cyber Attack,Low,3,40216.3,57.07,5168.02,17264.86
+71e6bbff-80cc-457a-915f-cfc15b87298e,"Schultz, Nolan and Duncan",Niue,Electronics,88.72,37,Cyber Attack,High,95,2031271.95,95.87,242034.71,83891.53
+ec386f50-dec1-464a-943a-6c926798a93d,"Nelson, Jones and Johnson",Puerto Rico,Food & Beverage,77.93,91,Cyber Attack,Low,14,20037.54,76.12,3617.98,4784.96
+8f512673-ba5a-468f-9815-0485da5bbd1d,Hoffman-Roth,Tanzania,Retail,66.49,21,Port Congestion,Medium,26,241278.72,71.58,46527.0,68571.41
+7b18a442-44e0-418c-9d7b-35908540a85b,Sexton-Johnson,Palau,Retail,68.28,83,Logistics Delay,Low,12,37611.4,79.81,5919.88,7593.74
+5453c709-186f-43f3-9555-6b2e221d253b,Cox-Lee,Japan,Pharmaceuticals,78.21,59,Natural Disaster,Low,7,16193.29,66.63,1297.28,5403.7
+ce36565b-00c0-4095-bb1e-8091e2ca1e96,Sanchez-Lambert,Mauritius,Automotive,60.03,64,Logistics Delay,Low,7,39703.5,60.61,3385.94,15639.21
+06526cd3-1c7c-4bef-8503-fb9a6893a921,"Thompson, Miles and Arias",Ghana,Pharmaceuticals,92.35,23,Supplier Bankruptcy,Low,14,27184.37,51.24,5223.58,13255.1
+84344234-735d-43f9-bb03-203f0cf9181d,"Butler, Thompson and Gray",Saint Helena,Pharmaceuticals,83.27,13,Supplier Bankruptcy,Low,25,30666.19,78.3,5584.12,6654.56
+651ad20c-84a1-44f1-8640-5a7a8cf5a1a8,"Cunningham, Woods and Long",Hong Kong,Pharmaceuticals,73.96,81,Natural Disaster,Medium,84,115491.09,72.8,17461.82,31413.58
+c47167e9-0911-485a-b254-92774ab6d36b,Hickman and Sons,Guam,Automotive,78.87,25,Cyber Attack,Low,29,45577.6,58.91,7807.55,18727.84
+0f1450d2-e17b-48cf-9f64-0c7a68bb6a06,"Stewart, Johnson and Gonzales",New Caledonia,Food & Beverage,74.23,20,Natural Disaster,High,167,2896575.76,97.56,509285.46,70676.45
+a415d1d3-c66c-4743-af82-de1ef5d44dd3,"Ross, Hines and Howe",French Polynesia,Pharmaceuticals,64.35,92,Supplier Bankruptcy,Low,14,28570.41,89.01,5502.32,3139.89
+41534b80-4780-419d-bbd6-1044bfa821c5,"Wilson, Pierce and Williams",Costa Rica,Retail,60.91,43,Port Congestion,High,101,2463244.4,55.34,178460.6,1100084.95
+b5dcbb6e-5113-463a-8ef6-db2e34a48e3f,Santana and Sons,Canada,Retail,67.72,99,Raw Material Shortage,High,59,2484895.91,57.87,153701.07,1046886.65
+521d4d25-6acd-4c1a-83c4-8f42fc5acddb,"Anderson, Pierce and Kennedy",Saudi Arabia,Electronics,68.81,98,Natural Disaster,Low,4,42542.53,76.06,5013.21,10184.68
+867ea0c6-b186-4673-8abf-fd06a4551d8f,"Hernandez, Horne and Foley",Antigua and Barbuda,Automotive,68.22,9,Cyber Attack,Medium,77,195037.56,83.64,10033.24,31908.14
+09faec14-0295-4357-9fec-04ec62be687e,Green LLC,Niger,Retail,66.35,54,Logistics Delay,Medium,61,290377.18,61.99,50438.49,110372.37
+3e154d0a-0f5f-4a0f-9abf-f728d996c8fd,Ford Inc,Macao,Electronics,87.35,43,Regulatory Issue,Low,1,21785.96,54.69,2319.79,9871.22
+a3841f18-83b3-45f4-a3bc-26e39b0404aa,Stewart-Avila,Grenada,Retail,78.14,13,Natural Disaster,Medium,7,474233.22,70.65,79342.99,139187.45
+3509bb29-a54e-4294-b7f7-ae87e8bb9895,Jackson-Campbell,Bulgaria,Food & Beverage,63.3,61,Supplier Bankruptcy,Medium,153,348299.07,53.08,31190.44,163421.92
+330a0544-971f-4b54-9270-7578ccdb9627,"Allen, Harrell and Gray",Namibia,Pharmaceuticals,94.71,21,Cyber Attack,Medium,109,261708.41,54.9,27897.01,118030.49
+baa090f5-500d-435b-8c87-c5eca2f396fd,Wade LLC,Italy,Electronics,61.81,91,Natural Disaster,Medium,134,460366.45,58.74,23525.98,189947.2
+a73915c5-0149-402f-afb8-c53f5e94d7c9,Pennington-Webb,Suriname,Food & Beverage,86.47,18,Supplier Bankruptcy,Low,27,12075.86,52.45,1663.8,5742.07
+08bebf50-3ab9-4821-bff2-cee10e635938,Cunningham Group,Pakistan,Food & Beverage,80.49,41,Raw Material Shortage,Low,7,49178.49,80.63,8836.67,9525.87
+6d8a196e-97ee-418e-8246-e7935c7bd147,"Hunt, Sanchez and Hernandez",Niger,Electronics,68.26,81,Natural Disaster,Low,9,41979.58,96.03,6104.61,1666.59
+f97f544b-4279-4eac-a75f-7e45fb414201,Casey Group,Anguilla,Retail,76.41,63,Raw Material Shortage,High,155,3062327.05,96.15,426608.73,117899.59
+b4cd268b-d135-44de-b61a-b2d352d7c2e5,"Gilbert, Mason and Gonzalez",Cook Islands,Electronics,87.98,38,Cyber Attack,Low,26,21618.2,73.21,3031.93,5791.52
+b57b8348-f62d-4f4e-872f-733ab7fb1f01,Hall and Sons,American Samoa,Food & Beverage,95.17,77,Port Congestion,Medium,84,233556.44,51.17,44556.83,114045.61
+e71e9be6-70fd-497f-9056-85cdbf6a865b,"Johnson, Robinson and Duran",Benin,Retail,67.31,10,Natural Disaster,Medium,159,294880.57,80.75,55441.33,56764.51
+311b7b30-b1e8-42ab-92a1-c64eebec9d62,Hendricks-Skinner,Saint Pierre and Miquelon,Automotive,84.8,35,Regulatory Issue,Medium,149,372045.84,95.06,31084.75,18379.06
+468d7b83-a9cf-437f-a4c1-74aaed50ede9,"Ramos, Meyer and Santiago",Macao,Automotive,81.84,92,Supplier Bankruptcy,Low,8,10532.03,94.46,994.15,583.47
+b631bd6e-768e-47b6-b7c2-97ee7f535432,Miller Ltd,Cyprus,Retail,67.09,76,Supplier Bankruptcy,Low,10,13214.64,84.97,716.1,1986.16
+6f91b0f9-7116-45a1-b59c-ee09b663b3e9,Wu-Cox,Christmas Island,Food & Beverage,72.15,81,Logistics Delay,Low,4,33744.9,99.22,2471.94,263.21
+5d2aef75-5771-4b84-8478-5ecb47126a81,Best-Johnson,Greenland,Automotive,70.49,46,Logistics Delay,Low,27,30340.67,54.25,2270.18,13880.86
+f545a2ab-d4ef-4280-812e-20648f8440bb,Warren-Miller,Saint Vincent and the Grenadines,Electronics,64.74,94,Regulatory Issue,Medium,25,351040.93,55.33,26543.37,156809.98
+d8c2b0c4-cc78-4135-8e4f-9780bda40d96,Ward-Singleton,Guyana,Electronics,86.1,91,Cyber Attack,Medium,47,190881.71,77.06,35013.25,43788.26
+91a88a24-d110-4a78-8b7d-db25f9df7772,"Garner, Johnson and Newton",United States Virgin Islands,Automotive,89.61,42,Natural Disaster,High,12,1176741.62,53.49,209463.75,547302.53
+7c8bdefb-2190-4da5-8bd8-9356187ecefa,"Martinez, Moore and Soto",Nigeria,Automotive,69.64,22,Cyber Attack,Low,22,36451.12,51.21,6448.17,17784.5
+5596310d-04d9-419c-9a05-243de3804bd1,"Knapp, Anderson and Stewart",Guyana,Retail,88.23,97,Port Congestion,Low,15,31168.7,95.84,4699.55,1296.62
+783a0b5f-300b-4c72-ac9e-e95de2863116,Gillespie Ltd,Antarctica (the territory South of 60 deg S),Retail,89.03,81,Logistics Delay,Low,27,34171.53,75.82,5719.11,8262.68
+68e4561e-ff67-469d-8850-bd19650922b7,"Mathews, Miller and Reyes",Austria,Pharmaceuticals,86.4,27,Port Congestion,High,53,2453253.12,77.43,403087.91,553699.23
+f972d9ff-c341-4fc9-9c59-e54c7519fb2f,Anderson-Morgan,Tunisia,Pharmaceuticals,97.56,98,Port Congestion,Low,14,35811.39,52.43,4315.48,17035.48
+248dbbee-53c5-4811-b2e2-f467cd3e2270,York Ltd,New Caledonia,Electronics,84.94,36,Supplier Bankruptcy,Low,28,41368.23,55.4,5068.46,18450.23
+b98e65de-9bb1-4777-9ee7-f22d12bdc9be,Robinson Ltd,Ecuador,Pharmaceuticals,70.1,53,Cyber Attack,Low,29,14301.34,91.37,2581.52,1234.21
+ae583007-156b-48b9-82c9-451f16aa5e1c,Brady-Chan,Kuwait,Pharmaceuticals,71.16,99,Raw Material Shortage,High,53,1942217.83,66.35,104391.98,653556.3
+447534cf-0f7e-4337-8388-bef56cf95817,Barton-Allen,Cyprus,Automotive,74.57,3,Logistics Delay,Low,3,40369.36,83.52,7984.99,6652.87
+947d5765-2ee7-48db-b12e-202f658e6114,Flores Ltd,Papua New Guinea,Automotive,94.12,49,Labor Strike,Low,9,15250.34,89.52,1254.23,1598.24
+89efb9c6-1bba-4265-b2f3-044bc6abe09d,Gonzalez LLC,Gibraltar,Pharmaceuticals,63.43,80,Logistics Delay,Low,24,27697.3,74.96,2379.14,6935.4
+9785ad46-2337-4191-8c16-6ad199238a70,"Smith, Ochoa and Guzman",Anguilla,Automotive,90.5,73,Natural Disaster,Low,12,35306.51,84.7,4705.86,5401.9
+22ec1ed8-c156-47ad-868e-fc4aaa8cf606,Juarez-Clarke,Puerto Rico,Retail,91.65,66,Port Congestion,High,88,4324026.53,91.39,609416.17,372298.68
+4cd93d47-6afd-47dd-b88b-166103faf8d9,"Gregory, Butler and Jackson",Tanzania,Retail,74.42,91,Labor Strike,Low,14,17179.17,50.81,3031.24,8450.43
+d6694b9c-1a98-4787-8198-8c10351db0de,"Meyers, Taylor and Burnett",Iraq,Retail,73.94,69,Raw Material Shortage,Medium,119,228572.91,86.39,18144.18,31108.77
+25734d96-cc79-4bf2-9c92-1ecf3da69cda,"Copeland, Neal and Ramirez",Uzbekistan,Food & Beverage,87.35,67,Port Congestion,Low,1,32322.06,70.86,5385.52,9418.65
+2448fc5d-ca22-45c2-a2f7-d31e22080c26,Griffin Group,Ghana,Food & Beverage,86.79,96,Logistics Delay,Low,22,34837.68,75.83,4956.28,8420.27
+9cc1c2d6-5244-4ec6-8dc7-60800bd8afd5,Warner-Cannon,India,Retail,76.06,22,Regulatory Issue,Medium,46,425166.08,90.8,27326.36,39115.28
+c3726076-2618-4704-8d71-030cc16b569d,Villanueva-Adams,Yemen,Food & Beverage,61.76,7,Regulatory Issue,Low,10,43978.09,72.31,2738.2,12177.53
+1b82e3c2-b698-47b4-b2b5-10970a42f15a,Williams-Ward,Kenya,Pharmaceuticals,66.48,22,Raw Material Shortage,Medium,43,453568.88,56.07,78918.79,199252.81
+645e2244-e56d-4077-bc88-b612664befa7,White Inc,United Kingdom,Food & Beverage,60.14,36,Logistics Delay,Low,6,43801.94,99.79,5970.39,91.98
+5287e0ef-8937-42ae-b931-c32c72dd0fce,Jackson-Jenkins,Saint Martin,Automotive,84.38,22,Logistics Delay,High,16,3808947.01,86.01,252685.34,532871.69
+34112bdf-4373-4d3b-895f-1a6941d88ec0,Lee-Thomas,Martinique,Automotive,93.16,67,Logistics Delay,High,73,3876492.63,98.82,579747.4,45742.61
+59058519-a265-40d5-8e81-384be0b2e141,Hodges-Gibson,Oman,Automotive,81.1,94,Natural Disaster,Medium,116,441285.25,81.49,43731.28,81681.9
+3a6579de-4adf-4e63-949c-79154ef3ac9c,Pruitt Inc,United Arab Emirates,Food & Beverage,60.37,95,Cyber Attack,Low,10,12722.6,71.13,2048.89,3673.01
+b3fc002d-dfc4-4c84-8a63-bc4bc61cf677,"Prince, Wilkerson and Pena",Kyrgyz Republic,Retail,76.65,14,Raw Material Shortage,Medium,155,452658.16,61.48,70891.58,174363.92
+bf52c002-2001-4d26-9360-ae4fdd590427,Merritt-Ponce,Saint Martin,Electronics,67.48,57,Natural Disaster,Low,7,45044.72,73.53,8732.78,11923.34
+3f990c7b-413e-4e2e-9485-3cda31ae346b,"Lynch, Jones and Graham",Iran,Retail,62.79,94,Cyber Attack,Medium,8,296561.91,84.57,24340.58,45759.5
+576da845-95b1-45ce-b3ad-82295bb07cd5,"King, Black and Young",Cocos (Keeling) Islands,Pharmaceuticals,94.12,61,Port Congestion,Low,9,20738.22,80.08,1192.22,4131.05
+e3c28c23-8b92-454e-81e0-ca40f6f3b425,Lyons-Flores,Bulgaria,Automotive,73.51,13,Supplier Bankruptcy,Low,18,47119.55,78.78,2450.5,9998.77
+16e714b0-0ca7-4d8d-b0c9-aaee1783b9bd,Tucker-Nash,Angola,Automotive,93.63,21,Natural Disaster,Low,17,14679.94,95.79,2931.9,618.03
+3e037dee-9f59-4d2a-b26a-9500d9368eae,Barber PLC,Burkina Faso,Pharmaceuticals,73.41,58,Logistics Delay,High,180,3895898.61,73.23,532698.3,1042932.06
+7c27d0a2-7006-4575-b081-bdc79f4749c1,"Houston, West and Ramos",Congo,Electronics,85.5,4,Regulatory Issue,High,113,1166591.22,56.91,168360.59,502684.16
+93a92991-5ad1-4f9b-be2b-7b41e3d40a5a,"James, Flynn and Hebert",Kuwait,Pharmaceuticals,64.95,76,Port Congestion,High,105,3156388.85,65.89,183514.86,1076644.24
+9c2b5c16-2bc5-4bdd-a284-c8d7d97b3236,Schultz LLC,New Zealand,Retail,79.29,18,Natural Disaster,Low,19,33437.2,98.43,1936.31,524.96
+05885139-113c-4677-94b3-143591eb38d8,May-Butler,British Virgin Islands,Electronics,68.23,77,Raw Material Shortage,Low,19,44505.59,86.03,2734.2,6217.43
+02cc8795-9900-4f06-958e-43370329bfb7,Lucas-Fuller,Saint Vincent and the Grenadines,Retail,96.9,93,Labor Strike,Medium,47,138696.38,98.52,9876.08,2052.71
+6eeb9e1d-915a-4e3f-9d93-8ddaa1eafe63,Richard Group,Iceland,Automotive,86.06,9,Cyber Attack,Low,6,17004.08,62.75,2772.55,6334.02
+63712087-453c-4e88-87b9-2f31101db88a,Clark-Reyes,Iceland,Food & Beverage,93.08,97,Supplier Bankruptcy,Low,5,20288.74,91.58,1982.99,1708.31
+86466abb-53ff-4666-9aeb-0823dc8c458b,"Miller, Harrison and Shaw",Saint Pierre and Miquelon,Retail,80.59,71,Raw Material Shortage,Low,23,19145.39,96.63,1195.63,645.2
+c7906104-49dc-45a4-b49d-e25e089ade3f,Shaw Group,Egypt,Food & Beverage,84.34,84,Raw Material Shortage,Low,4,46495.85,95.67,8840.09,2013.27
+13308217-4bca-44a2-a300-48bd798583dd,Chavez-Butler,Malaysia,Electronics,65.99,37,Natural Disaster,Low,8,47376.03,97.21,5900.11,1321.79
+7f6e5fd4-5817-4675-a8ac-fbebf4c8af80,Davis-Carrillo,Martinique,Retail,81.1,51,Regulatory Issue,Low,11,47418.4,92.58,2765.2,3518.45
+fa6e1e03-ff4c-4324-a235-f0f07ebdb5a7,Mcgrath Inc,Cyprus,Retail,85.74,15,Supplier Bankruptcy,High,91,630328.6,58.3,75366.44,262847.03
+ec7c43f2-0a6a-4024-8a24-1bf5a3e0cbe1,"Smith, Pace and Sanchez",British Indian Ocean Territory (Chagos Archipelago),Food & Beverage,95.04,4,Cyber Attack,High,115,1411672.52,98.57,268152.0,20186.92
+710bb711-25f1-4fc8-b292-e7d340628237,Singh Inc,Comoros,Food & Beverage,67.89,70,Raw Material Shortage,Low,22,13933.87,68.08,1863.97,4447.69
+454b2115-e5aa-426b-9177-d9ad89bc9c24,Brown-Clements,Italy,Food & Beverage,70.8,95,Regulatory Issue,Low,21,35273.22,52.08,2390.36,16902.93
+d212e1d6-69bb-4ba4-87fc-30f1964abcaa,Davis LLC,Micronesia,Retail,75.93,89,Labor Strike,Medium,143,231616.7,85.19,18035.06,34302.43
+829c653b-b9b9-45fa-b924-f026bc7d3c9b,Wilkinson-Anderson,Palestinian Territory,Retail,64.06,27,Labor Strike,Low,30,25158.9,52.16,2038.42,12036.02
+108bad6e-339c-412a-b518-345aa6778f8e,Lopez-Manning,Saint Kitts and Nevis,Electronics,83.18,78,Port Congestion,Medium,98,68395.52,64.42,3536.97,24335.13
+0950d054-2c88-456e-9285-b0915b8ab51d,Smith Inc,Heard Island and McDonald Islands,Automotive,96.27,24,Regulatory Issue,Low,18,25921.77,76.3,3341.98,6143.46
+5694f7f1-7813-496f-856e-48cc27c22861,Davis Ltd,Antarctica (the territory South of 60 deg S),Food & Beverage,91.12,81,Cyber Attack,Low,11,39803.77,56.09,7039.99,17477.84
+df8746db-5a30-4e1e-8964-74a44d95183f,Robinson Ltd,Italy,Pharmaceuticals,76.55,23,Natural Disaster,Medium,83,355477.97,67.8,43238.87,114463.91
+fd0d15a2-e184-4ba7-b40c-d74838fc8ed2,Ramirez Group,Suriname,Electronics,81.11,94,Natural Disaster,Low,20,17468.09,92.56,1072.03,1299.63
+2227cad0-f8b9-476d-8a91-95722ae6516d,"Murray, Good and Molina",United Arab Emirates,Food & Beverage,86.89,0,Cyber Attack,Medium,67,88250.74,96.19,12296.54,3362.35
+39dce683-28ab-42da-97ad-920cd6df6db2,Schmidt Group,French Southern Territories,Pharmaceuticals,85.42,78,Natural Disaster,Low,28,35907.96,92.53,3948.9,2682.32
+6b7f04e3-cbb0-46b6-91b9-d8238f74adf4,Cannon Group,Egypt,Retail,69.3,85,Raw Material Shortage,Low,13,47513.76,55.42,6877.12,21181.63
+b4474272-a0a7-455e-ab31-8d75d5b4832a,"Moses, Rose and Jacobs",Ghana,Automotive,73.52,18,Supplier Bankruptcy,Low,24,19515.82,75.19,2409.06,4841.87
+e3ed8073-dae9-43d6-a1a6-edd395394564,"Barnes, Flores and Wilkinson",Armenia,Retail,65.59,20,Regulatory Issue,High,83,699443.09,81.27,46937.81,131005.69
+3cc14458-1b79-48a7-8283-be65a96bc244,Sanchez-Sullivan,Trinidad and Tobago,Food & Beverage,89.5,77,Logistics Delay,Low,19,28859.04,70.86,2850.87,8409.52
+5dcab263-6004-4cb2-aed9-72fa306fa34d,Khan PLC,Sao Tome and Principe,Electronics,78.81,48,Labor Strike,Low,3,18837.01,85.17,2928.06,2793.53
+b605b97d-b9ba-4cc3-add3-1ada25ce80c6,"Scott, Oliver and Romero",Martinique,Electronics,92.5,20,Labor Strike,Medium,161,92695.1,92.94,18400.77,6544.27
+48c8e0b0-73c6-4f23-bf22-55ab0488c460,"Calhoun, Brooks and Chen",Mali,Food & Beverage,91.79,9,Natural Disaster,High,78,2506285.2,53.07,300835.68,1176199.64
+3a34dfed-409e-4c5e-9608-d1167eb5d86d,Meyers-Barker,Chad,Food & Beverage,95.55,81,Port Congestion,Medium,81,189876.34,91.71,37862.27,15740.75
+4fbf1de0-d453-4109-8c82-9b1604f4c3e5,"Hernandez, Hess and Clark",Saint Vincent and the Grenadines,Electronics,91.76,4,Logistics Delay,Low,13,30676.51,91.98,2274.29,2460.26
+c891c3b2-b373-4906-8af6-51c9bcd71399,"Parks, Wagner and Woods",Myanmar,Automotive,82.13,28,Cyber Attack,Low,16,33023.9,80.5,2858.04,6439.66
+ae0476a7-2277-4a1a-ab23-bf21ef222d91,"Vega, Livingston and Nguyen",Bolivia,Food & Beverage,80.96,98,Raw Material Shortage,Low,26,35697.94,90.23,5884.55,3487.69
+e043d947-f456-4863-9b01-d51f2343396c,Thompson-King,Chad,Automotive,95.26,64,Raw Material Shortage,Low,25,30414.08,79.92,2680.16,6107.15
+cc607fcb-455e-482d-921f-ab50b92d963a,Vaughn-Hooper,Malaysia,Automotive,97.92,42,Port Congestion,Medium,146,68488.45,99.6,12973.35,273.95
+ec706f21-a397-4109-8b84-c6abe628aee8,Warren-Johnson,Turkey,Retail,89.76,87,Cyber Attack,High,159,2876610.35,89.42,347229.46,304345.38
+3a777bf2-9d20-4010-bd49-04455e7454aa,Torres LLC,Tuvalu,Automotive,76.57,76,Supplier Bankruptcy,High,31,925170.9,71.7,62793.2,261823.36
+94cf5bd2-5801-48d6-b81a-bef043bca97c,Carter LLC,Peru,Electronics,65.77,10,Labor Strike,High,9,1616336.93,72.63,259101.2,442391.42
+ff649087-baea-43ad-bc5b-c469715dfdcc,Ford-Morgan,Bangladesh,Retail,97.43,46,Cyber Attack,Low,25,14818.21,74.22,2242.42,3820.13
+a03c41b5-faf8-4765-bd09-29b064021d68,"Warren, Fisher and Wright",Cameroon,Automotive,91.58,42,Cyber Attack,Medium,149,436679.63,52.13,38522.79,209038.54
+74bf028e-df54-4cc1-8563-6d2553dbc046,Gutierrez-Williams,Ghana,Pharmaceuticals,63.98,79,Labor Strike,Low,28,38756.63,62.77,7310.51,14429.09
+f65e979b-2465-4728-ab13-2818c846330a,Garner-Contreras,Northern Mariana Islands,Retail,93.43,51,Cyber Attack,High,43,1885867.38,79.97,120043.43,377739.24
+7cb5d8a0-da37-42d4-92f5-4c1481739827,Yates-Wong,Bangladesh,Electronics,75.54,9,Labor Strike,Low,12,17935.7,51.6,1483.5,8680.88
+f4298b99-948d-435d-b2bb-45eaea96ef05,Morales PLC,Mongolia,Pharmaceuticals,91.42,86,Cyber Attack,Low,30,15453.72,66.51,2149.03,5175.45
+bd69ae5b-a1cf-4934-8c70-5cb3bb7c32a8,"Smith, Garza and Sullivan",Cuba,Automotive,72.24,7,Raw Material Shortage,Low,30,40420.7,57.24,2452.66,17283.89
+8348fdda-0e70-41ec-ae74-9c8351d766f0,"Hill, Jones and Miller",Fiji,Retail,93.54,31,Natural Disaster,Medium,31,491082.79,71.62,91708.24,139369.3
+a699f2c6-efea-4d27-a203-c9162f440f1d,"Gilbert, Klein and Gibson",United States Virgin Islands,Retail,81.23,72,Logistics Delay,Medium,103,94685.84,88.56,13069.68,10832.06
+81fe077e-4bae-4963-b3fb-84a152308c4f,"Buckley, Leblanc and Barajas",Peru,Automotive,86.34,98,Labor Strike,Low,18,43235.02,96.64,4605.74,1452.7
+1e8b381e-89f2-437f-885f-fd89fedb3f1c,Olsen-White,France,Retail,73.45,3,Regulatory Issue,Medium,10,195147.1,55.43,27405.4,86977.06
+0d2cd9b0-5a9f-4b24-b77a-b7f961dcdf88,Wilson-Bennett,Oman,Electronics,64.42,43,Regulatory Issue,Low,6,23754.1,99.73,3647.65,64.14
+e5278f20-4b16-4c8d-a675-2fac882e3d4d,Smith-Sanders,Somalia,Electronics,64.21,81,Labor Strike,Medium,180,124702.23,56.86,9061.01,53796.54
+82ce6a9e-fd87-43f1-a0cf-e22e0dc6826f,"Lewis, Ortega and Smith",Latvia,Automotive,68.32,88,Raw Material Shortage,High,160,2413771.63,73.31,160196.57,644235.65
+4b3e68e6-4504-44bf-adf5-71b2d1c1fcf5,Collins-Morris,Mozambique,Food & Beverage,76.93,23,Raw Material Shortage,Medium,95,201524.24,73.7,20434.01,53000.88
+e54bd579-a4ec-43a9-80ca-1c083b88ece9,Pittman Inc,Chad,Retail,84.42,91,Port Congestion,Low,20,26734.75,92.15,2137.5,2098.68
+99a02ffb-60be-430b-a470-24ad2c35d1df,"Holloway, Hoffman and Howard",Netherlands,Retail,63.7,17,Natural Disaster,Medium,71,309956.71,60.26,51749.51,123176.8
+3dffb8ee-bf3f-4fe6-82b0-fcc8f4726151,"Nelson, Taylor and Rodriguez",Hong Kong,Food & Beverage,69.9,40,Supplier Bankruptcy,Medium,116,460264.29,52.05,39271.5,220696.73
+8ab63059-7788-446e-a631-f41dccdfcf24,"Reyes, Hill and Ross",Oman,Food & Beverage,85.88,32,Port Congestion,Low,18,10680.25,50.65,2090.28,5270.7
+9ff77937-3e2b-48a5-83ee-1e49679bb959,Osborn-Smith,Northern Mariana Islands,Retail,93.49,1,Raw Material Shortage,High,177,916055.18,97.74,153354.33,20702.85
+833ebcca-31cb-4536-8077-7e3f20da23c9,Quinn-Gray,Monaco,Retail,80.39,11,Labor Strike,Low,17,41824.02,69.43,5616.95,12785.6
+3b3b3414-4db0-45fc-bead-7e24dcecf1da,Foster Ltd,Bangladesh,Food & Beverage,92.54,29,Raw Material Shortage,High,179,2352716.33,82.49,338519.22,411960.63
+a9d78246-3bd7-4a03-af9f-07cfda7a7cbf,Moore PLC,Latvia,Pharmaceuticals,81.21,2,Port Congestion,Medium,111,270209.28,60.31,19426.48,107246.06
+8bf78683-42d4-4973-aea6-6cd0c5dc6d3a,Wilson-Ward,Pitcairn Islands,Retail,96.13,6,Regulatory Issue,Low,27,21532.78,52.89,3627.9,10144.09
+13ec33ae-4804-4eb5-b6ab-4f85da83ab58,"Scott, Morse and Ford",Micronesia,Automotive,94.15,24,Logistics Delay,Medium,27,364035.42,95.72,43970.3,15580.72
+49fd0857-e6ca-456d-a0a0-c9b0e6bb3f14,Donovan-Little,South Georgia and the South Sandwich Islands,Automotive,96.68,6,Raw Material Shortage,High,78,1225983.36,59.09,132047.32,501549.79
+c96e3157-eaa7-49c9-b5d5-bc0503adec9a,"Delgado, Murphy and Williams",Netherlands Antilles,Automotive,95.01,81,Logistics Delay,Medium,109,413320.39,89.03,52608.42,45341.25
+e0c585e1-de39-4aa9-b70e-6e744dfb3058,"Evans, Holloway and Edwards",Croatia,Automotive,69.06,80,Raw Material Shortage,Low,19,11185.79,93.56,1301.39,720.36
+70c40ae6-d5cb-4131-9ecf-9a9c536e8956,Powell Group,Portugal,Pharmaceuticals,67.4,15,Labor Strike,Medium,56,118439.61,62.83,18214.85,44024.0
+d21ff1ea-ce73-4949-81ce-c125fbebb984,Mendez Ltd,Uzbekistan,Retail,67.23,8,Logistics Delay,Low,9,12522.94,56.67,2246.06,5426.19
+5222c68a-284a-439e-9dd7-b667c857c2d7,"Elliott, Howell and Le",Palestinian Territory,Retail,98.5,62,Logistics Delay,High,89,1474259.61,78.36,248246.67,319029.78
+1a9b8539-e08d-4e21-a5a7-1e4dabd7b795,Alvarado Inc,Liberia,Pharmaceuticals,96.9,97,Labor Strike,High,103,2801685.61,76.87,513413.57,648029.88
+7537210f-ebd8-471c-830e-223cc8cc020e,Cook Group,El Salvador,Pharmaceuticals,95.43,24,Logistics Delay,Low,4,35897.54,51.43,2810.68,17435.44
+76b361bf-d5c2-4052-823d-454842386b1f,"Johnson, Richmond and Brown",China,Food & Beverage,68.39,8,Natural Disaster,Low,5,10846.69,59.27,1054.43,4417.86
+62435243-61c2-4339-b7b7-24ec0e32809f,Cuevas LLC,Tunisia,Retail,82.92,99,Raw Material Shortage,Medium,94,92928.49,88.53,8065.12,10658.9
+6a5d171c-b7c0-41da-9e96-5f630558bd67,Crawford-Hines,Western Sahara,Retail,93.92,90,Raw Material Shortage,Low,1,38227.98,50.48,5456.72,18930.5
+7eafde63-80dc-4c72-9f82-14991a916983,Sosa Group,Timor-Leste,Automotive,64.4,60,Regulatory Issue,Low,1,37432.77,54.7,4966.45,16957.04
+b7c29025-d443-4571-a983-9989c1c042b4,Gray LLC,Mauritania,Food & Beverage,96.69,6,Cyber Attack,Low,1,13218.9,73.07,1088.15,3559.85
+b1e16fed-3a99-427e-8da3-7e1b1246364c,"Johnson, Williams and Parker",Lebanon,Retail,79.82,21,Port Congestion,Low,6,27844.94,84.45,1498.28,4329.89
+325d2791-4628-4c83-b75a-e218ab26ac0b,Bullock Group,Afghanistan,Automotive,86.04,33,Raw Material Shortage,Low,27,18997.9,55.38,3663.05,8476.86
+92b7a3e2-acba-4b75-9c42-31f2ab735abb,Martinez LLC,Lao People's Democratic Republic,Food & Beverage,86.46,41,Port Congestion,High,176,1781430.56,97.42,216740.33,45960.91
+fb1d689c-02af-4e29-bca8-2e1c21aa5714,"Mitchell, Thompson and Johnson",Saint Vincent and the Grenadines,Food & Beverage,70.97,28,Port Congestion,High,111,2252708.92,64.53,251212.57,799035.85
+74ae8cf1-f24a-4ec4-a35d-6eb2382e3908,Kemp-Mcdowell,Poland,Retail,83.68,73,Logistics Delay,Medium,173,404178.92,56.59,35085.61,175454.07
+388e7e51-0e31-4a48-b9fb-4e9e5f5a9a76,Robinson-Mills,Iran,Automotive,97.96,74,Port Congestion,Medium,36,457157.83,52.54,67582.01,216967.11
+fefbabdc-8c3e-49d1-8a2c-9bd613b67a7f,"Garcia, Sullivan and Davis",Maldives,Retail,92.77,77,Logistics Delay,Medium,57,386981.71,89.69,74041.37,39897.81
+9037ec44-7a46-4ca0-b696-4565688030a4,Pollard Group,Tonga,Retail,67.23,57,Labor Strike,Low,15,18109.0,85.59,3233.98,2609.51
+df562659-0a76-4e8a-a510-fcdfaa93c490,Mcmahon-Williams,Falkland Islands (Malvinas),Automotive,77.82,88,Port Congestion,Medium,150,153070.98,96.23,14674.81,5770.78
+2c493142-f169-413d-b52f-e6b6af5df91f,Arias-Schmidt,Slovakia (Slovak Republic),Food & Beverage,93.17,63,Port Congestion,Low,22,40824.46,84.73,3190.92,6233.9
+d5b73162-d446-4535-a35b-331ca3873fe3,Hale-Wheeler,Tajikistan,Automotive,81.64,57,Port Congestion,Medium,11,58686.85,64.45,6277.4,20863.18
+f1716933-a7d0-4d05-b1a7-ac9b19c09b6b,Roberts-Malone,Isle of Man,Automotive,97.77,35,Port Congestion,Medium,18,427417.65,86.92,75194.76,55906.23
+2b58e64d-7333-4357-a57e-6e114dd931a1,Gregory-Herman,El Salvador,Pharmaceuticals,80.8,52,Port Congestion,Low,21,18618.83,90.94,3173.2,1686.87
+7b70d381-c1c8-4750-8ab1-cec2b9a69422,Smith-Rojas,Turks and Caicos Islands,Electronics,78.8,75,Raw Material Shortage,Low,12,10173.67,75.37,819.73,2505.77
+c8a9d3d1-085c-4098-b363-9e9792ae33b9,Hoffman-Parker,Aruba,Electronics,90.82,20,Port Congestion,Medium,57,430204.57,69.43,56185.71,131513.54
+537d6b10-5487-4117-9296-5be6867f6b5d,"Harris, Owens and Brennan",Myanmar,Pharmaceuticals,66.06,7,Regulatory Issue,Low,22,17057.92,65.71,1590.45,5849.16
+ee57b503-0e3d-40ca-802b-17cce1c0af5b,Huerta-Hernandez,Mayotte,Pharmaceuticals,63.49,67,Natural Disaster,Medium,152,399314.28,64.23,75625.55,142834.72
+e05dc0c3-b4e3-4eb3-b21e-65b958306e32,"Brown, Espinoza and Sutton",Saudi Arabia,Retail,96.01,17,Labor Strike,Medium,56,177127.16,92.52,29630.52,13249.11
+390a5fb4-435d-472a-b66a-c4a83643e2b8,"Olson, Cardenas and Obrien",Namibia,Electronics,77.73,45,Natural Disaster,Low,10,28209.98,96.93,1774.54,866.05
+e2c461c6-94c9-4fd1-aee2-0859e8475c42,"Khan, Obrien and Benton",Israel,Retail,61.24,33,Raw Material Shortage,High,165,1763514.26,57.82,149181.56,743850.31
+6d6d4edb-5c8a-4537-b231-47e4cb065bc6,Jackson PLC,Nigeria,Retail,72.77,24,Cyber Attack,Low,23,43076.42,88.89,4894.94,4785.79
+72a9c53d-bbab-4460-a1de-c81c60cbbcab,Green PLC,Ukraine,Electronics,69.55,91,Logistics Delay,Low,10,39309.24,83.78,2817.51,6375.96
+2f7a8c85-a933-4dfc-bc1a-d6ea7ad3a649,Wood and Sons,Morocco,Pharmaceuticals,89.85,89,Logistics Delay,Medium,61,71191.64,68.13,4687.57,22688.78
+7a94cfc7-32b5-4be1-a477-700fda0c4acc,"Rose, Anderson and Pratt",Guadeloupe,Retail,94.07,13,Logistics Delay,Low,24,45866.33,97.35,5949.06,1215.46
+79d92646-63aa-4137-8e05-c0c0f331e261,"Proctor, Soto and Olson",Kuwait,Pharmaceuticals,97.23,3,Raw Material Shortage,Medium,162,57290.35,56.52,8108.24,24909.84
+7b87e1fc-800d-4759-b310-00b09697ab55,Buckley-King,Suriname,Automotive,78.63,21,Natural Disaster,Low,26,28472.7,64.94,3803.68,9982.53
+09f31f4d-f5fd-4c91-a3c1-f7b78caec208,Smith-Morris,Malaysia,Electronics,94.3,51,Labor Strike,Low,30,17788.47,75.54,3226.63,4351.06
+84ae2a28-a773-4e14-b660-b66231d29faf,Kline-Cook,Congo,Retail,80.79,3,Logistics Delay,High,8,2948104.61,97.53,162663.42,72818.18
+42218752-c8d6-4d93-98ae-ccc2d316119a,Carr-Vazquez,Saudi Arabia,Retail,67.83,20,Raw Material Shortage,High,101,4122181.63,95.2,558278.6,197864.72
+1760e59c-eab6-49ab-8f7a-fc72c48006d6,Flores-Bowers,San Marino,Electronics,68.82,60,Natural Disaster,Low,1,23526.92,79.29,2072.5,4872.43
+5a0a60be-6595-4b15-aa96-338bfeea4594,Ashley Ltd,United Arab Emirates,Electronics,63.3,71,Cyber Attack,Medium,144,423034.12,99.35,63121.28,2749.72
+f731a0a3-ab8f-40b0-ba68-6be4d25a3ef3,Miller-Ellis,Korea,Food & Beverage,87.41,75,Labor Strike,High,133,2650336.49,92.24,132728.95,205666.11
+238d5fb0-1a4c-48b4-901d-0881561360f2,Lara-Jefferson,French Guiana,Retail,65.53,91,Port Congestion,High,24,3462156.83,61.31,545599.97,1339508.48
+b42aeadf-4bc7-4e0a-b4eb-9b5b5f40c083,Patrick-Torres,Slovenia,Retail,72.4,52,Cyber Attack,Low,23,47827.17,71.68,5556.25,13544.65
+c2312108-6a8a-42bd-afed-5fa29675f076,Parker-Oliver,Montserrat,Retail,79.62,54,Natural Disaster,Low,3,40897.75,51.55,2311.86,19814.96
+02b8131b-c645-4cd0-9f05-597a2eab3625,Lee-Smith,Congo,Pharmaceuticals,65.28,75,Logistics Delay,Low,17,20102.7,59.44,3774.95,8153.66
+72e70388-7527-4d05-83e5-894539d5f772,"Patel, Rodgers and Stafford",Belgium,Pharmaceuticals,81.53,59,Cyber Attack,High,41,1200803.11,61.56,189528.34,461588.72
+a90711da-4cde-4fe0-8c82-f135af8d8c3c,"Hill, Singleton and Strickland",Turkmenistan,Electronics,95.64,18,Logistics Delay,Low,25,43670.88,77.16,4195.08,9974.43
+06c07e3f-7e57-4bcf-bf62-5eed42036201,"Perry, Williams and Miller",Lebanon,Retail,74.14,93,Raw Material Shortage,Low,7,46689.75,56.08,8701.31,20506.14
+21e21267-2d60-4be0-b30b-5bb7819341d2,Simmons LLC,Wallis and Futuna,Electronics,78.54,13,Regulatory Issue,Low,10,45743.21,61.02,2577.36,17830.7
+56956827-1da9-4b20-afab-1f2aaae8f832,"Wilson, Craig and Lewis",Norway,Retail,87.58,54,Raw Material Shortage,High,100,3543703.11,92.99,265700.44,248413.59
+45be139d-99a8-47f3-8d0c-8efd4066d271,James LLC,Botswana,Automotive,65.18,79,Logistics Delay,Medium,91,434358.01,89.73,32266.86,44608.57
+e3a0bd47-b5b3-4716-a292-649d85e73e7a,Sullivan Ltd,Tuvalu,Retail,81.47,36,Labor Strike,Low,5,34141.4,88.79,5820.1,3827.25
+ba2f4ded-a06a-496b-a322-920975794e25,Patel-Smith,Cook Islands,Food & Beverage,74.54,55,Regulatory Issue,Low,17,44227.55,93.72,3187.85,2777.49
+89d343ef-06eb-40b7-a41c-cc566f6b4775,"Patterson, Ashley and Cooper",Korea,Automotive,62.48,31,Supplier Bankruptcy,Low,4,46404.61,84.92,7313.73,6997.82
+157672cf-9637-4f1b-acfb-dca29a01dad7,Moreno Ltd,Israel,Automotive,71.4,40,Cyber Attack,Medium,23,453580.24,85.84,83854.57,64226.96
+9ba313fd-2688-4fad-8db7-f2623741bb0c,Turner-Soto,Oman,Pharmaceuticals,90.12,25,Port Congestion,Low,29,22105.49,62.9,3621.18,8201.14
+2be99029-16b7-498e-90bf-4071c5c566b7,Peterson-Sheppard,Ethiopia,Pharmaceuticals,71.07,30,Cyber Attack,High,123,1607486.32,60.83,190140.65,629652.39
+9881dc98-ab21-465a-b579-6fbcb9ec5ecf,Bass-Jacobs,Bermuda,Retail,61.46,27,Logistics Delay,High,35,542916.68,87.47,53419.35,68027.46
+ba4228cd-95c5-4f75-9975-e724feb47626,Briggs-Ward,Tunisia,Food & Beverage,86.5,21,Logistics Delay,Medium,133,452766.74,87.85,46033.16,55011.16
+7029ffe9-9d59-4924-b621-e8e42cd1b143,Johnson-Fox,Monaco,Food & Beverage,97.29,57,Cyber Attack,Low,25,40430.51,80.66,7135.2,7819.26
+466aefbb-52b4-4a89-91ee-58f121fc1f54,"Jefferson, Smith and Ward",India,Electronics,77.41,86,Regulatory Issue,High,23,3998010.87,96.76,240924.67,129535.55
+6908b7fb-dee8-4e50-9517-3b0b35c45ee4,Martinez-Deleon,Oman,Retail,69.95,47,Natural Disaster,High,26,777878.06,61.02,63941.53,303216.87
+6ed76531-16ee-4162-8f6f-904560768abf,"Ferguson, Smith and Marshall",French Polynesia,Electronics,94.58,77,Cyber Attack,Medium,118,325151.32,95.09,25514.45,15964.93
+f8607a5c-7544-4014-a206-f1ba2b8c9e81,Mason-Munoz,India,Automotive,68.43,78,Regulatory Issue,Medium,56,322484.66,54.48,55042.66,146795.02
+6a506536-10f5-4931-ba6c-0bf2b04ed984,Ortiz and Sons,Maldives,Food & Beverage,95.47,42,Supplier Bankruptcy,Medium,112,191570.06,68.05,17565.74,61206.63
+d7787233-85b5-4b6a-a423-e704a559b646,Smith PLC,Saint Vincent and the Grenadines,Electronics,67.29,70,Port Congestion,Low,3,16777.51,51.95,1375.59,8061.59
+dd189ed8-d21a-446b-9028-61090a41d5da,Gonzalez-Foster,Moldova,Food & Beverage,74.42,89,Port Congestion,Low,27,16494.86,97.73,2613.62,374.43
+f0d159ca-ae5d-4a60-bdc1-d1de7b9b2594,Phillips Inc,Svalbard & Jan Mayen Islands,Electronics,77.21,39,Supplier Bankruptcy,Low,27,39719.64,51.02,2799.15,19454.68
+e44ce7bd-51fe-4534-a5a6-ce1d0db6e4f0,Dixon LLC,Chile,Pharmaceuticals,97.95,19,Port Congestion,Low,21,47511.1,92.52,9083.52,3553.83
+104ea50f-71da-48f2-94eb-f57f27d8e4a1,"Jackson, Reyes and Farley",Liechtenstein,Pharmaceuticals,86.56,59,Raw Material Shortage,Low,27,14145.36,51.93,2170.99,6799.67
+6956fda2-06e6-4a46-9700-87838bb8ebbf,Ellis Inc,Iraq,Electronics,75.79,29,Labor Strike,High,83,4669579.46,77.32,507137.32,1059060.62
+d05b104a-94c1-4d2a-ab56-5dbd51abf7b0,"Carter, Santos and Torres",Swaziland,Electronics,68.7,58,Logistics Delay,Low,21,21886.2,93.09,3832.9,1512.34
+cf04a9b1-a342-4ccc-8fbb-3ba37de67d73,Thomas-Cunningham,Cameroon,Electronics,92.99,74,Labor Strike,Low,9,48399.31,76.75,8973.32,11252.84
+c3f0b2cc-937c-499c-88cb-0a4cf60e6f0b,"Gomez, Cunningham and Jones",Haiti,Automotive,92.47,81,Port Congestion,Medium,143,287414.82,96.18,21624.82,10979.25
+5268b913-21b3-4581-ab0d-b3bd762815a7,King-Harvey,Zimbabwe,Pharmaceuticals,83.14,0,Regulatory Issue,High,93,3574424.51,72.22,288121.68,992975.13
+860ca34a-6b04-4c7a-b522-78f8a6b65305,"Buck, Bartlett and Mccoy",Vietnam,Electronics,61.3,91,Port Congestion,Low,22,29354.04,70.91,4966.64,8539.09
+d8fc5eba-53b2-48b0-964d-7a13612af52f,Schneider Inc,Saint Helena,Pharmaceuticals,77.69,79,Raw Material Shortage,Medium,107,427322.27,69.93,57382.84,128495.81
+f0a802fe-79a2-450f-8ac2-14d2828abd46,"Guerrero, Woods and Holt",Grenada,Food & Beverage,83.53,1,Natural Disaster,Low,7,11042.67,54.54,1687.57,5020.0
+456ba1c1-b394-451d-84f9-3818653c0973,Harrison-Phillips,Bahamas,Retail,70.41,56,Supplier Bankruptcy,High,75,1945183.2,86.09,182261.86,270574.98
+1f9dd875-b3f8-4b6c-96f2-6af2f332f67c,"Cox, Hampton and Soto",Cyprus,Pharmaceuticals,65.32,99,Cyber Attack,Low,10,46788.46,90.43,8672.44,4477.66
+05625344-3074-4ff7-9fae-93868f677bfb,"Hall, Willis and Bates",Switzerland,Electronics,62.81,14,Supplier Bankruptcy,Medium,34,470147.31,77.23,47212.43,107052.54
+0f8e0941-48d7-42e8-a909-97f09f8d79e8,Cooper and Sons,Guam,Pharmaceuticals,69.19,23,Cyber Attack,Low,18,23840.13,66.87,1398.25,7898.24
+7fa0cdb0-0613-4060-a3c3-e8cadd85443a,Holder Group,Isle of Man,Food & Beverage,71.6,78,Port Congestion,High,42,3055303.63,95.25,411198.44,145126.92
+690ada4f-09b0-4214-b332-848d46eae1ae,Smith-White,Sierra Leone,Electronics,61.39,60,Logistics Delay,Low,21,44050.36,86.74,6938.27,5841.08
+da0a1bbc-d540-43ce-ae8d-ee2dd12462f1,Moore LLC,Myanmar,Automotive,78.08,27,Logistics Delay,Medium,96,445474.78,88.32,76856.27,52031.45
+323ecf9b-b652-407a-b66d-ea00e0de651c,"Mills, Clayton and Garcia",Ireland,Retail,63.76,74,Port Congestion,High,129,4004132.91,97.99,429672.43,80483.07
+ff90c026-4050-4cc9-961e-eebe6f6a3adf,"Steele, Curtis and Keith",Bouvet Island (Bouvetoya),Pharmaceuticals,70.56,6,Logistics Delay,High,36,1992601.71,99.35,145990.44,12951.91
+c9554869-d23a-42f4-addf-6ba6e7eec9c0,Aguirre-Valdez,South Africa,Electronics,88.7,65,Cyber Attack,Medium,111,67788.06,75.95,8738.17,16303.03
+f2e73b2f-9d78-4a29-b8ec-fc9e4befc2e2,"Gardner, Thornton and Briggs",Christmas Island,Pharmaceuticals,63.57,1,Labor Strike,Low,9,18126.57,66.08,2439.2,6148.53
+ed20f1ef-2629-4dfd-9035-7beef2c1f6cd,Johnson-Davis,Botswana,Automotive,81.79,87,Natural Disaster,Medium,124,76381.9,68.48,11930.31,24075.57
+5b4ba761-80c2-46e9-b2ea-1ee1f27d2929,Oliver-Hale,Tokelau,Food & Beverage,68.21,88,Raw Material Shortage,Low,29,27533.87,50.95,4967.03,13505.36
+d4378b9f-6293-4f93-814e-8948c27e283d,Mueller-Diaz,French Southern Territories,Food & Beverage,83.54,94,Logistics Delay,High,65,2739608.9,92.54,459559.59,204374.82
+5bc286c1-bad3-4736-8dc2-feafb281d07b,Chen-Dickerson,Taiwan,Electronics,84.15,98,Port Congestion,Medium,150,398837.47,65.1,48566.89,139194.28
+2fa651df-c5d2-4e8d-b646-5d3bbd48daf6,"Gutierrez, Hahn and Yang",Japan,Food & Beverage,92.52,59,Labor Strike,Medium,85,443850.06,84.24,36909.46,69950.77
+b53b3449-0536-4bb7-97b7-fda06d21758f,Silva-Vance,Sudan,Automotive,69.97,2,Natural Disaster,High,73,2429316.27,80.38,280590.24,476631.85
+60b090e2-db59-4132-ab8c-56471035b4b5,Delgado Inc,Macedonia,Electronics,97.64,29,Logistics Delay,High,46,2810798.01,82.36,289251.4,495824.77
+ce3afdd9-72ed-4178-99be-0f1aca3f5b6d,Garcia-Ross,Rwanda,Retail,71.39,12,Supplier Bankruptcy,High,148,1897295.62,64.27,136215.82,677903.73
+8c7ed741-bd3d-468b-b757-ad8042085b70,Weber-Torres,Turks and Caicos Islands,Food & Beverage,78.18,26,Regulatory Issue,Medium,129,208203.69,76.65,31109.05,48615.56
+fe656ded-bfc0-494e-b93d-b7f99f964f0d,Gutierrez-Walsh,Finland,Retail,69.75,3,Cyber Attack,Low,14,40926.75,95.57,5125.62,1813.06
+27156f03-12d9-4c68-b3e3-aac957b1e6a9,Dunlap-Bennett,Honduras,Food & Beverage,95.38,79,Natural Disaster,High,36,4871988.24,68.83,887588.56,1518598.73
+d11c4870-a897-4988-9a84-e09aa8b664e0,Byrd Group,Greece,Food & Beverage,67.95,45,Port Congestion,High,56,4107523.6,75.56,659403.78,1003878.77
+8abdad4f-6332-4c5e-82bf-6d1f9b9c7c47,Olson-Alexander,Cuba,Electronics,77.76,34,Logistics Delay,Low,19,33413.59,83.03,3826.3,5670.29
+677949e3-9e1d-4234-b409-c1d69b424d6f,Velez-Escobar,Serbia,Food & Beverage,74.95,79,Port Congestion,Medium,29,157765.47,97.1,12511.26,4575.2
+2440f08e-4b93-4c78-829a-d26e6714c199,Moore Ltd,Israel,Food & Beverage,68.5,7,Cyber Attack,High,30,1035108.28,58.48,147010.89,429776.96
+7ad3ab35-3d8d-4b52-aebf-1e10976a3c9e,Guzman Group,Monaco,Food & Beverage,94.14,50,Cyber Attack,High,62,988509.94,69.22,58127.74,304263.36
+54681984-5401-4896-b4ac-a7290f64d463,"Nguyen, Fisher and Anderson",Iran,Automotive,77.38,5,Port Congestion,Medium,49,220796.99,64.51,20889.43,78360.85
+7de41b5f-337f-440f-9292-b2109fc2434d,"Juarez, Beasley and Oneal",India,Electronics,72.12,62,Labor Strike,Low,30,16558.43,87.04,2063.18,2145.97
+38924419-1d2f-4ec6-807e-9cde98bdb3cc,Wong-Wilson,Puerto Rico,Automotive,86.66,77,Logistics Delay,Low,11,38768.08,53.36,2776.75,18081.43
+6b1d055a-956f-4403-98e6-6945f9fb9fda,"Ballard, Smith and Ayala",Mauritania,Food & Beverage,97.96,93,Supplier Bankruptcy,Low,2,36404.54,84.07,2843.92,5799.24
+4561517f-5ded-444c-9859-27dd9d4e3972,Wheeler LLC,Liberia,Retail,63.39,4,Regulatory Issue,Medium,10,397236.53,90.01,40604.14,39683.93
+4a692d36-9713-4b3c-aafb-b315203534a0,"Williams, Jackson and Burns",Guatemala,Electronics,92.4,9,Raw Material Shortage,Low,10,12623.71,67.64,1407.66,4085.03
+d8c5d2db-a340-4a48-915b-6bba345b7b66,"Brooks, Wong and Myers",Ecuador,Retail,97.98,69,Supplier Bankruptcy,High,18,3193531.39,88.19,280739.01,377156.06
+c29c0a8e-c999-4ab6-ad0e-871fd5d34900,Parker-Barnett,Guatemala,Retail,96.78,78,Cyber Attack,Low,23,37672.42,94.2,3116.6,2185.0
+039c7f13-3ae0-4437-87f9-0f4293d45717,King-Stein,Guatemala,Food & Beverage,93.23,99,Natural Disaster,Medium,65,350039.5,74.92,58418.12,87789.91
+a8d5277e-540e-42d9-b5d0-238bf323de97,Levine-Smith,Monaco,Retail,82.68,13,Cyber Attack,Medium,16,218108.21,57.11,41056.99,93546.61
+296f085d-b3d1-480b-b753-df714557edee,Collins PLC,United States of America,Pharmaceuticals,82.44,58,Logistics Delay,High,151,2949075.31,68.24,428588.56,936626.32
+aefecfd5-0c48-4b85-924f-f08e9ca774aa,Atkins LLC,Colombia,Retail,76.56,22,Cyber Attack,Low,6,13334.64,51.69,2548.23,6441.96
+4592a38c-2b32-4911-a1d0-f92948e4ca44,Orozco-Weaver,Ukraine,Automotive,65.18,11,Labor Strike,Low,21,22217.13,78.84,1757.1,4701.14
+e2bfecb7-7d6c-4a0e-a0b5-f00b26e80cd4,"Miller, Brock and Smith",Netherlands Antilles,Automotive,92.77,3,Raw Material Shortage,Low,6,35619.5,91.43,4530.32,3052.59
+ba0a4b94-72d8-493f-aae6-d611577ff902,"Brown, Velazquez and Owens",Chad,Electronics,84.22,11,Labor Strike,Medium,114,265222.66,96.28,49189.45,9866.28
+976544ea-a640-4c71-90e5-cf97c5aae43f,Davies PLC,Libyan Arab Jamahiriya,Retail,96.8,24,Natural Disaster,Medium,80,219150.46,58.42,31730.95,91122.76
+9142196b-af44-4690-9f48-2b4923dc64bc,"Harris, Taylor and Diaz",Turks and Caicos Islands,Automotive,82.9,59,Regulatory Issue,Medium,138,99299.93,92.47,17414.41,7477.28
+f9a33e39-5882-40df-ba16-cfadda4e9b61,"Holmes, Boone and Johnson",Martinique,Retail,85.93,95,Labor Strike,Low,28,48084.2,84.38,2677.96,7510.75
+982fbc05-d5dd-447c-92d6-c60e64ce8b8b,"Johnson, Williams and Frost",Nauru,Electronics,79.17,23,Regulatory Issue,High,170,3451291.85,60.16,190904.08,1374994.67
+8d7132b9-9cca-43cf-8e1d-5dda258ace51,"Chapman, Solis and Brown",Congo,Retail,84.93,93,Labor Strike,Low,4,43796.22,57.09,5312.33,18792.96
+e4d3a6b0-1d53-40e4-bf05-3c98cba34ae6,Davis-Steele,Hungary,Food & Beverage,93.44,58,Port Congestion,Low,13,43857.08,68.2,6002.52,13946.55
+f5374472-c5ee-404a-a4a2-b9bf9c0cc435,Boone LLC,Costa Rica,Pharmaceuticals,61.01,79,Labor Strike,Low,29,13162.71,68.4,1817.84,4159.42
+c1e1149c-8e34-43a8-9052-24a215f43580,James Group,Heard Island and McDonald Islands,Retail,78.93,0,Labor Strike,Medium,15,74502.64,51.26,7008.6,36312.59
+c8e6260d-69bc-498d-958c-5d5e34ace79b,"Johnson, Robinson and Vasquez",Singapore,Electronics,90.97,68,Raw Material Shortage,Medium,85,430816.17,78.88,35947.21,90988.38
+c78d0709-51df-448f-bc8b-4105558d2210,Miranda Group,Malaysia,Electronics,67.18,74,Cyber Attack,High,2,3805352.49,57.07,711820.86,1633637.82
+f36925a6-f1cf-4117-8145-7afd0d1a1ab4,Morrison-Perry,Suriname,Pharmaceuticals,71.6,86,Supplier Bankruptcy,Low,9,43790.35,96.82,7309.69,1392.53
+84281845-caa0-457a-bdbe-90620c452b08,Pugh-Hill,Monaco,Food & Beverage,77.74,87,Supplier Bankruptcy,Low,11,32286.08,94.44,3037.48,1795.11
+781f2774-7aed-44c7-813b-247d61ea061d,Todd-Hudson,Christmas Island,Automotive,97.01,70,Regulatory Issue,High,32,2212416.11,65.25,185258.21,768814.6
+8baac877-d721-41d5-a049-e16240903d75,Anthony Group,Iran,Electronics,81.63,54,Cyber Attack,Low,29,36702.61,66.73,6739.71,12210.96
+3e3b7527-6816-4fb8-9009-98d4219ad02d,Randolph-Wise,Zambia,Automotive,85.68,96,Regulatory Issue,High,16,4985133.94,73.02,944725.16,1344989.14
+afcfe75c-42bd-4260-af39-8b52f1a3a4f2,"Bush, Sanchez and Wagner",Paraguay,Food & Beverage,68.12,0,Logistics Delay,High,154,2423781.67,86.75,370950.86,321151.07
+86058a01-19cd-4821-a92b-efea289a5b2b,"White, Wagner and Mooney",Italy,Food & Beverage,80.67,77,Port Congestion,Low,3,23041.24,50.5,2817.73,11405.41
+71daf066-23f7-4a85-a538-4be24d6db6e4,Hanson-Haley,Mozambique,Pharmaceuticals,68.42,60,Logistics Delay,Low,12,27898.78,50.87,2816.15,13706.67
+52f4cc9d-6c41-4f6e-8603-ee974ea9e0a5,Peterson-Koch,Kiribati,Retail,86.8,18,Labor Strike,High,6,999833.08,58.33,171694.38,416630.44
+87af4025-84b8-4d41-951c-d76793e5efa1,White-Hardy,Barbados,Pharmaceuticals,80.87,55,Natural Disaster,High,47,1519994.89,90.55,302526.05,143639.52
+33d1ad77-95a9-4c52-9b70-bb5f66e0dad1,Cook-Galloway,Brazil,Electronics,74.99,81,Cyber Attack,Medium,55,494335.84,53.91,89843.35,227839.39
+d97e28b3-a0e9-47fc-a354-16aff2fafeee,Wilson-Valencia,India,Retail,92.2,90,Cyber Attack,Low,2,37611.71,54.87,2343.5,16974.16
+25543d88-7bc7-48ee-b8d3-4b5e7efddf78,"Thomas, Wise and Torres",Italy,Retail,72.82,30,Supplier Bankruptcy,Low,26,39620.02,67.38,4862.78,12924.05
+a6f38a92-8568-4f1e-bea1-2ad8a54a4c66,Howard Ltd,Svalbard & Jan Mayen Islands,Electronics,76.8,82,Raw Material Shortage,Medium,123,365835.42,54.33,63050.24,167077.04
+5067472f-e94d-404b-9635-b6c4a7411a05,Reed PLC,Guinea,Pharmaceuticals,65.44,94,Regulatory Issue,Low,12,43110.84,80.9,5344.86,8234.17
+fbd140f6-26c4-484a-a803-794037d932ca,"Hall, Johnson and Wilson",Somalia,Electronics,86.87,22,Logistics Delay,Medium,95,499134.54,86.88,88620.04,65486.45
+c982173c-0b43-4ede-a20b-896228bfad90,Cox Group,New Zealand,Pharmaceuticals,98.81,46,Raw Material Shortage,Low,3,45862.1,86.71,2450.92,6095.07
+ffca4eb9-abf6-43b0-a1ca-89f65e109153,Hill Ltd,Russian Federation,Electronics,76.83,82,Logistics Delay,High,151,3299186.4,84.21,215295.29,520941.53
+ea0a4b2f-9911-4aa1-9e38-3da1cadc63ac,Daniel Inc,Australia,Electronics,67.93,73,Regulatory Issue,Low,10,21446.88,79.8,3105.31,4332.27
+978fa441-334d-4ea7-aeaa-06d71433991a,Huffman Group,Bermuda,Pharmaceuticals,78.11,1,Logistics Delay,High,8,4134832.16,85.82,593611.8,586319.2
+1ea40ead-90df-4c8e-a9f2-281a55a35cf4,"Wilcox, Gates and Wilson",Argentina,Electronics,70.84,48,Labor Strike,Low,3,36258.47,99.99,4075.57,3.63
+62300c12-975a-40ef-848d-c418aea00650,"Page, Perez and Sawyer",Uzbekistan,Food & Beverage,81.77,9,Natural Disaster,Low,15,46497.39,64.2,9094.7,16646.07
+06f073f2-9520-4cac-883a-939c31175fad,Bond Inc,Bahrain,Automotive,63.3,25,Cyber Attack,Low,12,45531.81,61.03,3900.89,17743.75
+69306b98-ae57-4700-a5a8-ac4eb9dc4d5a,Erickson-Strong,Switzerland,Electronics,85.11,14,Port Congestion,Low,20,25888.09,91.34,2478.9,2241.91
+a3b6040d-3a62-4122-aa7a-7c12e6d25b4f,"Holloway, Rivera and Cooper",Nauru,Automotive,66.83,97,Natural Disaster,Low,27,35434.55,67.64,6102.96,11466.62
+d4842d32-27a4-4bb9-aff3-76d35fc7755c,Smith-Pierce,Cameroon,Automotive,92.62,56,Supplier Bankruptcy,High,108,1144205.26,50.7,162401.2,564093.19
+57d447cd-b420-4f6c-8073-afbe7f13e62d,Fox PLC,Niger,Automotive,82.87,27,Logistics Delay,Low,22,35232.96,90.66,6806.08,3290.76
+eb0177fa-f277-4481-857b-a30e7ab873d1,"Thomas, Charles and Wilson",Chile,Retail,88.27,18,Port Congestion,High,141,4770342.91,66.13,729303.02,1615715.14
+21148cc2-1e14-442e-a249-f60b551c89c8,Beck-Valdez,Tajikistan,Electronics,84.7,48,Natural Disaster,High,146,590288.41,75.24,86252.1,146155.41
+a3c23a7b-4a90-4b26-9a36-1f8fef040d0e,Martinez-Chang,Tokelau,Pharmaceuticals,97.01,17,Logistics Delay,Low,24,49390.43,55.02,5579.52,22215.82
+c146665c-03c7-47ce-b64a-102d5ae2c746,"Hatfield, Duke and Byrd",Switzerland,Electronics,80.22,20,Raw Material Shortage,Low,10,46762.49,80.75,8760.75,9001.78
+2c451132-1aa7-48e3-b8e4-1410f0c276ac,Brown-Rhodes,Guadeloupe,Food & Beverage,70.8,8,Port Congestion,Low,21,37523.21,56.08,2829.96,16480.19
+d7d00c7f-1682-4af0-8401-cca7684a3d1c,Ingram and Sons,Switzerland,Food & Beverage,86.26,1,Supplier Bankruptcy,High,125,1418255.99,70.84,209569.94,413563.45
+c0e239c4-968c-40af-9418-9a3b70810363,Reed LLC,Uganda,Food & Beverage,92.93,94,Natural Disaster,Low,29,47280.47,80.5,6016.01,9219.69
+b72566e3-fefa-459b-8228-c02fbbb8418c,Ortega-Williams,Macao,Food & Beverage,73.81,62,Regulatory Issue,Medium,142,256124.43,51.03,40646.58,125424.13
+b1c7ef1d-c775-4dfe-ba4c-baad33f3ceaa,Morgan Ltd,Saint Kitts and Nevis,Food & Beverage,82.44,82,Labor Strike,Low,19,29343.77,75.92,4933.43,7065.98
+cd883989-da0c-46f2-b73c-3d589cb730a4,"Reyes, Frazier and Kline",Colombia,Electronics,70.35,17,Cyber Attack,Low,8,25205.3,59.83,1876.42,10124.97
+d1ade7d4-54c0-4a5a-a5f9-51751438ab22,Morgan-Green,Taiwan,Electronics,81.01,0,Labor Strike,Medium,31,130404.77,93.76,19856.93,8137.26
+413501e9-446f-49b1-b8c5-4e8820f073d4,"Martinez, Li and Daniels",Iceland,Electronics,72.06,43,Cyber Attack,Medium,9,75644.09,54.05,6158.94,34758.46
+36e416f1-27c6-4f96-a0c1-4d74611812d9,Wright-Mcknight,Guatemala,Retail,86.48,35,Supplier Bankruptcy,High,161,2597554.9,79.05,515393.53,544187.75
+7f6a19f9-dc93-4137-871c-ce2e53b8f0e1,"Long, Schmidt and Ortiz",Benin,Electronics,73.99,88,Supplier Bankruptcy,Medium,56,354958.42,56.58,23530.71,154122.95
+04da3929-61e3-4232-9474-d39f43010e77,Garcia-Davis,Mauritania,Electronics,96.08,89,Regulatory Issue,High,150,2900349.8,59.63,252834.68,1170871.21
+724c063f-cc95-42f7-bdec-9f2ff8656d46,Ramirez-Hodge,Oman,Retail,66.39,7,Regulatory Issue,High,105,1922596.43,92.75,259381.65,139388.24
+00feeefa-4172-4d5c-bc8b-ffc7cf7fc776,Summers LLC,Luxembourg,Electronics,64.0,22,Regulatory Issue,Low,3,19039.16,62.88,2513.31,7067.34
+90fd4805-bb95-4647-b12d-28c03c5c76ce,Smith LLC,Tajikistan,Electronics,90.3,76,Port Congestion,Medium,160,141166.0,51.9,17957.57,67900.85
+3ed0e746-b062-4e8a-988e-f5a004d01bdc,Hutchinson-Richards,Kuwait,Electronics,84.47,21,Regulatory Issue,Medium,101,250302.49,80.27,17017.38,49384.68
+9295f34d-ac48-4c02-9f4c-06a5ab62c93d,"Conley, Gonzalez and Castaneda",Germany,Electronics,78.56,24,Raw Material Shortage,Medium,177,127641.58,73.3,11477.08,34080.3
+4e454a7b-212b-43e0-9154-756d57830eb1,Lee LLC,Mayotte,Electronics,96.86,56,Raw Material Shortage,Low,11,33035.28,76.34,2649.48,7816.15
+642b624c-05eb-4136-9547-8c0950db74de,Kelley Ltd,Swaziland,Retail,89.98,79,Logistics Delay,Low,15,13293.92,72.48,788.02,3658.49
+929bdfc0-551f-41b4-9860-a327b6a1d88b,Smith-Brown,French Polynesia,Retail,69.79,90,Supplier Bankruptcy,Low,17,41142.13,56.6,4030.32,17855.68
+efc90977-9641-4713-8275-967762da2e07,"Brown, Patterson and Brown",Cayman Islands,Automotive,68.34,77,Labor Strike,High,119,4749950.24,51.09,886007.57,2323200.66
+a59b6753-b0a5-4d62-876d-59fda4b01f05,Parks Ltd,Bangladesh,Automotive,71.59,43,Port Congestion,Medium,160,286187.66,66.17,50690.16,96817.29
+b497dc44-fd5a-444c-b689-6b6d4242c86c,Pace and Sons,Uganda,Food & Beverage,92.03,46,Labor Strike,Low,18,31995.14,59.2,3069.26,13054.02
+19961bf9-7410-4db5-89af-83bd37a03b02,"Lee, Baker and Ramos",Aruba,Automotive,71.29,54,Natural Disaster,Low,20,40658.05,81.04,4423.8,7708.77
+4ff9e936-01a2-4146-9fe5-6a1655451e95,Stevens Group,Kyrgyz Republic,Automotive,74.23,58,Raw Material Shortage,Low,14,17380.56,93.65,2391.69,1103.67
+d25c4fc1-b57e-403b-8d9a-424ff08aa606,"Huynh, Patterson and Goodman",Austria,Retail,73.53,28,Regulatory Issue,Low,6,20694.04,83.81,2951.18,3350.37
+7a9a0ea3-7da0-4054-bf37-d90e5da3b7f6,Stanley-Brown,South Georgia and the South Sandwich Islands,Pharmaceuticals,86.43,79,Supplier Bankruptcy,High,18,2650291.34,77.3,264597.66,601616.13
+f4b28368-edba-4ed7-a0a6-177abd4ccc86,Smith-Castaneda,American Samoa,Food & Beverage,79.97,38,Raw Material Shortage,Low,29,31869.0,52.57,1676.56,15115.47
+0c4e1c18-ee1a-447a-b54d-4da6cbc32494,Kent Ltd,Guinea-Bissau,Food & Beverage,86.66,42,Cyber Attack,Low,21,21672.28,89.2,2036.95,2340.61
+2d3032a2-1b49-4b65-8812-73256f1719a3,Sosa PLC,Hungary,Automotive,61.66,19,Logistics Delay,Low,29,33189.68,71.97,5270.55,9303.07
+32327b3e-37dc-4432-8a62-96e7d6f789e2,"Ferrell, Weber and Arnold",Suriname,Automotive,97.91,46,Cyber Attack,Medium,163,139552.51,86.59,8123.62,18713.99
+a502e3fc-a37d-4125-ac81-ba06933759f9,Gilbert and Sons,Greenland,Pharmaceuticals,88.79,77,Supplier Bankruptcy,Low,23,11233.68,51.6,2206.32,5437.1
+d748bea5-c0bf-41d1-8ff3-b8d59bc93071,Blake-Cole,New Caledonia,Food & Beverage,82.25,20,Natural Disaster,Low,30,24683.6,95.84,4810.73,1026.84
+84e30548-f9c6-490a-bc8d-f90837dfc21a,Miller-Davis,Russian Federation,Pharmaceuticals,73.32,31,Port Congestion,High,166,3314346.58,87.48,187757.17,414956.19
+08cb365c-fcaa-4fd5-b563-b211ee376869,Bennett-Ortiz,British Virgin Islands,Automotive,69.02,56,Logistics Delay,Medium,34,100301.59,97.37,19815.25,2637.93
+5bc95592-e63f-4b0b-8dd5-51323e3e375b,"Lopez, Murray and Welch",Dominican Republic,Food & Beverage,73.33,85,Logistics Delay,Medium,127,436844.06,80.06,29293.17,87106.71
+4a10fb3f-71ef-48c2-8e51-777a20cd4b0a,Thompson-Turner,Guam,Pharmaceuticals,88.3,32,Cyber Attack,Low,6,21013.3,99.59,2879.84,86.15
+b6e0e7c8-cdd0-44ac-b321-88c3b65735ba,Hansen-Drake,Luxembourg,Electronics,95.46,88,Supplier Bankruptcy,Low,8,46670.15,83.29,4064.23,7798.58
+c49e690e-e314-441e-bcbf-82e79a522831,"Hall, Smith and Jones",Cameroon,Food & Beverage,74.53,88,Raw Material Shortage,Low,1,40681.13,82.33,8096.69,7188.36
+4f0f4032-9e11-4ebd-83d7-9a9ecd104fc1,Ramsey-Hunter,Bouvet Island (Bouvetoya),Automotive,84.0,53,Port Congestion,Low,18,20030.19,67.26,2898.7,6557.88
+0823dd84-7ffd-4b72-976c-bcad411e1864,Walker-Carney,Lebanon,Food & Beverage,76.21,13,Labor Strike,Low,1,16861.26,77.76,3155.67,3749.94
+a2900b68-325a-4d76-80c9-b73dd97eb394,"Curtis, Holland and Martinez",Montserrat,Food & Beverage,63.18,98,Labor Strike,High,132,3653333.12,73.61,685233.75,964114.61
+bf972285-c3cc-4252-ae84-3d1888b35ff5,Garza-Lane,Malta,Retail,82.11,48,Port Congestion,Low,16,34061.52,86.6,4226.47,4564.24
+e1a93208-ff80-498c-aa9c-0ec08c56332a,Everett-Parks,Guernsey,Pharmaceuticals,78.46,61,Supplier Bankruptcy,Low,30,41329.26,92.95,2499.38,2913.71
+94b2b765-cb2d-404a-bd8f-45e7540e49a8,Avery Group,United Kingdom,Food & Beverage,97.02,45,Supplier Bankruptcy,Medium,74,491668.13,81.44,77600.02,91253.6
+d967232b-8bf2-4270-af30-caf71b5dc40a,Davis Ltd,South Georgia and the South Sandwich Islands,Electronics,72.75,59,Regulatory Issue,Low,20,27367.97,60.56,2062.18,10793.93
+37a0db81-1deb-4411-bac0-f8b02ff05091,Evans-Gross,Cape Verde,Pharmaceuticals,82.93,48,Cyber Attack,Low,29,16198.17,81.9,2374.01,2931.87
+f9b99264-5d63-469a-8ac1-90631ec68b41,Day and Sons,Sri Lanka,Retail,68.41,81,Regulatory Issue,Low,2,47717.83,75.7,3900.27,11595.43
+8a3e9b02-79d3-469a-804c-1d27cab69560,Moore Ltd,Paraguay,Automotive,98.66,38,Raw Material Shortage,Low,5,28015.11,91.22,2060.83,2459.73
+26f3b9cd-c091-4d64-9539-d9acb9cce13b,"Diaz, Taylor and Oconnell",Andorra,Electronics,79.56,22,Port Congestion,Low,27,48825.13,71.4,6851.61,13963.99
+ba65f956-ff6d-4d7d-978e-e1e3ecea837f,Butler-Mathis,Guadeloupe,Food & Beverage,87.2,31,Labor Strike,Low,2,26122.18,64.94,2227.03,9158.44
+7f718130-22f9-4e13-9810-f9156878f8d1,Gaines Inc,New Caledonia,Pharmaceuticals,92.8,19,Raw Material Shortage,Medium,150,112401.57,71.63,15099.39,31888.33
+20143f8f-f5c1-4a42-bda3-501a0c2345d6,Jones Group,Greece,Retail,73.48,25,Labor Strike,Low,18,29496.22,77.66,2416.93,6589.46
+8f721f7d-35d3-4ded-a026-c54fcc42b086,Richards Ltd,United States Virgin Islands,Automotive,71.84,34,Supplier Bankruptcy,Medium,26,492032.59,71.69,48137.48,139294.43
+106843e3-00ff-4618-a94b-47eac1121472,Webb Inc,Rwanda,Food & Beverage,60.3,98,Regulatory Issue,High,130,968991.75,61.23,114971.62,375678.1
+4d05b13f-dbad-40aa-8255-98f2468dbe8d,Dawson LLC,Venezuela,Food & Beverage,93.71,54,Port Congestion,Medium,104,347318.44,51.37,41015.14,168900.96
+a9dd52e5-28c8-4106-b35c-bac4c94a40e6,Jackson Group,Timor-Leste,Pharmaceuticals,95.3,8,Natural Disaster,Low,11,32114.42,94.37,2925.81,1808.04
+f7448abb-cbfb-42f2-8df1-be55d7078d31,Miller-Spencer,Guinea-Bissau,Pharmaceuticals,86.09,65,Labor Strike,Medium,33,105978.98,79.53,16065.33,21693.9
+20308882-1999-4872-a686-1cd6b3cd940b,Holder and Sons,Nauru,Retail,86.8,85,Regulatory Issue,Medium,110,327883.72,99.46,61300.97,1770.57
+6d09a7fc-27aa-4109-8922-ab271b6cf47c,Williams-Hall,Congo,Food & Beverage,83.63,83,Cyber Attack,Medium,90,336223.27,97.4,41215.74,8741.81
+234c269d-5a89-48c0-abff-90c1ae72769c,"Marsh, Frye and Banks",Serbia,Pharmaceuticals,60.42,22,Port Congestion,Low,28,22868.81,77.82,2318.69,5072.3
+e4543da0-b91a-44d3-a518-f8a19ce0a81a,Mason-Peters,Togo,Electronics,92.84,24,Labor Strike,High,175,3261617.81,96.24,520066.02,122636.83
+dd41c1de-5ab0-454a-85ed-d99c509f1dd4,"Williams, Reed and Conway",Romania,Automotive,79.34,32,Natural Disaster,Low,20,14508.29,69.54,1059.64,4419.23
+2ed33399-4109-4b84-a4e5-64cbdb98d334,Welch-Strickland,Libyan Arab Jamahiriya,Automotive,80.5,97,Supplier Bankruptcy,Medium,141,171942.63,74.35,8748.92,44103.28
+f2989ff2-fb1c-46aa-ba72-3254a44c133a,"West, Miller and Guerrero",Tonga,Retail,60.27,1,Natural Disaster,Low,22,14949.06,72.93,1324.71,4046.71
+8206c42c-bbf2-4fb9-a94e-138b2b65d555,Ware-Moore,Korea,Pharmaceuticals,61.42,25,Regulatory Issue,Low,7,23200.97,92.48,2373.55,1744.71
+c48639ab-6404-4209-9d90-4b3195246572,Mack Inc,Congo,Food & Beverage,73.64,84,Raw Material Shortage,Low,5,38063.87,89.92,6390.42,3836.84
+1a66e7d9-37e4-4c4a-b6ea-b1cde3ea4a22,"Caldwell, Haynes and Dickerson",Germany,Automotive,70.69,29,Port Congestion,Medium,106,439526.45,91.62,37393.96,36832.32
+4836f068-a8ff-433c-8b9a-5d91e42928db,Jones-Irwin,Kuwait,Retail,70.34,69,Natural Disaster,Low,29,33119.48,79.98,3444.41,6630.52
+8b52a2d7-030f-4802-8d51-daafd453713f,Ramirez-Mcconnell,Netherlands,Pharmaceuticals,86.35,86,Port Congestion,High,162,2799170.19,57.11,246203.7,1200564.09
+e4831da7-652d-4047-8e58-4a4dd836691a,"Roberts, Stafford and Diaz",Korea,Electronics,82.55,71,Cyber Attack,High,80,1483299.3,77.22,266107.46,337895.58
+6b4a82b9-1ac0-43db-8f6a-aad9deaca6e5,Barker-Jenkins,Montenegro,Retail,85.91,72,Supplier Bankruptcy,Medium,54,170413.24,66.04,26744.16,57872.34
+0f088fe7-1990-41b9-bae5-5bb04afddb29,"Shelton, Greene and Vincent",Togo,Retail,69.99,94,Port Congestion,High,70,4511047.76,84.09,582871.17,717707.7
+cd1ac184-deee-44ac-b1ef-49e9fe3b89d2,Baxter-Carson,Armenia,Food & Beverage,72.29,29,Raw Material Shortage,Low,25,44689.1,54.24,2330.42,20449.73
+8053ec72-aa06-4ca5-ae89-7c254a3e096b,"Kramer, Hartman and Lee",Venezuela,Automotive,66.24,66,Natural Disaster,Low,27,28585.91,71.14,4896.82,8249.89
+3013d40a-7ea4-4823-9b48-4186b6055e52,Russell PLC,Solomon Islands,Electronics,69.97,13,Labor Strike,Low,7,34697.09,98.85,2214.04,399.02
+fc168e84-c986-48f0-ab24-07680b7d632b,Romero-Lopez,Angola,Automotive,85.01,0,Natural Disaster,High,156,1042442.61,82.68,142766.75,180551.06
+4dbd99cd-1e2a-4973-93b7-ef96f6b5deec,"Knight, Lopez and Roach",Bhutan,Food & Beverage,70.5,45,Raw Material Shortage,Low,7,47894.5,86.23,7781.75,6595.07
+5a5ccc22-afba-4f96-99b3-20a5a1431b7c,"Hart, Diaz and Cantrell",Angola,Pharmaceuticals,86.65,17,Regulatory Issue,Low,3,27177.01,79.61,4482.45,5541.39
+fc645419-a1e5-4124-839f-8de5512d44d3,"Dorsey, Thomas and Lynch",Mayotte,Retail,80.48,71,Port Congestion,Low,4,18394.35,61.38,2530.39,7103.9
+86f3c41b-9101-4976-bc90-9bafa7db9747,Benson Inc,Mauritania,Food & Beverage,66.31,68,Logistics Delay,Medium,52,308595.44,52.57,27813.82,146366.82
+0524ce5e-2d5b-44e6-8ce1-01b353c7da87,Camacho-Schmidt,Sierra Leone,Retail,74.69,84,Regulatory Issue,High,14,2345692.45,88.94,385691.63,259433.58
+65b00e63-6cfd-483a-8203-15b63665a1e3,Zamora-Whitaker,Belarus,Automotive,78.89,45,Supplier Bankruptcy,Medium,88,80469.97,91.5,9033.54,6839.95
+05705684-3407-4abb-8139-450d9641e283,Sawyer-Freeman,Chad,Automotive,93.27,39,Labor Strike,Low,23,49454.1,53.35,8465.87,23070.34
+f34b279b-4873-48e2-990b-814af8fc7eb2,"Grimes, Jones and Dillon",India,Electronics,85.91,51,Natural Disaster,Low,1,37781.02,65.12,6392.53,13178.02
+388c5be5-ce36-4fa6-9afd-1e01c9edf82f,Ellis-Knight,Namibia,Electronics,65.29,7,Natural Disaster,Medium,38,264861.27,52.64,16179.95,125438.3
+4b66e372-ed3b-495a-9b0b-98ac9c0f66cf,Smith-Parrish,Andorra,Electronics,89.47,11,Logistics Delay,Low,17,37837.22,78.24,5037.52,8233.38
+2a496794-61b3-4f46-9f4f-dce63d9db451,Jennings-Taylor,Lithuania,Food & Beverage,63.62,69,Logistics Delay,Medium,20,305250.23,76.09,43147.93,72985.33
+09080f1f-f735-4ec9-9d62-b5d7a92b9662,"Patterson, Lewis and Mccoy",Yemen,Retail,94.26,74,Logistics Delay,Low,29,27382.32,86.27,3534.94,3759.59
+f52a45bd-8485-4847-a740-03334ba58327,Brooks-Thompson,Vietnam,Electronics,88.64,27,Natural Disaster,Medium,17,66910.82,57.84,8901.2,28209.6
+2b3af4bf-78e9-417d-be4a-de3352991ac2,Robinson-Hernandez,New Caledonia,Pharmaceuticals,70.88,29,Cyber Attack,Low,30,23756.76,95.31,3147.26,1114.19
+af0c8732-aa54-4a82-b45f-3ee0ad3ac7ee,Brown Ltd,Yemen,Retail,66.38,69,Raw Material Shortage,High,69,1994290.38,59.78,113038.86,802103.59
+a029e5e4-cd0d-479f-8243-ecf5863cfd5d,"Clark, Underwood and Castaneda",Congo,Automotive,62.69,40,Regulatory Issue,Low,4,35624.35,50.74,4272.12,17548.55
+3cedeff4-ecc0-4daa-8abb-ffb537130747,Thomas and Sons,Guam,Electronics,91.02,17,Supplier Bankruptcy,Medium,153,285954.93,70.01,50788.84,85757.88
+8dfd475f-108f-4320-8433-d5c72c40f990,Burns-Larson,Madagascar,Automotive,88.03,66,Cyber Attack,High,123,4274697.56,50.46,512989.95,2117685.17
+f06f2269-9a28-4163-967c-2f61020d2b50,Burton-Black,French Guiana,Pharmaceuticals,94.46,38,Cyber Attack,Low,6,42004.17,77.11,3719.99,9614.75
+16906038-f561-41ff-a498-9dea87defd92,"Burgess, Wright and Gardner",San Marino,Pharmaceuticals,85.73,38,Cyber Attack,Medium,36,295603.01,77.81,37732.53,65594.31
+eb876e57-d887-4bc2-99b3-6e56a6cc4d23,"Smith, Murphy and Figueroa",Central African Republic,Food & Beverage,92.6,42,Port Congestion,Medium,161,391710.79,87.12,43719.8,50452.35
+165ef932-2db7-4b00-8c5c-c3b93fcbd76a,Kennedy and Sons,Sudan,Electronics,74.92,57,Cyber Attack,Medium,66,268834.46,67.64,29520.53,86994.83
+f5968d20-2c4d-4112-aec9-18a39047f631,Gonzalez Ltd,Fiji,Pharmaceuticals,79.61,63,Regulatory Issue,Low,17,17609.75,95.8,1268.99,739.61
+285d2449-28a8-4612-b5c1-0cf37edf875e,Lucas-Williams,Antigua and Barbuda,Pharmaceuticals,98.72,55,Supplier Bankruptcy,Low,14,45475.19,88.03,3283.6,5443.38
+874bbc89-33db-4730-9aa2-ba1e0b76ad5d,Richards LLC,Namibia,Electronics,74.26,32,Port Congestion,Low,26,26994.58,58.88,4178.95,11100.17
+fc8c236f-a87f-4e11-b44e-61e6104d9474,"Palmer, Nixon and Mora",United Arab Emirates,Pharmaceuticals,66.62,22,Port Congestion,Low,16,14471.79,78.61,815.36,3095.52
+c3c85a82-abcc-418c-b701-1005d498aa1a,"Brown, Wang and Lucas",Canada,Pharmaceuticals,68.03,7,Port Congestion,High,32,726660.21,72.77,112437.1,197869.58
+3e8747f5-9b09-417b-adbc-0c353c5be564,Mcdonald-Mcconnell,Madagascar,Food & Beverage,72.5,54,Regulatory Issue,Low,23,42090.69,91.06,5391.82,3762.91
+8a240c31-dcd7-4656-afef-b54eb8b60563,Hebert-Ferguson,Saudi Arabia,Automotive,62.42,80,Raw Material Shortage,Low,16,31970.17,54.77,2894.09,14460.11
+ee2f56ac-cf58-41b4-829c-0cbc37e20f43,Mcdowell PLC,Martinique,Food & Beverage,92.09,53,Supplier Bankruptcy,Low,23,12971.23,86.14,1692.47,1797.81
+2c6d8f5f-6b75-4819-a38f-5a4d4978fec9,Gentry Inc,Bhutan,Automotive,67.96,46,Port Congestion,Low,12,44641.69,72.68,5218.63,12196.11
+bbf408b7-b440-44a2-acb9-c2ca59200f61,Thompson Ltd,Ecuador,Food & Beverage,81.72,40,Cyber Attack,High,3,4695536.94,86.18,496301.47,648923.21
+ad8b0c12-cfcc-4201-8d50-9ede37d434df,Moreno-Garcia,Djibouti,Pharmaceuticals,92.69,85,Cyber Attack,Low,29,18274.53,87.69,2025.0,2249.59
+97bb6eae-9a89-4fb2-a824-52b960d9c8b4,Allen and Sons,Colombia,Pharmaceuticals,86.33,13,Supplier Bankruptcy,High,177,4994108.1,50.97,585859.57,2448611.2
+fbdc0c9c-6668-44d5-bd91-239de3dc46eb,Ayala-Clark,Vanuatu,Food & Beverage,94.87,77,Raw Material Shortage,Low,14,45330.92,95.96,5142.47,1831.37
+be8ec8ac-421d-41fd-867e-6459765df29f,Barnes-Cobb,Bhutan,Automotive,67.26,79,Natural Disaster,Low,25,34868.6,92.49,3350.61,2618.63
+967aab25-d5b8-40ff-aebc-ed51f063d3d9,Rivers PLC,Bhutan,Electronics,90.23,24,Raw Material Shortage,High,172,3812964.09,85.68,231732.47,546016.46
+238eb08e-da31-45d2-9d5c-bb91fe105fbc,Saunders-Miller,Tokelau,Retail,89.35,95,Raw Material Shortage,High,168,4924168.57,66.11,568182.83,1668800.73
+c82f38ff-02a0-4094-8e96-c8eb1d99a6e6,Ortiz Group,Haiti,Electronics,68.93,92,Port Congestion,Medium,81,54468.7,68.54,6961.69,17135.85
+03fd0d97-f61a-422d-b317-1a2afc35a3de,Marshall LLC,Ghana,Retail,64.56,8,Raw Material Shortage,Low,23,34014.07,69.68,3321.11,10313.07
+627dbaf4-0157-46c8-8204-45ee8fd4afe1,"Gilbert, Jones and Bradford",Congo,Pharmaceuticals,82.2,16,Natural Disaster,Low,7,33157.23,57.57,4943.96,14068.61
+1d7d7960-2b5c-4414-9cac-7a8aad09d607,Campbell Ltd,Qatar,Retail,66.14,13,Regulatory Issue,Medium,162,303335.89,92.77,44310.53,21931.18
+bdd67e4c-4b6c-4c61-8155-53c16a96fe14,Owen-Campos,El Salvador,Retail,80.23,49,Raw Material Shortage,Low,19,42051.29,70.2,6585.38,12531.28
+3c33879f-8079-409a-acd3-ef2e0446b988,"Lyons, Townsend and Garrison",Thailand,Automotive,79.07,58,Regulatory Issue,Medium,32,286587.01,74.58,37889.51,72850.42
+0e62e607-0002-4bd5-8cb4-aff001b5ace4,Terry-Jones,Slovenia,Retail,81.73,27,Natural Disaster,Medium,3,143603.55,92.0,14476.82,11488.28
+172414da-1350-40db-a43f-343465e6a134,"Prince, Dixon and Lee",Cook Islands,Pharmaceuticals,80.84,56,Raw Material Shortage,Low,1,16829.53,87.96,979.61,2026.28
+5f686146-5fc6-473a-93f1-80c40982916d,Hernandez-Hurst,Montenegro,Food & Beverage,93.89,16,Natural Disaster,Low,3,46770.57,76.3,4172.02,11084.63
+023700af-0be2-4fb4-b2c6-b233a7aee672,Woodard Ltd,Myanmar,Electronics,60.38,52,Raw Material Shortage,Low,7,43216.29,55.82,6120.35,19092.96
+785c182c-bf82-44ed-8ede-eae17ce0393c,"Baker, Mcdonald and Wolfe",Taiwan,Pharmaceuticals,82.66,23,Raw Material Shortage,Medium,123,378627.45,78.15,28741.83,82730.1
+031452e2-be4c-4209-95e2-24be73c40609,Williamson-Thomas,Mauritania,Retail,96.55,39,Cyber Attack,Low,7,36753.7,91.64,2523.64,3072.61
+95f48e0c-37ef-422d-8a82-91beec1dc7d8,Cline-Jordan,Jamaica,Electronics,90.05,99,Logistics Delay,Low,11,38358.88,86.52,5214.68,5170.78
+ca21ee5b-1d66-4b06-ad24-315efcf1687c,"Garcia, Conley and Wright",Heard Island and McDonald Islands,Food & Beverage,84.09,28,Logistics Delay,Low,25,23532.22,78.02,3646.8,5172.38
+1fee2a4b-836d-4904-93bd-371fda019038,Herman and Sons,Slovakia (Slovak Republic),Electronics,85.09,46,Supplier Bankruptcy,Low,21,41307.14,51.13,3204.0,20186.8
+22516b2f-12cd-4aa3-b3de-e17bed6e2b5e,"Holden, Ramirez and Simmons",Turks and Caicos Islands,Pharmaceuticals,98.72,40,Port Congestion,Medium,151,281356.78,74.46,33853.5,71858.52
+43729db0-ddc2-49cc-8041-318d656f13a6,"Peters, Everett and Harris",Trinidad and Tobago,Food & Beverage,63.48,40,Cyber Attack,Medium,65,389590.19,62.8,68198.59,144927.55
+3070bc00-ec8b-4bd6-a184-31ea49ed0960,Greer Inc,Georgia,Retail,98.17,66,Regulatory Issue,Low,12,49609.27,70.69,2832.32,14540.48
+857e1a82-87ea-493e-9268-9f7a48cac493,"Crane, Fisher and Cole",Nigeria,Food & Beverage,90.44,50,Regulatory Issue,High,152,2791667.54,55.32,462706.59,1247317.06
+a78fe258-abd8-4be1-9314-c28820449bd9,Mendoza-Martinez,Suriname,Automotive,82.42,88,Raw Material Shortage,Low,1,21801.71,51.1,3007.84,10661.04
+53d127ec-9921-48d9-902a-d496583893b8,Walters and Sons,Myanmar,Automotive,78.68,47,Raw Material Shortage,Low,30,35447.13,80.25,7023.76,7000.81
+8314ba2e-98c9-4573-bed8-18d6aac98bff,"Palmer, Kidd and Hawkins",Switzerland,Retail,90.68,50,Labor Strike,High,22,1868067.76,57.17,366587.13,800093.42
+3dcf02b0-c045-441b-b14e-d9bc11c45067,Myers-Hill,British Indian Ocean Territory (Chagos Archipelago),Retail,94.54,82,Logistics Delay,Low,29,40788.87,59.82,6427.37,16388.97
+896ad257-bf14-420b-ac0e-fdbb1adeb6e3,"Morrow, Perez and Jacobs",Madagascar,Pharmaceuticals,62.4,70,Supplier Bankruptcy,Low,30,42302.02,90.39,4910.45,4065.22
+5c2f5f42-cdea-42fe-8988-d01afe7194c5,Nelson Group,Australia,Electronics,89.96,13,Raw Material Shortage,Medium,162,130994.19,57.95,8295.65,55083.06
+c1ed818f-19ff-433f-a33f-bdf60056f268,"Guerrero, Perez and Johnson",Wallis and Futuna,Electronics,64.58,79,Regulatory Issue,High,60,2585678.71,53.03,318012.57,1214493.29
+516d4c9d-2d3f-45b7-8f3d-a10329239cb7,Matthews Ltd,Serbia,Pharmaceuticals,77.76,62,Regulatory Issue,Low,26,31639.36,77.99,4813.6,6963.82
+04de403d-0f61-4338-ba29-63a3039f0e88,"Smith, Hubbard and Martinez",Saint Helena,Retail,67.38,34,Raw Material Shortage,Low,2,37222.3,62.43,3710.44,13984.42
+f7d7e2b0-3208-47b7-aa2c-4b069b10fd81,"Graham, Stevens and Jones",Sri Lanka,Retail,69.06,46,Regulatory Issue,Low,1,35634.29,68.9,5124.17,11082.26
+b6bf2123-a183-4cd9-9840-4dd7e6fbe8e9,"Wells, Reyes and Wilkins",Bhutan,Electronics,69.51,16,Supplier Bankruptcy,High,120,3224995.8,78.94,195324.28,679184.12
+58cc8060-6645-4329-a87b-f4986d862995,Jones PLC,Kuwait,Food & Beverage,66.01,89,Port Congestion,High,71,1257113.77,95.74,170304.05,53553.05
+d6d84360-657b-4f9e-a1e5-5cb2d758cdc6,Fuller-Ford,Malta,Retail,84.56,58,Cyber Attack,Low,10,44262.42,88.58,6213.74,5054.77
+b6c59a15-5d62-4a17-a827-199b29e8fcea,"Larson, Dixon and Leblanc",Austria,Retail,97.28,49,Natural Disaster,Low,2,20732.41,69.3,4037.26,6364.85
+1311bd50-e879-417b-a7e6-20e9f6e931a8,Campbell and Sons,Chile,Food & Beverage,67.55,59,Natural Disaster,Low,12,24299.97,75.41,2959.28,5975.36
+a25e1158-82af-4a5d-9dad-9a0776471f74,Sparks-Rodriguez,Poland,Retail,60.56,19,Logistics Delay,Low,29,44268.13,67.01,5374.54,14604.06
+599256a9-b3e8-4f92-ab8d-8c857549c67d,"Wu, Jones and Hayden",Venezuela,Food & Beverage,90.08,74,Logistics Delay,Low,30,39990.22,91.9,7006.88,3239.21
+101e61a3-69ae-4a6c-a3e4-6cbc6562430d,Dalton Ltd,Saint Vincent and the Grenadines,Electronics,82.45,81,Labor Strike,Medium,56,492829.01,86.61,68625.51,65989.8
+8a23fa91-7870-4593-9b49-b07650c48740,"Wright, Long and Williams",Palestinian Territory,Electronics,82.22,45,Raw Material Shortage,Low,14,31779.2,88.82,5242.89,3552.91
+7e320d12-e9e6-463c-985a-ad874d8b6c9b,Branch-Romero,Turkmenistan,Electronics,81.98,81,Raw Material Shortage,Low,23,19779.62,98.34,2024.64,328.34
+245c3ada-a734-40d1-abb1-94739d27a9e3,"Parker, Mcdonald and Pace",Mali,Automotive,68.38,78,Supplier Bankruptcy,Medium,24,238820.94,80.06,47168.71,47620.9
+bddb20fb-179a-4dae-8a0d-a3a52fb9418a,Waters-Thomas,Antigua and Barbuda,Electronics,73.67,12,Port Congestion,Low,27,33393.8,61.83,2253.16,12746.41
+ab931f09-0213-4daf-9dfd-ccfe7d60b0c5,"Miller, Blanchard and Williams",Samoa,Automotive,94.67,89,Labor Strike,Low,14,27399.13,92.94,3802.93,1934.38
+3624216a-5841-47ad-a25a-4ac064ca48a2,Stevens LLC,Ireland,Food & Beverage,91.18,76,Labor Strike,Medium,133,194619.27,64.1,29745.19,69868.32
+f5ffd8b8-9f27-42ae-9e49-99172033b2dd,Norton-Yates,Anguilla,Retail,68.57,65,Labor Strike,Medium,58,83692.89,95.65,11258.12,3640.64
+fb3708ff-125a-455d-8a1a-bf00f8eaa49a,Kim Ltd,Turks and Caicos Islands,Retail,74.61,24,Labor Strike,Low,9,34521.58,50.47,4438.89,17098.54
+3504bbad-be6a-4c4f-acef-4c74edd20acc,Owens-Schultz,Kiribati,Pharmaceuticals,67.67,97,Natural Disaster,High,97,3974838.67,55.44,359053.46,1771188.11
+e5e03fd5-a97a-4486-bb64-fa163e711da3,"Stephenson, Perez and Mcgrath",Timor-Leste,Electronics,65.63,60,Supplier Bankruptcy,Low,8,23477.52,82.88,3273.29,4019.35
+c90ba63b-a49e-4710-9f4c-e54ff0c8d383,Rich Inc,Palau,Food & Beverage,98.93,51,Raw Material Shortage,Medium,92,312003.86,64.96,44151.51,109326.15
+66edcb95-e314-4131-bbc5-83583c77428b,Duffy Inc,Tanzania,Pharmaceuticals,92.85,64,Supplier Bankruptcy,Low,11,49086.73,67.72,5413.99,15845.2
+a24a3d64-1094-42fc-8b91-fdd5d000974c,"Ramirez, Hawkins and Stone",Saint Barthelemy,Electronics,79.08,65,Logistics Delay,Medium,72,279942.22,52.07,53759.82,134176.31
+059adb06-7e52-4e3d-a717-fff0ea718f1f,Allen LLC,Martinique,Pharmaceuticals,76.77,66,Raw Material Shortage,Low,7,33851.43,90.78,2644.52,3121.1
+e7343f40-0ee5-4409-b6fe-d231007f5bb1,Hopkins-Lyons,Australia,Retail,96.95,38,Logistics Delay,Low,7,38473.38,63.71,2362.06,13961.99
+8d64cb11-5584-4297-ae39-90dcd4840ecd,"Johnson, Reid and Martin",French Guiana,Retail,82.03,9,Labor Strike,Medium,148,122953.65,99.11,8172.85,1094.29
+0a04157f-2ceb-4026-bdb4-cc6203910283,"Larson, Coleman and Rodriguez",Lebanon,Automotive,62.17,3,Raw Material Shortage,Low,15,41863.71,61.66,7018.71,16050.55
+ca743b69-2959-4be0-8f8c-d26b3544280c,Mitchell-Cruz,United States of America,Retail,89.3,2,Cyber Attack,Medium,142,406238.92,82.0,57769.5,73123.01
+46e32a4b-f5e4-46dd-a8da-b5c7bb156752,Mcintosh-Lopez,Kuwait,Retail,66.18,83,Port Congestion,Medium,164,485025.83,52.79,35081.88,228980.69
+68c455d9-21d3-4c45-87ab-852019ede359,Munoz-Lane,American Samoa,Automotive,80.36,96,Raw Material Shortage,Low,6,28992.62,86.96,5081.66,3780.64
+d32c52f4-0875-4a9d-a8c8-f3811fd51a5c,Roth and Sons,Uganda,Pharmaceuticals,88.58,51,Labor Strike,Low,9,48087.11,69.77,4496.35,14536.73
+d2f7b664-3e03-4b71-b7b3-7f5b9de68c2e,Ward-Turner,Cameroon,Pharmaceuticals,93.37,89,Logistics Delay,Medium,48,363495.46,81.15,34114.94,68518.89
+1c70c8a1-aa18-427d-88ce-e2d469307c67,Cross-Porter,Oman,Retail,64.72,98,Port Congestion,Medium,83,168910.66,82.68,28628.44,29255.33
+74b85186-e648-4616-bcfd-343341caf997,Hoffman PLC,British Indian Ocean Territory (Chagos Archipelago),Pharmaceuticals,73.53,74,Logistics Delay,Low,21,11526.48,53.22,2106.36,5392.09
+4c72b55f-7c83-463d-a042-242926520638,Baker Inc,Somalia,Food & Beverage,67.48,45,Cyber Attack,High,107,3821090.45,77.5,459001.69,859745.35
+5eedc813-aedb-43a8-b676-4a1ca381e092,Harris-Villarreal,Reunion,Automotive,85.29,62,Natural Disaster,High,73,2035655.14,68.92,378259.45,632681.62
+52b4a52f-699f-461a-b9f7-b49176648466,Hood-Gonzalez,Holy See (Vatican City State),Pharmaceuticals,93.85,66,Natural Disaster,Medium,132,118782.03,72.23,8339.34,32985.77
+51329908-4e7a-4aa9-8b25-30b606eba6bc,Parker PLC,Kuwait,Food & Beverage,63.35,66,Supplier Bankruptcy,Low,24,21063.0,96.4,1236.16,758.27
+11456a8d-3b6a-4833-a22e-da7f15ca6e1f,"Hubbard, Crawford and Wall",Antarctica (the territory South of 60 deg S),Pharmaceuticals,67.6,94,Labor Strike,Medium,31,378947.62,99.22,23910.73,2955.79
+ea398d17-e1bc-41a6-ab12-cad653a4cef8,"Martinez, Jimenez and Morris",Ukraine,Food & Beverage,94.59,72,Logistics Delay,High,60,4856820.14,98.38,701265.58,78680.49
+d02e9402-99e1-456c-ae4f-0886620c3683,Johnson-Rodriguez,Sierra Leone,Automotive,61.99,96,Port Congestion,High,55,1571687.33,95.31,137707.21,73712.14
+92f3c212-2a9b-4853-a3d3-50638e85af01,Brown-Roach,Syrian Arab Republic,Automotive,80.12,75,Raw Material Shortage,High,56,3138206.18,95.42,454971.5,143729.84
+34bb5bf8-df61-467e-b7b1-4e9c37ddd28d,Edwards-Chen,Moldova,Retail,87.65,88,Regulatory Issue,Medium,1,441891.91,62.58,26697.26,165355.95
+74932732-3b47-4eae-955c-f2adbaffa31a,"Anderson, Brown and Allen",Bahamas,Food & Beverage,92.71,34,Port Congestion,Medium,78,473310.15,60.65,52790.7,186247.54
+54228936-412a-4b1c-808b-64cc218c065b,Ramos Group,South Georgia and the South Sandwich Islands,Automotive,73.67,52,Port Congestion,Low,16,42894.58,76.05,4497.48,10273.25
+d4f1145a-5b3b-471f-b5f7-13a419851ad9,"Cantrell, Johnson and Fox",Oman,Pharmaceuticals,63.57,91,Port Congestion,Low,2,14937.86,75.06,1637.82,3725.5
+2a7feaf6-acdc-4a81-a0f1-ad5ab0b135b3,Garcia PLC,Pakistan,Food & Beverage,69.26,40,Labor Strike,Low,18,30268.48,97.18,4483.33,853.57
+718e83da-baac-4d84-a48b-7361aeae15c8,Hoover Ltd,Nepal,Automotive,80.5,63,Raw Material Shortage,Low,2,43879.87,60.55,5518.25,17310.61
+87e64628-fc4f-4403-ad0c-fb06b3d56e90,Schneider-Lee,Poland,Pharmaceuticals,60.01,84,Labor Strike,Medium,161,219398.54,54.04,11226.28,100835.57
+5269e2f2-c2a8-49c0-b4e7-1dbfd63120a2,"Perry, Drake and Huang",Thailand,Pharmaceuticals,74.95,85,Logistics Delay,Medium,68,96203.21,56.08,5764.63,42252.45
+ad087f78-9f35-4644-984a-44c2cb07e80e,"Johnson, Hardy and Harrington",Macao,Food & Beverage,73.11,58,Port Congestion,Low,15,49063.46,70.9,2630.17,14277.47
+f30aa941-5e6b-4e4b-ab67-94a5b179eb87,"Garner, Alexander and Thomas",Algeria,Automotive,78.03,1,Regulatory Issue,Medium,118,180556.35,69.06,34541.91,55864.13
+3736c063-11b0-492a-bbd1-bc8117ea645c,Trujillo-Smith,Zambia,Automotive,68.08,83,Natural Disaster,Low,11,33370.66,79.12,6669.25,6967.79
+93e17728-b5d0-44e9-b488-c057596d620b,Glover and Sons,Vietnam,Food & Beverage,75.78,69,Regulatory Issue,High,43,3201098.57,59.27,198435.97,1303807.45
+1063bd8e-d199-4977-ac68-5eb3e29fe492,Frost-Bates,Benin,Pharmaceuticals,79.83,70,Regulatory Issue,Low,8,36075.98,89.81,4158.02,3676.14
+f795cf9e-7071-4b87-89c3-76461074399e,"Perry, Yu and Downs",Palestinian Territory,Automotive,77.14,53,Logistics Delay,High,40,3504675.37,87.73,667367.23,430023.67
+7c2ece5e-ae40-4355-b4ab-7c1350a63937,"Sexton, Pittman and Davis",Burkina Faso,Retail,70.62,3,Labor Strike,High,123,1501443.92,54.66,108058.9,680754.67
+d03c0ab9-80aa-452d-8d9b-82e9055a7bc8,Gonzalez-Diaz,Antarctica (the territory South of 60 deg S),Automotive,96.11,2,Labor Strike,Medium,90,472836.37,65.07,51005.57,165161.74
+5a7dcbd3-94b5-486f-8405-cb2f08e510d2,Murray LLC,Portugal,Electronics,93.64,18,Raw Material Shortage,Medium,153,57365.17,72.34,9792.88,15867.21
+8a3c65f5-7673-46ae-a870-69358a53901a,"Browning, Hall and Harper",Austria,Automotive,67.35,85,Logistics Delay,Low,23,49776.45,79.28,6182.76,10313.68
+f9ede148-a7c3-43c9-bc1e-f1aa1e6671ba,"Hughes, Martin and Hayes",Montenegro,Retail,68.41,73,Raw Material Shortage,Low,5,33472.72,94.61,4112.72,1804.18
+2ffae3bb-1e96-4630-9bc6-218a6a1fee2f,Lee-Moore,Comoros,Retail,86.14,29,Logistics Delay,High,95,4240038.18,69.27,651567.31,1302963.73
+bb5d549b-45c2-40d2-9b00-2b94e45419dd,Jones-Thompson,Niue,Retail,69.15,94,Natural Disaster,Low,19,44273.34,74.18,4688.86,11431.38
+757bbb50-4fd8-4a43-aee4-d5f89f82eacd,"Thomas, Hill and Chapman",Spain,Food & Beverage,88.56,41,Raw Material Shortage,Low,7,46905.83,84.79,7631.13,7134.38
+13060923-dae2-40c7-863f-9105a8ed7268,Manning Ltd,Kiribati,Electronics,93.06,55,Logistics Delay,Low,30,43458.74,90.38,5971.19,4180.73
+938ed4d0-0442-4406-ad09-c1e306294240,"Johnson, Welch and Pham",Ghana,Electronics,73.8,91,Cyber Attack,High,118,4049890.01,76.0,502795.67,971973.6
+f5745199-2c6e-40c0-ba6a-d96a33a56dba,Tyler-Stafford,Tuvalu,Electronics,91.45,66,Labor Strike,Medium,128,71489.89,94.12,7258.02,4203.61
+9ecc8300-ff11-49eb-bc37-06a0180baaec,Cooper Ltd,Moldova,Pharmaceuticals,93.18,28,Regulatory Issue,Low,13,19901.61,82.39,3473.69,3504.67
+16765670-252d-4a12-89bc-b69a61e74d2f,Sandoval Inc,Angola,Automotive,97.49,95,Supplier Bankruptcy,Low,29,17362.28,91.36,3139.26,1500.1
+f2e42ef6-1efe-4fee-bf0f-2843b4a0a216,"Lee, Knapp and Olsen",Nicaragua,Automotive,66.81,26,Regulatory Issue,Low,2,20913.03,92.72,3603.21,1522.47
+8acb5df4-6c1f-42d1-84f4-19ab4dc2aa06,Watts LLC,Brunei Darussalam,Food & Beverage,93.58,45,Cyber Attack,Medium,31,314935.85,65.96,49236.31,107204.16
+f4cb2ffb-14e4-49c5-85dc-957a7fb1b6c2,"Sawyer, Lee and Castro",British Virgin Islands,Automotive,62.94,50,Labor Strike,Low,27,19368.5,66.04,3184.11,6577.54
+4d30d7b8-8c46-428a-af5c-6ec1fe0331bf,Burton-Wright,Hungary,Automotive,78.83,15,Labor Strike,Low,16,10727.14,93.12,1992.99,738.03
+16308bb2-04a5-4a11-b680-fec6393c4375,Chen PLC,Mauritania,Retail,83.5,5,Raw Material Shortage,Medium,86,243625.67,61.98,22448.1,92626.48
+63a3a9d2-16d9-49c2-aca0-8d1823547648,Collins-Foster,Spain,Pharmaceuticals,91.4,12,Regulatory Issue,High,159,2321096.63,52.27,333174.69,1107859.42
+6b795371-8d3e-4e05-b0e0-51ceb474d9be,Davis Group,Trinidad and Tobago,Food & Beverage,75.93,20,Cyber Attack,Low,17,21594.46,74.93,4124.12,5413.73
+3c145c41-27e2-4261-99fb-c57a6e4644fc,Soto-West,Panama,Electronics,87.49,59,Logistics Delay,Medium,105,321044.83,55.25,49401.02,143667.56
+4a975611-4e0c-4c54-9862-06f9cf66cbbe,Price Group,Mauritius,Food & Beverage,65.3,54,Supplier Bankruptcy,Low,21,29032.7,86.05,4525.65,4050.06
+4b0d3c70-af1c-4bd6-92b3-ce07191376c9,Hall-Carter,Jamaica,Retail,92.94,70,Labor Strike,Low,20,37698.63,91.78,3745.51,3098.83
+93715353-b46d-4b8c-8c10-49baee39f4b0,"Allen, Buck and Jackson",Iran,Pharmaceuticals,94.83,80,Logistics Delay,Low,3,11954.7,97.04,1134.08,353.86
+85600707-c132-419a-aedb-037f55eaf1d3,Thomas-Wagner,Madagascar,Food & Beverage,83.89,76,Labor Strike,Low,26,42263.56,83.63,4674.95,6918.54
+d32553f4-e938-4b1a-8afc-034f0fa3f8d1,"Gomez, Nguyen and Murray",Algeria,Electronics,97.14,41,Supplier Bankruptcy,Medium,27,172734.79,51.3,27347.34,84121.84
+299f9aeb-2186-4618-9a88-587fe80bbe2c,Miller-Harrison,Suriname,Retail,61.44,66,Raw Material Shortage,Medium,56,384363.47,57.53,23479.03,163239.17
+602e00bb-2fc1-4780-853a-81e28a9f096a,Brown Group,Malawi,Retail,72.68,81,Regulatory Issue,High,73,785158.79,80.21,70866.83,155382.92
+78484ad3-cfd6-49c4-9dc4-6878dcd34014,"Melendez, Hayes and Waters",Antigua and Barbuda,Food & Beverage,76.51,51,Raw Material Shortage,High,4,4249891.36,58.82,739050.82,1750105.26
+9abebbeb-579b-434d-bb3b-6c48e9c250f2,Turner PLC,Iraq,Retail,76.14,16,Cyber Attack,High,112,4554382.35,92.1,585718.7,359796.21
+a399a433-06d2-47f8-aefc-c277c46e1c20,"West, Boone and Benton",Syrian Arab Republic,Pharmaceuticals,94.49,8,Regulatory Issue,Low,26,32081.08,93.11,6051.48,2210.39
+ca6b16f2-507e-4d2d-acf4-e2b5e04eecd0,Brown-Mendoza,Tanzania,Electronics,79.03,40,Labor Strike,High,157,584101.71,96.01,115547.67,23305.66
+15cc0ab3-7159-429b-af6f-5a081c3e51aa,Hill-Johnson,Somalia,Automotive,66.69,57,Port Congestion,High,144,4951324.02,74.8,829657.72,1247733.65
+b035ca39-775b-4b68-902f-adaaa3a3831d,Anderson Ltd,Nauru,Electronics,95.41,47,Cyber Attack,Low,3,41593.79,96.22,2873.33,1572.25
+ce186f33-8cbc-4ffb-886a-0a0f55ee4878,"Watson, West and Perry",Comoros,Retail,73.5,33,Natural Disaster,Low,11,15613.24,80.9,959.19,2982.13
+3f0bd555-c648-4e2c-8052-91e75b84c261,"Hobbs, Wolf and Parker",Ukraine,Food & Beverage,68.38,1,Raw Material Shortage,Medium,180,435219.39,57.05,82747.42,186926.73
+40269831-d079-47eb-96df-ce7ad952cde7,Russell Group,Malaysia,Pharmaceuticals,60.35,10,Logistics Delay,Medium,48,293638.51,85.27,17191.19,43252.95
+174b9893-f48b-4b1b-9155-5d629f4d9e6d,"Alexander, Robinson and Nguyen",Western Sahara,Automotive,82.81,19,Raw Material Shortage,Medium,162,447296.29,62.71,63338.28,166796.79
+e68714d3-0084-4ddc-8d25-22c40b7183f4,Abbott LLC,Turkey,Automotive,74.62,23,Logistics Delay,Low,18,30551.69,55.03,2186.12,13739.09
+3f7b29d5-5b23-4613-8db2-e27b5bce8e13,Lloyd PLC,Mexico,Automotive,60.36,51,Supplier Bankruptcy,Low,3,30812.6,59.29,2683.27,12543.81
+faf8dcc4-413f-4501-8a08-367b7eeffb81,"Ramirez, Cox and Castaneda",Heard Island and McDonald Islands,Food & Beverage,81.95,14,Regulatory Issue,High,174,4868336.5,88.37,502402.42,566187.53
+f8d1dfac-767e-4718-ab58-6d85dc602655,"Nguyen, Mejia and Kramer",Morocco,Pharmaceuticals,69.75,31,Natural Disaster,Low,3,37601.01,54.98,4017.42,16927.97
+37ee6a2c-b197-4198-982f-9868dbf4cd10,"Gibson, Gray and Dickson",United States Virgin Islands,Retail,96.65,76,Cyber Attack,High,29,4053051.28,97.89,633427.66,85519.38
+5590d6b3-4d82-478f-afd2-15739f1d00d8,"Jefferson, Fields and Long",Austria,Electronics,65.72,52,Supplier Bankruptcy,Low,19,16220.56,62.99,1540.73,6003.23
+fccfd1d1-4429-47f1-92c1-8598f4e2a0d4,Mata-Clark,Monaco,Electronics,65.8,83,Cyber Attack,Low,14,44795.19,88.48,8655.79,5160.41
+03b6e48b-ec5c-4bc2-90ba-3999edb8e645,"Love, Gomez and Flynn",Russian Federation,Electronics,77.37,37,Regulatory Issue,Low,28,39608.09,57.91,4982.45,16671.05
+0e5315bd-9668-4555-aa63-e783465ce994,Griffin-Flores,Kuwait,Food & Beverage,68.69,13,Logistics Delay,Low,16,21112.26,93.93,2488.01,1281.51
+177c7f3a-25b1-4f42-9046-28c855b1b836,"Craig, Copeland and Miller",Antigua and Barbuda,Electronics,66.38,5,Regulatory Issue,Low,24,27993.84,66.94,4785.03,9254.76
+6bac19a0-f514-4d16-9b3f-f72e4d899475,Smith and Sons,United States of America,Electronics,83.03,91,Cyber Attack,Medium,171,170285.23,72.39,9677.87,47015.75
+8f3c0748-d9c2-43cc-87a3-f9233d9c00c9,Burke-Camacho,Namibia,Retail,85.83,69,Labor Strike,High,157,2193864.73,98.07,438152.3,42341.59
+6440682f-f86f-47a2-b0b4-e55b4c0d11cd,"Martinez, Gilmore and George",Yemen,Automotive,85.49,60,Supplier Bankruptcy,Low,13,48158.58,64.36,5773.33,17163.72
+075fc1bb-7af8-4bf0-8be3-161c1ca2d487,Wood-Smith,New Caledonia,Food & Beverage,66.98,80,Raw Material Shortage,High,3,2918917.98,97.03,552934.06,86691.86
+c72f3285-0914-4476-89b2-b55a010e2a0f,Jefferson-Mitchell,Algeria,Electronics,62.86,66,Supplier Bankruptcy,Medium,164,480076.2,57.43,39426.17,204368.44
+b1295d62-629b-49ca-a2eb-f20eda6f1caa,Wood LLC,Christmas Island,Retail,93.08,99,Labor Strike,Medium,6,150103.39,70.17,19758.23,44775.84
+d5067041-8d5d-4657-b5f6-f8931360d45d,Hodges Inc,Botswana,Automotive,71.78,40,Supplier Bankruptcy,Medium,92,156468.14,69.45,13617.69,47801.02
+e30e3e6c-a762-45f5-af94-41e552e43bc2,"Palmer, Johnson and Thomas",Cote d'Ivoire,Pharmaceuticals,85.26,94,Natural Disaster,Medium,98,332931.19,96.08,57511.88,13050.9
+67e33872-3b29-4b37-81a2-9272706320d9,Cochran Inc,Reunion,Automotive,62.44,78,Labor Strike,Low,2,43688.18,95.48,6822.76,1974.71
+11ff9bf8-8a83-4c19-aa70-ab08d576f9c1,Green-Black,Russian Federation,Food & Beverage,64.11,36,Logistics Delay,Medium,161,393785.39,59.06,46022.34,161215.74
+dd38b067-7f10-4c37-bf7d-433e7c0a7b11,Fernandez-Fischer,Turks and Caicos Islands,Pharmaceuticals,65.21,63,Raw Material Shortage,High,138,4777707.8,65.54,428341.51,1646398.11
+d9d0c610-09bf-4cde-8541-82d8c3a1f110,"Williamson, Sanchez and Arroyo",Albania,Retail,62.82,86,Raw Material Shortage,Medium,79,457958.62,97.78,91525.51,10166.68
+e5e03896-5968-4cc6-a1e1-06d5f1811788,"Orr, Saunders and Walker",Samoa,Retail,62.36,10,Cyber Attack,Medium,89,205184.22,96.55,32424.24,7078.86
+3a892043-e549-4f3a-8f4f-0a9460b793b8,Mills PLC,Egypt,Food & Beverage,79.18,12,Labor Strike,Medium,86,389137.35,84.28,73390.88,61172.39
+76e613f1-752a-4b2d-a54b-df459b2637e3,"Rice, Carroll and Rivas",Guam,Automotive,98.52,35,Labor Strike,Low,30,11894.23,88.11,1421.49,1414.22
+9384d2ab-2aee-4bc4-ad75-7b7b0f8d008e,Lin-Taylor,Albania,Automotive,62.06,79,Regulatory Issue,High,130,3954097.25,54.72,601368.05,1790415.23
+9dde3610-452e-452c-8ab2-dede97ec1370,Brown-Young,Paraguay,Food & Beverage,82.71,38,Port Congestion,Medium,70,186999.28,97.28,22992.69,5086.38
+0900e806-b661-4e33-ade5-9359729bce12,Dawson-Moore,Pitcairn Islands,Food & Beverage,94.82,9,Port Congestion,High,18,3002540.92,55.55,448588.03,1334629.44
+e54fda34-b882-4c4a-9ee6-2a998149632d,Smith-Mckinney,Antigua and Barbuda,Pharmaceuticals,60.25,28,Port Congestion,Low,17,25819.0,51.48,3494.6,12527.38
+c8bc6b30-d341-4b2e-a1ef-db33fb095b15,Mullins PLC,Monaco,Food & Beverage,79.42,5,Regulatory Issue,Low,26,21181.1,87.48,3643.12,2651.87
+9daa2bbe-d5fd-4283-b474-fbc6b7541bf1,Mccann-Salazar,Antarctica (the territory South of 60 deg S),Retail,69.09,100,Cyber Attack,Low,24,13226.48,86.33,822.49,1808.06
+b542b5d7-c539-4cf1-9194-6e57bf483759,Miller LLC,Dominican Republic,Automotive,83.07,73,Supplier Bankruptcy,Low,11,12808.72,91.96,984.92,1029.82
+94c0b376-e6f5-4748-9cfd-994d71e2fb8b,"Brady, Harper and Spencer",Brazil,Automotive,79.97,68,Regulatory Issue,Low,1,29929.32,73.03,5962.16,8071.94
+5c031561-40fe-4f23-a6a7-317bcc2e16ff,Davis Inc,French Guiana,Electronics,72.58,20,Raw Material Shortage,High,79,725903.73,95.81,57503.01,30415.37
+3cff8e47-0618-44a8-b6a3-d631ce81909f,Wright-Soto,Reunion,Retail,71.02,17,Labor Strike,Low,6,45496.39,90.25,4856.63,4435.9
+d504953e-8089-4bb7-b343-91693ec3fa9a,Marshall Inc,Monaco,Automotive,69.01,28,Labor Strike,Low,1,34516.74,60.25,6616.2,13720.4
+99bf09f8-998b-4398-9c0d-3712a9638178,"Reyes, Roberts and Johnson",Marshall Islands,Retail,94.08,93,Natural Disaster,Medium,85,62446.2,78.13,10833.53,13656.98
+d7381556-8c8f-40b1-8955-56cdb76e7604,Pearson Ltd,French Guiana,Automotive,61.36,55,Cyber Attack,Medium,161,476439.73,89.1,75223.06,51931.93
+28669375-c764-4890-a238-48c18d97f4f5,"Howell, Myers and Berger",Taiwan,Retail,91.05,89,Supplier Bankruptcy,Low,15,17225.11,88.4,2548.16,1998.11
+8d6b8ce6-e8b9-44ac-9414-7af7c5b5b7a8,Grant-Romero,Saint Kitts and Nevis,Automotive,87.17,2,Labor Strike,Low,9,34852.47,92.39,4800.56,2652.27
+48d9070d-292a-4a28-af36-5ccc84d1b7e8,Phillips Inc,Seychelles,Pharmaceuticals,84.29,30,Port Congestion,Low,25,31587.34,74.3,5566.18,8117.95
+77687503-4a1c-4098-9550-7c08aa2a6b10,Dean-Davis,Canada,Pharmaceuticals,64.63,5,Supplier Bankruptcy,Low,4,17612.01,58.09,1196.18,7381.19
+6562eda5-3981-462b-8961-cb655df16def,Malone Ltd,Guadeloupe,Electronics,61.71,3,Natural Disaster,Low,13,33956.62,52.75,4455.84,16044.5
+e3b2c96a-d151-41df-a37d-76ae5665f82a,Koch-Young,Iceland,Automotive,98.66,29,Raw Material Shortage,Low,22,39196.29,57.47,3810.34,16670.18
+7798d7cb-56d7-45c1-bb34-01439e653e7e,"Morgan, Williams and Young",Dominican Republic,Electronics,62.64,20,Labor Strike,Low,2,24725.47,73.54,2804.12,6542.36
+342aca25-dbb0-4fc2-9c23-a26fc63f83e2,Callahan-Jimenez,Moldova,Electronics,98.29,87,Logistics Delay,High,139,1688828.26,51.99,113560.36,810806.45
+bd70ba0b-8e5f-45b8-9873-2cac9dd4bda5,Reyes Inc,Albania,Food & Beverage,70.33,43,Regulatory Issue,Low,6,37214.11,87.5,2160.13,4651.76
+ba4ea186-8405-42f4-a555-30fe36426f00,Robinson-Barber,Australia,Retail,85.5,99,Cyber Attack,Low,10,19718.49,91.91,1113.0,1595.23
+6ff1b27b-2635-4326-9a17-5df91aecae90,Watson-Cox,Micronesia,Electronics,84.57,13,Raw Material Shortage,Medium,81,255112.9,82.88,46022.84,43675.33
+8009077f-0ec1-49a4-8c9e-a7c6b0cd7b8d,Herring LLC,Costa Rica,Automotive,65.0,66,Logistics Delay,Low,6,47183.52,93.82,5297.24,2915.94
+187a9ded-c748-4fd1-a09b-5d838cdcf103,Franklin PLC,Oman,Electronics,84.42,69,Port Congestion,Medium,162,350575.29,55.44,29902.18,156216.35
+79c4f877-1fa4-4b63-bc3f-8293eaa136fd,Crawford-Thomas,Malta,Retail,62.04,36,Port Congestion,High,98,602458.03,51.82,97255.73,290264.28
+419ae6e8-0512-450c-9c6e-87f806eb3411,"Davis, Chung and Bush",Palau,Food & Beverage,87.53,49,Natural Disaster,Low,19,14906.55,59.19,2328.32,6083.36
+672518c6-8a5a-4b27-b0a5-e4692b34a0cb,"Jacobs, Luna and Anderson",Faroe Islands,Pharmaceuticals,72.94,77,Port Congestion,Low,27,46294.95,91.87,5219.13,3763.78
+671fb960-d3af-4d97-a9ca-455ddeba521d,Snow-Porter,Haiti,Electronics,92.14,57,Raw Material Shortage,Medium,109,288087.85,91.95,45280.46,23191.07
+99ccf19d-33fa-4052-a935-c1a9ec487a2c,"Rogers, Sanchez and Bailey",Cote d'Ivoire,Electronics,72.89,62,Supplier Bankruptcy,Low,20,17002.79,85.21,1471.24,2514.71
+3d7e301a-9595-4e0c-ba71-551a4f70ff56,Lewis LLC,Congo,Pharmaceuticals,73.88,81,Regulatory Issue,High,118,3534619.35,58.07,592252.01,1482065.89
+44e0370b-a010-4f28-8900-0288bbb0de75,Parks-Scott,Senegal,Food & Beverage,61.72,91,Regulatory Issue,High,24,2044633.63,92.14,241934.66,160708.2
+e81b376e-1d0c-4877-8c41-5a2a373c5e3f,Weiss PLC,Aruba,Retail,68.89,68,Natural Disaster,Medium,87,264162.7,75.03,20714.5,65961.43
+de9c169c-dafb-403f-b389-4db796985fb0,Park-Robertson,Hong Kong,Retail,92.26,87,Logistics Delay,Medium,179,327710.18,99.2,41515.17,2621.68
+eb60e375-43f0-468b-8295-2496e51d8294,"Johnston, Duke and Morse",Nigeria,Retail,72.36,36,Regulatory Issue,High,41,2632230.52,78.8,176947.21,558032.87
+b5dae751-7ae4-4407-a801-bf3c86f79f35,Goodman Group,Albania,Pharmaceuticals,65.52,25,Cyber Attack,Medium,162,130144.19,66.76,11495.15,43259.93
+2260b6e8-5ba7-4e48-ad83-fa1257c06c02,Roth-Stanton,Bouvet Island (Bouvetoya),Pharmaceuticals,89.84,71,Port Congestion,Medium,15,245083.61,54.96,31257.08,110385.66
+e7a243a8-29c0-4063-8238-1b450bf7abbf,"Anderson, Sanchez and King",Zambia,Food & Beverage,68.42,78,Natural Disaster,Low,2,22215.11,90.05,1334.67,2210.4
+a31d4ac9-1adc-44b9-9ff6-451d59cfa4b4,Smith-Gordon,Chad,Pharmaceuticals,82.67,86,Cyber Attack,Medium,78,421730.8,97.55,83086.85,10332.4
+e91e6e7a-89e1-43fc-8678-85a90ff57d6b,"Day, Fernandez and Stephens",Brunei Darussalam,Automotive,76.12,61,Labor Strike,Medium,137,64913.23,84.42,10298.39,10113.48
+38a1bb24-ca92-4497-bafd-703c3c5c0aa1,Smith and Sons,Micronesia,Food & Beverage,88.13,87,Logistics Delay,Medium,178,174499.4,67.23,24711.68,57183.45
+1bf63e61-abf5-4749-baac-d53b0db5d634,"Nichols, Rodriguez and Reeves",Niue,Food & Beverage,95.82,93,Supplier Bankruptcy,Low,28,14978.37,59.52,2965.63,6063.24
+77d25c39-cc9d-429b-b6af-c2131cf078da,Boone-Carlson,Somalia,Food & Beverage,96.35,39,Natural Disaster,Medium,113,225620.75,77.38,22240.72,51035.41
+cc696298-b5e7-41f4-8044-d7c1d446b21d,Morris Ltd,Namibia,Electronics,85.52,22,Supplier Bankruptcy,High,65,4256569.89,90.52,705037.88,403522.83
+ef8f25dd-c2e9-4269-8d17-44e844e61b64,Mcdaniel PLC,Andorra,Automotive,94.83,24,Cyber Attack,High,42,4242850.94,56.2,249171.61,1858368.71
+a9b68629-6760-4f1e-9ffc-32a91337aae7,Clark-Bishop,Niger,Electronics,87.26,12,Regulatory Issue,Medium,119,407435.05,54.22,22349.26,186523.77
+c73c9a5b-23a4-49b4-a9d4-c59bd92dcb20,Smith-Johnson,Sudan,Automotive,69.74,71,Natural Disaster,Low,16,49686.89,76.12,6616.89,11865.23
+b9fc99a1-4939-4dee-8797-33b68a01839f,"Smith, Waters and Copeland",Malta,Food & Beverage,85.01,9,Supplier Bankruptcy,High,143,3357335.55,55.9,624444.94,1480584.98
+2c0a6d92-0323-41bc-833d-3425fa6baff9,Moreno and Sons,Kenya,Pharmaceuticals,81.1,32,Natural Disaster,Low,21,30682.22,73.08,5856.02,8259.65
+a3e62494-3ef0-4076-a431-a6b78c89d814,Gibson Ltd,Zambia,Food & Beverage,71.63,36,Regulatory Issue,High,86,599482.16,60.24,64624.72,238354.11
+2aba4caf-90ba-4c46-bfa3-d47553ff9429,"Hess, Gutierrez and Harrison",Korea,Pharmaceuticals,88.4,42,Port Congestion,Low,2,37151.07,61.0,5322.52,14488.92
+2119ef1e-8be8-48c4-a939-d31f79cd35b8,Murillo Ltd,Haiti,Automotive,81.65,51,Logistics Delay,Low,27,31210.41,83.63,5538.67,5109.14
+39d26120-fce9-4127-a93d-2d08ccfeee62,"Jensen, Durham and Sullivan",Ukraine,Pharmaceuticals,70.42,49,Labor Strike,Low,8,10431.98,79.84,1947.89,2103.09
+90c3ff5f-d07e-44b9-86df-a99a22121e5a,"Barnes, Miller and Berry",Kuwait,Retail,86.97,76,Port Congestion,Medium,50,324794.99,80.82,42061.44,62295.68
+99cf82c9-deb5-4ad3-bd45-1b09a5142437,Wallace and Sons,Burkina Faso,Pharmaceuticals,80.51,9,Cyber Attack,Low,1,22949.73,75.47,2811.69,5629.57
+748d43eb-24f7-430f-89a9-3a9c7af31e05,Jones Group,Finland,Electronics,63.58,37,Port Congestion,Low,13,29582.95,58.76,3827.73,12200.01
+67850d2f-5b43-4643-90d7-cf386e023798,Lopez-Solis,Luxembourg,Automotive,64.03,15,Logistics Delay,Low,4,25768.25,58.42,1965.96,10714.44
+25534bd0-a9d7-4a92-b487-eddffe3ffb28,Martin Inc,Sri Lanka,Automotive,95.82,46,Supplier Bankruptcy,Medium,124,362176.73,91.34,45424.43,31364.5
+80becec5-9626-40bf-9e3c-a43a9004b862,Trevino-Hester,Nigeria,Pharmaceuticals,64.21,26,Natural Disaster,Low,7,35133.79,61.85,5658.32,13403.54
+aa44802a-d41c-47e9-82fa-f5c976bc31af,"Clark, Miller and Robinson",Uruguay,Automotive,63.47,56,Logistics Delay,Low,8,41985.23,97.7,4087.78,965.66
+3ff5d207-3ae7-4c14-a208-357967827680,"Pope, Clark and Scott",Bhutan,Automotive,86.72,24,Regulatory Issue,Medium,108,224745.42,78.91,39788.57,47398.81
+5c2610b6-5e11-47cd-9983-491c1fad6e5e,Fox-Norman,Botswana,Food & Beverage,91.73,99,Port Congestion,Low,2,44870.15,79.63,2860.68,9140.05
+14ebd92e-b1de-4bc3-8726-adcaa9c6d28b,"Williams, Munoz and Ryan",Mexico,Electronics,87.49,47,Port Congestion,High,65,1691195.38,90.18,332154.64,166075.39
+ede6cf4e-1d43-4b8b-87bd-a78a051e7705,Evans-Sanchez,Bhutan,Food & Beverage,76.06,60,Cyber Attack,High,139,2907752.63,54.13,218647.34,1333786.13
+8c599178-3eec-4629-b69e-05654b0c1e88,Webb-Meyers,Sao Tome and Principe,Retail,78.01,10,Labor Strike,Medium,43,434467.56,51.15,45773.61,212237.4
+dea4bc67-f1eb-455d-bda8-25a7f63cdfba,Nichols-Ellis,Armenia,Pharmaceuticals,86.89,77,Labor Strike,Medium,23,157029.1,66.53,11006.77,52557.64
+0d0ef6af-2018-441e-ae9b-fa6b8d1a4f72,Ross LLC,Niue,Electronics,97.68,65,Natural Disaster,High,81,3332866.38,72.69,480665.72,910205.81
+c8da2d73-0ad5-4bde-90e3-e5fd8f3aef06,"Garrett, Haas and Ware",Guinea-Bissau,Food & Beverage,92.01,40,Labor Strike,Medium,160,446161.07,68.29,69347.34,141477.68
+41f1c4cd-7597-42f1-98aa-f2e30a5a2d8d,Pineda-Shaw,Nicaragua,Pharmaceuticals,81.69,27,Supplier Bankruptcy,Medium,19,204565.88,64.85,30236.65,71904.91
+e934e6de-98a6-46e5-8b9a-51321fe16f7f,Thompson-Leach,British Virgin Islands,Electronics,65.05,84,Labor Strike,Low,15,39610.05,65.94,5926.56,13491.18
+1855bbdd-35af-4d66-8b33-936d5dc84a2a,Cook and Sons,Northern Mariana Islands,Retail,73.89,26,Cyber Attack,Medium,146,269453.49,56.17,36264.55,118101.46
+86e1eade-4a61-4c83-af13-747e8070f556,Bass-Dorsey,Puerto Rico,Automotive,63.48,74,Cyber Attack,Low,14,36934.75,76.63,2481.15,8631.65
+bd59b8d4-f961-4134-b298-d643d7d1ded4,Reilly PLC,Niger,Electronics,95.01,38,Cyber Attack,Medium,170,188105.26,79.28,35805.58,38975.41
+dff0ccb7-8fb3-4436-a1b3-26d1c286bc6b,Edwards Ltd,Liechtenstein,Pharmaceuticals,65.31,87,Supplier Bankruptcy,Medium,81,429074.1,69.26,60979.58,131897.38
+f5b3aca5-1a60-444b-87d4-4bdd62dcc326,Shelton and Sons,Korea,Retail,73.08,71,Regulatory Issue,Low,22,32569.27,88.86,5912.56,3628.22
+3c2b387a-1b37-4a27-9bd7-e93cdbb38298,Humphrey-Mooney,Belize,Pharmaceuticals,60.55,14,Supplier Bankruptcy,Medium,97,346046.83,85.37,23390.42,50626.65
+56e310d9-1f6a-4075-af3a-9f8511ee6fbd,Gomez-Ramos,Zimbabwe,Pharmaceuticals,92.54,10,Regulatory Issue,Low,28,31041.24,76.28,4388.48,7362.98
+b31baf77-ba53-4899-9406-868176e6d669,Black Group,Mayotte,Pharmaceuticals,98.67,97,Raw Material Shortage,Medium,117,126519.98,99.49,22612.27,645.25
+a703dbd1-806f-4fc2-ac95-9b76d6c7a947,"Harmon, Collins and Zuniga",Faroe Islands,Electronics,96.07,80,Supplier Bankruptcy,Medium,167,288701.05,90.85,54580.72,26416.15
+4c7d73f2-7dd1-4b0b-a4cd-a0c301b1ff10,Russell Group,Peru,Retail,81.3,82,Natural Disaster,High,104,1442096.66,65.87,239205.51,492187.59
+822ca9f7-2c02-4584-bbc9-06b98ea7c444,"Ford, Wells and Lewis",Isle of Man,Food & Beverage,68.82,94,Port Congestion,Medium,89,118650.5,55.37,18343.33,52953.72
+834d8eb0-796a-4576-af9b-f193bca23968,"Estes, Esparza and Young",Palestinian Territory,Automotive,95.86,7,Cyber Attack,Medium,102,344804.55,98.8,66532.69,4137.65
+a45eba34-8a2a-486d-a567-252449bd52dc,Brown PLC,Iraq,Retail,91.88,24,Supplier Bankruptcy,Medium,140,126722.95,55.85,10919.43,55948.18
+a3d4e81d-31c3-4d99-a402-1803f84876b2,Hoover-Crawford,Norway,Retail,82.65,31,Logistics Delay,Medium,149,231726.73,97.9,34028.45,4866.26
+7e55a465-0494-4270-a689-00f74f123609,"Butler, Clark and Cox",United States Virgin Islands,Food & Beverage,69.08,18,Cyber Attack,High,17,4761575.1,66.02,573178.84,1617983.22
+3d99ea76-dc10-4842-b931-5a988d73e7d8,"Owens, Orozco and Shah",Ireland,Food & Beverage,92.39,83,Labor Strike,Low,14,21134.33,53.87,1435.61,9749.27
+d646970a-f2fd-452c-a9bf-7c732f667222,Ellis LLC,Senegal,Electronics,92.28,33,Regulatory Issue,Medium,94,393653.2,85.92,75294.41,55426.37
+277d0516-8f1d-43ba-9047-71042edbd22c,Brown LLC,Turkey,Electronics,88.48,63,Port Congestion,High,121,4956345.13,70.02,687780.9,1485912.27
+5ed4edeb-51d5-473c-ae8e-4eb4c9be3e41,"Hernandez, Travis and Lane",United States Virgin Islands,Automotive,66.03,1,Supplier Bankruptcy,Low,16,35436.88,99.92,2442.64,28.35
+3dba304b-9b34-47c6-8ccf-69d191962dcc,Simpson Group,Japan,Retail,97.27,43,Regulatory Issue,Low,19,31965.21,96.7,2048.24,1054.85
+4fab878e-33a2-4793-9683-128b980d1b21,Lewis LLC,Guadeloupe,Pharmaceuticals,88.7,83,Raw Material Shortage,Low,5,16434.16,58.2,885.64,6869.48
+45c00742-7bbd-4b98-9f7c-2f429788cab3,"Stewart, Chung and Crawford",Nepal,Automotive,68.8,20,Regulatory Issue,Medium,87,145880.26,66.32,8804.64,49132.47
+196553ee-c7a9-4e01-9c00-e5e959ad2fc1,Rodriguez Inc,Uruguay,Pharmaceuticals,95.55,64,Regulatory Issue,Medium,115,135801.69,96.77,13566.15,4386.39
+1d922395-d2ad-4b46-a65a-fb2689e4b7d0,Friedman-Baker,Brazil,Automotive,87.61,17,Logistics Delay,High,73,1865609.31,66.71,325180.36,621061.34
+c96f26fd-ee65-4e5e-85fe-f5f092893d2f,Stewart Group,Russian Federation,Pharmaceuticals,79.18,29,Regulatory Issue,Low,11,18625.86,56.63,1451.87,8078.04
+dbe719cb-bcdf-4a33-9505-e590d270caf1,Brown LLC,Guyana,Automotive,83.24,1,Logistics Delay,Low,28,33370.04,76.92,2070.4,7701.81
+f518baf3-2c54-44f5-86c5-32914ecea3a4,"Morgan, Morris and Ramos",Northern Mariana Islands,Food & Beverage,61.7,56,Natural Disaster,Medium,151,403072.63,58.08,33835.18,168968.05
+e45daf0e-35bf-4dbe-8650-f33b7e101508,"Perry, Richards and Rivas",Haiti,Electronics,81.31,69,Port Congestion,Low,2,37579.98,91.49,7443.55,3198.06
+c6002bd5-08cb-4ce6-a99e-8ea7c7064a8a,"Nichols, Greer and Wilkinson",Brunei Darussalam,Pharmaceuticals,74.59,4,Logistics Delay,Low,28,45375.91,81.08,6675.02,8585.12
+20da09a9-baef-4e18-93e8-c6d225286761,Jenkins-Juarez,Niger,Pharmaceuticals,83.69,100,Regulatory Issue,Low,4,30899.2,65.36,3229.74,10703.48
+0bf9b681-1476-4160-9802-0b1f67758e36,"Keller, Jones and Jones",Ecuador,Pharmaceuticals,73.22,63,Port Congestion,Medium,107,379954.35,67.65,40470.58,122915.23
+646dfdad-b3e8-4f80-8df0-f7f1e7104056,Zhang LLC,Niue,Pharmaceuticals,71.92,97,Regulatory Issue,High,135,2498328.21,74.4,130260.58,639572.02
+c915752d-604e-4179-a6fb-fb2a22d457d2,Dickerson PLC,Montenegro,Pharmaceuticals,98.78,95,Natural Disaster,Low,3,26350.19,85.35,1866.88,3860.3
+bd8aaebb-6d82-41d8-907a-e9f7124c1bf1,"Bennett, Santiago and Edwards",Niue,Food & Beverage,76.61,32,Regulatory Issue,Medium,73,450097.48,71.44,49125.12,128547.84
+d49cb340-7786-4caa-8617-03fbc4d176ad,Ruiz Ltd,French Polynesia,Retail,61.63,20,Cyber Attack,High,161,3583239.62,59.41,188887.26,1454436.96
+6c50981a-b8b6-4a2d-b6cc-c65648bdadd6,Nixon Inc,Saint Pierre and Miquelon,Electronics,94.25,76,Port Congestion,Low,13,47782.96,92.48,5094.37,3593.28
+24b975a2-a615-4992-b09c-d6f505c812d0,Hunt LLC,Madagascar,Retail,60.99,29,Supplier Bankruptcy,Medium,7,326687.78,74.01,44031.98,84906.15
+f0064d88-ca8b-4e83-b75f-414d15967ef3,"Jones, Hamilton and Castaneda",Mayotte,Food & Beverage,79.1,59,Port Congestion,Medium,64,463855.84,73.24,81296.55,124127.82
+a87c7ae9-2a5e-4a09-b478-6ee5fc9486d6,"Murphy, Bentley and Turner",Liechtenstein,Electronics,92.88,48,Regulatory Issue,Low,26,45180.61,95.8,8618.97,1897.59
+51f9ac39-64f1-49e0-9e7e-b3d7eca14b56,"Henderson, Solis and Ayers",Saint Martin,Electronics,85.27,19,Labor Strike,High,110,800205.64,56.65,65840.26,346889.14
+ea733b21-8737-4824-9066-9a544dc3d314,Johnson-Scott,Papua New Guinea,Electronics,70.37,77,Logistics Delay,Medium,114,55835.27,54.57,10025.89,25365.96
+1aab7e73-d403-4979-a223-900397776bc4,Austin-Johnson,Estonia,Automotive,85.63,58,Supplier Bankruptcy,Low,22,21345.64,73.59,3659.82,5637.38
+76c92843-5fad-46c8-b397-95bac04fac30,"Smith, Hamilton and Bartlett",Somalia,Electronics,89.14,41,Raw Material Shortage,Medium,9,68935.82,95.21,8027.88,3302.03
+89993556-ee1b-438c-9e75-856f6350a70f,Rhodes-Perez,Pitcairn Islands,Retail,92.39,74,Supplier Bankruptcy,Medium,37,395524.9,51.22,57888.54,192937.05
+0b238fef-e23e-4240-a354-c7b7bf875a76,"Hammond, Donovan and Gross",Namibia,Automotive,92.94,51,Regulatory Issue,Low,23,48305.65,65.94,8898.66,16452.9
+31c8b9b2-8fe2-493b-8b74-39f49acaf27e,Sutton LLC,Grenada,Retail,90.14,87,Labor Strike,Medium,56,476941.84,90.56,33153.34,45023.31
+4b4eb5dd-6992-493c-9f61-c827b06f03b3,"Taylor, Miller and Shaw",Bhutan,Automotive,96.24,73,Natural Disaster,Low,25,39765.54,73.9,4999.8,10378.81
+0f418f3d-173a-4ce8-8afd-5c11538fee45,"Liu, Jones and Willis",Haiti,Retail,98.81,89,Regulatory Issue,Low,5,41919.8,95.4,7887.07,1928.31
+eb41b0a5-5224-4287-9930-742a728eea43,Vargas and Sons,Antarctica (the territory South of 60 deg S),Automotive,73.99,67,Cyber Attack,Medium,121,356359.62,97.22,52744.46,9906.8
+c6b2c45b-c5b2-4f6d-8e92-d24a72f05db0,"Davis, Bates and Sanders",Bhutan,Retail,77.56,24,Labor Strike,Low,20,30473.77,82.41,5507.72,5360.34
+968f0bd4-7015-4562-97f8-bef3fed2b070,"Hunter, Russell and Henry",Iran,Automotive,89.2,2,Natural Disaster,Low,11,47752.33,83.8,5675.29,7735.88
+8222d1c8-3b67-4653-a0b8-caf0a87fda75,Ferguson-Bishop,Panama,Automotive,70.91,35,Cyber Attack,Medium,60,99852.54,95.48,8548.73,4513.33
+58c918ab-7dc7-4e2c-8848-af837026b720,"Perez, Howell and Landry",Holy See (Vatican City State),Pharmaceuticals,91.9,7,Raw Material Shortage,Low,10,18630.26,94.67,2631.43,992.99
+bd5eb449-33f7-4f47-83a1-738ad60cd202,"Tran, Watkins and Chang",New Zealand,Automotive,61.46,65,Natural Disaster,Medium,72,393789.7,92.34,44084.42,30164.29
+6d0ef002-e3b0-44de-b10c-ea4bdf5366e2,"Moore, Padilla and Nicholson",Antigua and Barbuda,Retail,83.62,51,Port Congestion,Medium,48,230131.22,80.38,40132.35,45151.75
+016b449f-f4c5-4a60-b498-5c096378c503,"Watson, Stewart and Turner",Aruba,Food & Beverage,78.26,60,Supplier Bankruptcy,Medium,180,172891.46,92.67,29807.15,12672.94
+61d4c315-1f34-4c68-aaea-c9f61e505bac,Williams Ltd,Falkland Islands (Malvinas),Electronics,87.03,99,Labor Strike,Low,17,20970.12,84.73,2249.7,3202.14
+0c1b1c9b-df24-4045-8fbe-737a248ff225,Baker Group,Swaziland,Retail,89.49,51,Regulatory Issue,Low,1,25866.9,90.9,5017.55,2353.89
+b1bf8275-8917-42e3-ad43-7dcffb73c8cf,"Mitchell, Clark and Moore",Moldova,Pharmaceuticals,98.11,62,Logistics Delay,Low,26,18575.68,91.17,3199.99,1640.23
+de051c1c-44d5-4bcb-8869-c31fb98838fb,Andrews-Charles,Serbia,Retail,93.11,21,Supplier Bankruptcy,Low,30,29156.5,64.51,5144.46,10347.64
+1b878bfd-8835-40e1-8799-835be86ad54e,"Perez, Carpenter and Villarreal",Netherlands,Food & Beverage,81.69,6,Logistics Delay,Low,30,19335.47,70.32,3491.93,5738.77
+403fae59-0a00-4b0a-8806-681c4e009528,"Mclaughlin, Griffith and Sweeney",Indonesia,Pharmaceuticals,85.8,49,Natural Disaster,Medium,46,302753.88,50.27,23947.3,150559.5
+e102af23-bc74-42ef-9c30-1d38b886ca59,"Conner, King and Reynolds",Greece,Food & Beverage,73.38,93,Natural Disaster,High,131,4496987.16,55.99,360116.0,1979124.05
+59a43536-b9ad-4c73-8533-66ed188404cb,"Meadows, Davis and Briggs",Jamaica,Electronics,78.61,65,Regulatory Issue,Low,16,32497.89,74.29,2632.93,8355.21
+f941b61d-188d-41ca-9000-8f95fd3f862f,Burns PLC,Albania,Pharmaceuticals,89.28,87,Raw Material Shortage,Low,5,26273.62,93.14,1352.53,1802.37
+b9b8ec59-3f7f-4106-97af-09cca577c42a,"Conner, Brown and Knight",Chad,Retail,94.4,69,Port Congestion,Low,27,42814.5,57.41,7529.92,18234.7
+379c4114-b8ec-4cbb-bd13-dab32e8c061b,Hughes-Beck,Saint Helena,Food & Beverage,63.99,20,Natural Disaster,Low,9,35215.25,91.09,4376.87,3137.68
+5c59cfe7-5b90-4129-ae63-87dab821242f,"Phillips, Rodriguez and Martinez",Iraq,Retail,89.83,13,Raw Material Shortage,Low,12,48848.39,85.71,9231.2,6980.43
+d2fac0fc-7586-47f6-9398-aed20cb65691,Lewis-Miles,French Guiana,Electronics,73.36,60,Logistics Delay,Low,4,36649.08,69.52,5060.11,11170.64
+bd10fd60-152b-49a4-b5b3-0a9478ec02c4,Bowers-Taylor,Mexico,Retail,87.37,17,Logistics Delay,Low,28,29312.14,95.74,3362.82,1248.7
+4e4edb1e-81d8-48dd-a2e3-6a2e69e46591,Wilkins-Branch,Argentina,Automotive,65.04,17,Logistics Delay,High,47,2018554.84,64.83,121464.36,709925.74
+98a3d5c8-e892-4ad9-be47-3cb906bf0661,Atkins Ltd,American Samoa,Food & Beverage,68.81,4,Cyber Attack,High,56,4240211.5,88.92,415344.57,469815.43
+d5e6c7bb-90ae-4a79-aa4b-948d0794cd5a,Harvey-Khan,Libyan Arab Jamahiriya,Pharmaceuticals,69.72,83,Regulatory Issue,Low,21,35118.61,86.87,6652.98,4611.07
+c457d5cf-91ea-4d3a-9ab3-139a59baaeeb,Kerr Group,Guam,Retail,72.38,66,Raw Material Shortage,Low,14,25093.96,98.14,2436.3,466.75
+9d96cbcb-2056-424d-9363-9894c11f4189,"Bates, Baker and Moon",Chile,Pharmaceuticals,65.42,94,Cyber Attack,Medium,180,202601.27,86.09,37916.39,28181.84
+649c3a9b-f52c-412f-a907-2b0f9d0b9a21,Mills-Lee,Samoa,Electronics,72.98,11,Raw Material Shortage,Low,16,22893.47,77.22,2528.51,5215.13
+3250671c-84e5-476e-89b7-4d637038410c,Chung-Boone,Sweden,Food & Beverage,65.86,80,Cyber Attack,Low,14,37112.44,53.56,4581.86,17235.02
+acb207ba-89dd-491e-8878-68cb00b80405,Harrison Group,Nicaragua,Automotive,93.78,32,Logistics Delay,High,170,4590855.93,72.6,429185.0,1257894.52
+6b448d2b-b69a-44aa-a931-fad93cd8047b,"Wagner, Roberts and Clark",Puerto Rico,Electronics,85.94,93,Labor Strike,Medium,93,495053.19,60.95,72046.5,193318.27
+4f6efb60-4eb6-4f9c-8169-43ac4787217a,Schaefer and Sons,Saint Vincent and the Grenadines,Retail,65.37,68,Cyber Attack,High,72,880579.65,51.89,129012.94,423646.87
+3bf744f5-783f-4bc9-94d9-8a9a000d5538,Ewing-Bennett,Fiji,Retail,92.33,10,Labor Strike,High,115,2271416.28,83.45,363390.6,375919.39
+2a768285-bf84-4588-9719-8dc9e23089c5,"Flynn, Thompson and Martin",India,Retail,69.6,39,Supplier Bankruptcy,Low,9,17221.07,89.27,2347.43,1847.82
+f4374619-9de1-4757-8cc2-b9bfb69a89e7,Farley and Sons,Mexico,Automotive,95.66,21,Raw Material Shortage,Low,6,43806.75,65.13,6886.43,15275.41
+7e62a787-ce39-40ab-b07d-106c57102dcf,Fowler Ltd,Palau,Electronics,90.67,56,Port Congestion,Low,15,20662.45,74.1,1918.25,5351.57
+186e5e20-c1a4-4996-a8ee-6c44b6c82d04,Alexander-Carr,Nauru,Food & Beverage,63.57,25,Labor Strike,Medium,91,472245.0,78.35,91766.06,102241.04
+5a71b7da-40c0-4fb6-8a80-9ba53c523db0,Mcdonald-Fernandez,Heard Island and McDonald Islands,Electronics,76.59,78,Logistics Delay,High,50,3703755.52,53.5,255158.42,1722246.32
+2bde34c3-ed7c-439e-b60f-ec7d486ccc5e,"Rodriguez, Smith and Haney",Norway,Automotive,64.75,39,Natural Disaster,Medium,142,388829.84,70.64,28261.05,114160.44
+adf18924-40f6-418e-b5c1-240fcd4a0e6d,Barr-Thomas,Israel,Food & Beverage,96.47,63,Raw Material Shortage,Low,27,34664.37,59.78,3063.06,13942.01
+66078b85-f405-4e96-8a55-a0f815937ac4,Richards LLC,Cocos (Keeling) Islands,Automotive,72.13,30,Cyber Attack,Low,10,10474.93,58.33,1349.71,4364.9
+10bac0de-0e32-48e5-ab42-20e8b245c2eb,Webb-Suarez,Kazakhstan,Food & Beverage,67.03,31,Labor Strike,Low,25,40846.14,60.42,4281.72,16166.9
+16d73915-35df-4cbc-81b5-ed8a01a7a4cc,Duke-Lewis,Belize,Electronics,96.51,38,Natural Disaster,Low,7,38170.58,79.99,7373.96,7637.93
+f13dfca2-39be-47f1-a475-6b1a15b24dea,"Orozco, Foster and Daniels",Tokelau,Retail,98.92,43,Labor Strike,Low,20,13974.05,85.41,2754.1,2038.81
+249d7e37-a24a-441d-8d02-c7911983f4a6,Jones Group,Guam,Automotive,73.2,96,Logistics Delay,Medium,121,442376.28,67.97,81664.51,141693.12
+dbe1c035-73d2-46a2-a560-6d436adb7e9a,Hawkins-Stephens,Uruguay,Pharmaceuticals,69.31,47,Cyber Attack,Medium,132,106094.01,61.3,11437.15,41058.38
+68575f31-e211-40cf-8cee-dfb5490cce9b,Lewis and Sons,Turks and Caicos Islands,Pharmaceuticals,74.87,59,Cyber Attack,Medium,2,461315.2,87.29,43452.34,58633.16
+12c88039-8428-4204-b963-ae5f0c41fc1b,Mathews-Blanchard,Belgium,Food & Beverage,94.05,56,Port Congestion,Low,15,38533.79,94.17,7422.71,2246.52
+cef5adbe-407e-45cd-b03e-baa7aa8d0e7a,Johnson-Villanueva,Heard Island and McDonald Islands,Food & Beverage,98.56,77,Labor Strike,Medium,78,263126.57,98.87,50162.48,2973.33
+302f9df1-c2c1-4462-beda-1b1ca81e6cdb,Santos PLC,Australia,Automotive,73.91,99,Raw Material Shortage,High,148,3501911.8,67.6,451926.4,1134619.42
+22ddb90d-0c9d-4031-8ba3-3ec470ca4c36,"Thompson, Hendricks and Hines",Guinea-Bissau,Pharmaceuticals,74.43,33,Cyber Attack,Low,2,37267.74,81.21,5830.6,7002.61
+d936c055-26eb-4608-8c00-1edf9e65b0c6,"Lamb, Kelly and Ball",Qatar,Retail,76.12,31,Natural Disaster,High,142,3134876.73,58.48,559001.41,1301600.82
+3632b9a9-bae7-4da4-a821-4d051f84582f,Phillips-Grimes,Ireland,Automotive,83.07,28,Labor Strike,Medium,150,305109.77,73.6,24523.13,80548.98
+df508565-78ff-497d-aedf-21939eec8868,"Miller, Martinez and Olson",Singapore,Food & Beverage,68.66,44,Cyber Attack,High,84,3660696.89,53.96,298886.07,1685384.85
+73de0c27-abed-4814-a60b-c56a45f7f044,Carlson-Rose,Jordan,Food & Beverage,94.68,17,Port Congestion,Medium,17,80288.8,82.37,12593.09,14154.92
+26d58715-930b-4751-b435-bcfaf47fe960,Walsh Inc,Azerbaijan,Pharmaceuticals,67.88,72,Regulatory Issue,High,162,1606548.7,93.98,104665.11,96714.23
+fced87b5-04e2-447c-a7cd-32cb731e52f4,Singleton-Vincent,Turks and Caicos Islands,Food & Beverage,63.43,39,Natural Disaster,High,162,3077043.9,87.56,444457.23,382784.26
+382778c5-b298-4a29-98f9-17dabba2b8ed,Fernandez-Harris,Czech Republic,Retail,63.11,61,Labor Strike,Low,21,31458.31,91.43,4019.63,2695.98
+1d191aa2-88d9-40b8-b7bd-5b64e5697924,Reed Ltd,Suriname,Electronics,89.18,12,Supplier Bankruptcy,Low,27,44003.05,62.69,3441.82,16417.54
+af340407-b6f8-4438-9022-81416e7c7288,"Newman, Reed and Jarvis",Ghana,Electronics,98.89,11,Logistics Delay,Low,6,36035.24,91.49,5338.63,3066.6
+a11a2085-cdfe-49dd-ac7f-ec80064ed6c8,Nixon Ltd,Fiji,Retail,64.08,62,Natural Disaster,Medium,87,201593.02,63.94,34001.02,72694.44
+823a62fa-db29-44d4-9bc6-c1a71b02b659,"Cortez, Bentley and Fritz",Fiji,Retail,91.87,88,Port Congestion,Medium,100,286264.98,61.91,48809.92,109038.33
+0e2ccb62-9cb7-4133-a803-1be72f0d4c74,Morris-Kennedy,Kiribati,Automotive,93.73,1,Labor Strike,Medium,172,133082.54,71.98,10341.47,37289.73
+b3aaa41f-2bd6-4dad-a1bf-72b0c6252783,Lewis-Espinoza,Macedonia,Electronics,87.94,0,Cyber Attack,Low,11,47820.35,51.45,5590.64,23216.78
+f9779d54-5534-47ae-b5f1-9d90133f09f9,Anderson and Sons,American Samoa,Electronics,81.78,1,Cyber Attack,High,35,3809822.04,92.23,705341.9,296023.17
+3942b575-4c4e-4443-8dfd-8fe8ea746dfa,Garcia PLC,Malaysia,Food & Beverage,95.35,0,Regulatory Issue,High,46,3569205.4,91.11,472595.14,317302.36
+2978a887-4319-42e0-b2b6-d6f9cb813b56,Jensen Inc,Malawi,Retail,88.24,54,Cyber Attack,Low,9,49910.67,99.93,8083.51,34.94
+81048662-0e1d-409a-8612-8d58dc44880f,Moon Inc,Moldova,Retail,69.55,50,Port Congestion,Low,21,23323.96,71.33,3607.28,6686.98
+4b0758ad-90b2-4253-b576-62ecde60935f,Marsh Ltd,Haiti,Retail,97.04,58,Cyber Attack,Medium,46,226820.33,80.15,34233.86,45023.84
+76843dfa-7377-4fe6-b4f5-011a28ba448b,Pugh-Joseph,British Indian Ocean Territory (Chagos Archipelago),Automotive,64.91,20,Port Congestion,Medium,115,389605.08,59.84,26765.68,156465.4
+ddf2d8ad-2ecf-4b3d-a192-f72a2fd5f3f2,"Mosley, Moore and White",Northern Mariana Islands,Pharmaceuticals,62.66,37,Port Congestion,Low,23,16799.7,75.02,1781.15,4196.57
+6f4f1d5b-ebd7-4474-b0c4-b5b048cfee71,"Cantrell, Alexander and Higgins",Saint Vincent and the Grenadines,Retail,74.89,40,Regulatory Issue,Low,30,37128.17,55.94,4832.75,16358.67
+1f7387c6-385d-4e10-8fe1-cd87e55e635d,Lutz Group,Tajikistan,Automotive,94.71,53,Cyber Attack,High,76,2548750.34,92.31,298193.98,195998.9
+0f4010da-b97d-4507-ae49-407f1e464fad,Chambers Ltd,Turks and Caicos Islands,Pharmaceuticals,97.88,66,Cyber Attack,High,114,2416269.65,74.63,434579.32,613007.61
+af1d6158-a698-4525-8222-158bfe2dc99a,"Martin, Williams and Johns",Myanmar,Electronics,76.15,4,Supplier Bankruptcy,Low,2,25900.71,74.69,1772.58,6555.47
+5bc5430e-e57c-48d9-8f8b-f9d12de7a292,Hoffman PLC,Micronesia,Electronics,90.45,94,Supplier Bankruptcy,Medium,64,430600.66,54.93,85096.18,194071.72
+6cdc6a8f-dfc3-4c8d-ae02-4c4460fb4ed4,Welch Inc,Turks and Caicos Islands,Food & Beverage,96.89,13,Natural Disaster,Medium,47,192827.2,61.89,10893.38,73486.45
+4d57affd-d445-4e3a-95f1-ed48011469db,Gonzalez-Johnson,Macao,Food & Beverage,77.71,76,Port Congestion,Low,22,22244.21,76.31,3595.09,5269.65
+251ec4de-ec55-49f5-8323-7eed7d7f25d2,Patterson-Brown,Gibraltar,Retail,90.5,39,Raw Material Shortage,Low,18,45222.76,93.31,4510.04,3025.4
+c85bd989-a8f9-4e26-b809-e30f22858518,"Grimes, Frederick and Farmer",Samoa,Food & Beverage,75.97,57,Cyber Attack,Low,20,37057.48,94.87,6410.35,1901.05
+d2dc44fc-916a-4593-aeeb-14ebbdc0de41,"Lopez, Mays and Smith",Holy See (Vatican City State),Food & Beverage,75.76,99,Cyber Attack,High,32,3998847.83,51.12,311991.89,1954636.82
+b6b3a580-804f-458a-9eea-7631bb8a6dbd,Thompson-Wall,Guam,Electronics,78.28,87,Port Congestion,High,65,1147091.74,75.08,141205.08,285855.26
+7f8bea05-382e-4215-8ecf-8e3fb07efeb8,"Acevedo, Reyes and Conner",El Salvador,Pharmaceuticals,73.37,28,Labor Strike,Low,23,35281.07,80.09,1985.02,7024.46
+5fc9d371-2a2e-4442-9a4c-ef97620ce417,"Warner, Gomez and Johnson",Peru,Food & Beverage,95.6,78,Supplier Bankruptcy,Low,14,39007.97,65.72,7757.6,13371.93
+b8930c27-1f76-4ec7-a57b-ec753dbe3a2a,"Macdonald, Gutierrez and Gray",French Southern Territories,Pharmaceuticals,70.85,68,Port Congestion,Medium,21,365445.52,79.06,44744.32,76524.29
+64c610f6-be95-463d-a1b4-72d1c6b50a22,"Hale, Thompson and Cohen",Benin,Automotive,75.63,43,Raw Material Shortage,Low,19,12921.3,84.2,1353.94,2041.57
+062e35db-7378-4a68-a87c-e1c9f50fd5d2,James and Sons,Australia,Food & Beverage,77.96,70,Regulatory Issue,Medium,125,262759.16,74.37,18838.58,67345.17
+9a76d990-78be-4902-a0f3-fb4d57087a65,"Huerta, Powell and Martin",Nepal,Electronics,77.81,6,Labor Strike,High,19,2284493.24,71.5,358365.87,651080.57
+9a7e2fef-3dea-439a-ac32-0f4ccdd53f7a,"Barnes, Hess and Matthews",Gambia,Food & Beverage,86.55,52,Raw Material Shortage,Low,5,33928.11,73.34,2522.44,9045.23
+e59c4943-1ecf-4123-9fae-8a9d2e0a5b5d,Barker Inc,Turkmenistan,Electronics,95.27,30,Supplier Bankruptcy,Medium,14,263952.81,62.28,28555.52,99563.0
+913d4fda-c879-424f-a885-f6199741fe61,Barber-Johnson,Japan,Retail,92.15,79,Supplier Bankruptcy,Low,3,45803.62,99.89,3229.62,50.38
+27d68e5f-fe05-41cf-bb31-9368c4e598b4,Kline and Sons,Morocco,Automotive,77.63,10,Raw Material Shortage,Low,8,28363.99,91.68,1782.41,2359.88
